@@ -1,0 +1,657 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Project ToolsVersion="14.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAnimation\stdafx.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Solution_Win64\Code\CryEngine\CryAnimation\CryAnimation_character_instance_uber_0.cpp">
+      <Filter>UBER FILES</Filter>
+    </ClCompile>
+    <ClCompile Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Solution_Win64\Code\CryEngine\CryAnimation\CryAnimation_character_instance_uber_1.cpp">
+      <Filter>UBER FILES</Filter>
+    </ClCompile>
+    <ClCompile Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Solution_Win64\Code\CryEngine\CryAnimation\CryAnimation_character_instance_uber_2.cpp">
+      <Filter>UBER FILES</Filter>
+    </ClCompile>
+    <ClCompile Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Solution_Win64\Code\CryEngine\CryAnimation\CryAnimation_character_instance_uber_3.cpp">
+      <Filter>UBER FILES</Filter>
+    </ClCompile>
+    <ClCompile Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Solution_Win64\Code\CryEngine\CryAnimation\CryAnimation_character_manager_uber.cpp">
+      <Filter>UBER FILES</Filter>
+    </ClCompile>
+    <ClCompile Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Solution_Win64\Code\CryEngine\CryAnimation\CryAnimation_uber_0.cpp">
+      <Filter>UBER FILES</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAnimation\TransitionQueue.cpp">
+      <Filter>CharacterInstance</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAnimation\AttachmentManager.cpp">
+      <Filter>CharacterInstance</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAnimation\CharacterInstance.cpp">
+      <Filter>CharacterInstance</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAnimation\CharacterInstance_Render.cpp">
+      <Filter>CharacterInstance</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAnimation\SkeletonEffectManager.cpp">
+      <Filter>CharacterInstance</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAnimation\AttachmentManager.h">
+      <Filter>CharacterInstance</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAnimation\CharacterInstance.h">
+      <Filter>CharacterInstance</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAnimation\SkeletonEffectManager.h">
+      <Filter>CharacterInstance</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAnimation\TransitionQueue.h">
+      <Filter>CharacterInstance</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAnimation\CharacterInstanceProcessing.cpp">
+      <Filter>CharacterInstance</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAnimation\CharacterInstanceProcessing.h">
+      <Filter>CharacterInstance</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAnimation\AttachmentBase.cpp">
+      <Filter>CharacterInstance\Attachment</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAnimation\AttachmentBase.h">
+      <Filter>CharacterInstance\Attachment</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAnimation\AttachmentBone.cpp">
+      <Filter>CharacterInstance\Attachment</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAnimation\AttachmentBone.h">
+      <Filter>CharacterInstance\Attachment</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAnimation\AttachmentFace.cpp">
+      <Filter>CharacterInstance\Attachment</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAnimation\AttachmentFace.h">
+      <Filter>CharacterInstance\Attachment</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAnimation\AttachmentProxy.cpp">
+      <Filter>CharacterInstance\Attachment</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAnimation\AttachmentProxy.h">
+      <Filter>CharacterInstance\Attachment</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAnimation\AttachmentSkin.cpp">
+      <Filter>CharacterInstance\Attachment</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAnimation\AttachmentSkin.h">
+      <Filter>CharacterInstance\Attachment</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAnimation\SocketSimulation.cpp">
+      <Filter>CharacterInstance\Attachment</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAnimation\SocketSimulation.h">
+      <Filter>CharacterInstance\Attachment</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAnimation\AttachmentPRow.cpp">
+      <Filter>CharacterInstance\Attachment</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAnimation\AttachmentPRow.h">
+      <Filter>CharacterInstance\Attachment</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAnimation\AttachmentVCloth.h">
+      <Filter>CharacterInstance\Attachment</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAnimation\AttachmentVCloth.cpp">
+      <Filter>CharacterInstance\Attachment</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAnimation\AttachmentVClothPreProcess.h">
+      <Filter>CharacterInstance\Attachment</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAnimation\AttachmentVClothPreProcess.cpp">
+      <Filter>CharacterInstance\Attachment</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAnimation\AttachmentMerger.h">
+      <Filter>CharacterInstance\Attachment</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAnimation\AttachmentMerger.cpp">
+      <Filter>CharacterInstance\Attachment</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAnimation\AttachmentMerged.h">
+      <Filter>CharacterInstance\Attachment</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAnimation\AttachmentMerged.cpp">
+      <Filter>CharacterInstance\Attachment</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAnimation\ParametricSampler.cpp">
+      <Filter>CharacterInstance\SkeletonAnim</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAnimation\SkeletonAnim_Locator.cpp">
+      <Filter>CharacterInstance\SkeletonAnim</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAnimation\SkeletonAnim.cpp">
+      <Filter>CharacterInstance\SkeletonAnim</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAnimation\SkeletonAnim_BlendMan.cpp">
+      <Filter>CharacterInstance\SkeletonAnim</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAnimation\SkeletonAnim_Commands.cpp">
+      <Filter>CharacterInstance\SkeletonAnim</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAnimation\SkeletonAnim_Params.cpp">
+      <Filter>CharacterInstance\SkeletonAnim</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAnimation\SkeletonAnim_Queue.cpp">
+      <Filter>CharacterInstance\SkeletonAnim</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAnimation\ParametricSampler.h">
+      <Filter>CharacterInstance\SkeletonAnim</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAnimation\SkeletonAnim.h">
+      <Filter>CharacterInstance\SkeletonAnim</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAnimation\SkeletonPose.cpp">
+      <Filter>CharacterInstance\SkeletonPose</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAnimation\SkeletonPose_Debug.cpp">
+      <Filter>CharacterInstance\SkeletonPose</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAnimation\SkeletonPose_Process.cpp">
+      <Filter>CharacterInstance\SkeletonPose</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAnimation\SkeletonPose.h">
+      <Filter>CharacterInstance\SkeletonPose</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAnimation\PathExpansion.cpp">
+      <Filter>CharacterInstance\FacialAnimation</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAnimation\CryModEffMorph.cpp">
+      <Filter>CharacterInstance\FacialAnimation</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAnimation\FacialAnimation\EyeMovementFaceAnim.cpp">
+      <Filter>CharacterInstance\FacialAnimation</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAnimation\FacialAnimation\FaceAnimation.cpp">
+      <Filter>CharacterInstance\FacialAnimation</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAnimation\FacialAnimation\FaceAnimSequence.cpp">
+      <Filter>CharacterInstance\FacialAnimation</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAnimation\FacialAnimation\FaceChannelKeyCleanup.cpp">
+      <Filter>CharacterInstance\FacialAnimation</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAnimation\FacialAnimation\FaceChannelSmoothing.cpp">
+      <Filter>CharacterInstance\FacialAnimation</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAnimation\FacialAnimation\FaceEffector.cpp">
+      <Filter>CharacterInstance\FacialAnimation</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAnimation\FacialAnimation\FaceEffectorLibrary.cpp">
+      <Filter>CharacterInstance\FacialAnimation</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAnimation\FacialAnimation\FaceJoystick.cpp">
+      <Filter>CharacterInstance\FacialAnimation</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAnimation\FacialAnimation\FaceState.cpp">
+      <Filter>CharacterInstance\FacialAnimation</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAnimation\FacialAnimation\FacialInstance.cpp">
+      <Filter>CharacterInstance\FacialAnimation</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAnimation\FacialAnimation\FacialModel.cpp">
+      <Filter>CharacterInstance\FacialAnimation</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAnimation\FacialAnimation\LipSync.cpp">
+      <Filter>CharacterInstance\FacialAnimation</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAnimation\PathExpansion.h">
+      <Filter>CharacterInstance\FacialAnimation</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAnimation\CryModEffMorph.h">
+      <Filter>CharacterInstance\FacialAnimation</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAnimation\FacialAnimation\EyeMovementFaceAnim.h">
+      <Filter>CharacterInstance\FacialAnimation</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAnimation\FacialAnimation\FaceAnimation.h">
+      <Filter>CharacterInstance\FacialAnimation</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAnimation\FacialAnimation\FaceAnimSequence.h">
+      <Filter>CharacterInstance\FacialAnimation</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAnimation\FacialAnimation\FaceChannelKeyCleanup.h">
+      <Filter>CharacterInstance\FacialAnimation</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAnimation\FacialAnimation\FaceChannelSmoothing.h">
+      <Filter>CharacterInstance\FacialAnimation</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAnimation\FacialAnimation\FaceEffector.h">
+      <Filter>CharacterInstance\FacialAnimation</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAnimation\FacialAnimation\FaceEffectorLibrary.h">
+      <Filter>CharacterInstance\FacialAnimation</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAnimation\FacialAnimation\FaceJoystick.h">
+      <Filter>CharacterInstance\FacialAnimation</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAnimation\FacialAnimation\FaceState.h">
+      <Filter>CharacterInstance\FacialAnimation</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAnimation\FacialAnimation\FacialInstance.h">
+      <Filter>CharacterInstance\FacialAnimation</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAnimation\FacialAnimation\FacialModel.h">
+      <Filter>CharacterInstance\FacialAnimation</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAnimation\FacialAnimation\LipSync.h">
+      <Filter>CharacterInstance\FacialAnimation</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAnimation\PoseModifier\DirectionalBlender.cpp">
+      <Filter>CharacterInstance\PoseModifier</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAnimation\PoseModifier\FeetLock.cpp">
+      <Filter>CharacterInstance\PoseModifier</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAnimation\PoseModifier\LimbIk.cpp">
+      <Filter>CharacterInstance\PoseModifier</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAnimation\PoseModifier\OperatorQueue.cpp">
+      <Filter>CharacterInstance\PoseModifier</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAnimation\PoseModifier\PoseAlignerChain.cpp">
+      <Filter>CharacterInstance\PoseModifier</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAnimation\PoseModifier\PoseBlenderAim.cpp">
+      <Filter>CharacterInstance\PoseModifier</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAnimation\PoseModifier\PoseBlenderLook.cpp">
+      <Filter>CharacterInstance\PoseModifier</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAnimation\PoseModifier\PoseMatching.cpp">
+      <Filter>CharacterInstance\PoseModifier</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAnimation\PoseModifier\PoseModifierHelper.cpp">
+      <Filter>CharacterInstance\PoseModifier</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAnimation\PoseModifier\PoseModifier.cpp">
+      <Filter>CharacterInstance\PoseModifier</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAnimation\PoseModifier\PoseModifierDesc.cpp">
+      <Filter>CharacterInstance\PoseModifier</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAnimation\PoseModifier\Recoil.cpp">
+      <Filter>CharacterInstance\PoseModifier</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAnimation\PoseModifier\DirectionalBlender.h">
+      <Filter>CharacterInstance\PoseModifier</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAnimation\PoseModifier\OperatorQueue.h">
+      <Filter>CharacterInstance\PoseModifier</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAnimation\PoseModifier\PoseAlignerChain.h">
+      <Filter>CharacterInstance\PoseModifier</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAnimation\PoseModifier\PoseMatching.h">
+      <Filter>CharacterInstance\PoseModifier</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAnimation\PoseModifier\FeetLock.h">
+      <Filter>CharacterInstance\PoseModifier</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAnimation\PoseModifier\LimbIk.h">
+      <Filter>CharacterInstance\PoseModifier</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAnimation\PoseModifier\PoseBlenderAim.h">
+      <Filter>CharacterInstance\PoseModifier</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAnimation\PoseModifier\PoseBlenderLook.h">
+      <Filter>CharacterInstance\PoseModifier</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAnimation\PoseModifier\PoseModifierHelper.h">
+      <Filter>CharacterInstance\PoseModifier</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAnimation\PoseModifier\PoseModifier.h">
+      <Filter>CharacterInstance\PoseModifier</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAnimation\PoseModifier\PoseModifierDesc.h">
+      <Filter>CharacterInstance\PoseModifier</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAnimation\PoseModifier\Recoil.h">
+      <Filter>CharacterInstance\PoseModifier</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAnimation\Command_Buffer.cpp">
+      <Filter>CharacterInstance\Command</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAnimation\Command_Commands.cpp">
+      <Filter>CharacterInstance\Command</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAnimation\Command_Buffer.h">
+      <Filter>CharacterInstance\Command</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAnimation\Command_Commands.h">
+      <Filter>CharacterInstance\Command</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAnimation\Skeleton.cpp">
+      <Filter>CharacterInstance\Skeleton</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAnimation\Skeleton.h">
+      <Filter>CharacterInstance\Skeleton</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAnimation\SkeletonPhysics.cpp">
+      <Filter>CharacterInstance\SkeletonPhysics</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAnimation\SkeletonPhysics_Jobs.cpp">
+      <Filter>CharacterInstance\SkeletonPhysics</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAnimation\SkeletonPhysics.h">
+      <Filter>CharacterInstance\SkeletonPhysics</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAnimation\AnimEventList.cpp">
+      <Filter>CharacterManager</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAnimation\LoaderSKIN.cpp">
+      <Filter>CharacterManager</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAnimation\AnimEventLoader.cpp">
+      <Filter>CharacterManager</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAnimation\CharacterManager.cpp">
+      <Filter>CharacterManager</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAnimation\LoaderCGA.cpp">
+      <Filter>CharacterManager</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAnimation\LoaderCHR.cpp">
+      <Filter>CharacterManager</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAnimation\LoaderDBA.cpp">
+      <Filter>CharacterManager</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAnimation\LoaderTCB.cpp">
+      <Filter>CharacterManager</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAnimation\ParamLoader.cpp">
+      <Filter>CharacterManager</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAnimation\AnimEventList.h">
+      <Filter>CharacterManager</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAnimation\AnimEventLoader.h">
+      <Filter>CharacterManager</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAnimation\CharacterManager.h">
+      <Filter>CharacterManager</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAnimation\LoaderCGA.h">
+      <Filter>CharacterManager</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAnimation\LoaderCHR.h">
+      <Filter>CharacterManager</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAnimation\LoaderDBA.h">
+      <Filter>CharacterManager</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAnimation\LoaderTCB.h">
+      <Filter>CharacterManager</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAnimation\ParamLoader.h">
+      <Filter>CharacterManager</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAnimation\AnimationManager.cpp">
+      <Filter>CharacterManager\AnimLoader</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAnimation\ControllerPQ.cpp">
+      <Filter>CharacterManager\AnimLoader</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAnimation\ControllerPQLog.cpp">
+      <Filter>CharacterManager\AnimLoader</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAnimation\ControllerTCB.cpp">
+      <Filter>CharacterManager\AnimLoader</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAnimation\GlobalAnimationHeaderAIM.cpp">
+      <Filter>CharacterManager\AnimLoader</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAnimation\GlobalAnimationHeaderCAF.cpp">
+      <Filter>CharacterManager\AnimLoader</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAnimation\GlobalAnimationHeaderLMG.cpp">
+      <Filter>CharacterManager\AnimLoader</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAnimation\AnimationManager.h">
+      <Filter>CharacterManager\AnimLoader</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAnimation\Controller.h">
+      <Filter>CharacterManager\AnimLoader</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAnimation\ControllerOpt.h">
+      <Filter>CharacterManager\AnimLoader</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAnimation\ControllerPQ.h">
+      <Filter>CharacterManager\AnimLoader</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAnimation\ControllerPQLog.h">
+      <Filter>CharacterManager\AnimLoader</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAnimation\ControllerTCB.h">
+      <Filter>CharacterManager\AnimLoader</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAnimation\GlobalAnimationHeader.h">
+      <Filter>CharacterManager\AnimLoader</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAnimation\GlobalAnimationHeaderAIM.h">
+      <Filter>CharacterManager\AnimLoader</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAnimation\GlobalAnimationHeaderCAF.h">
+      <Filter>CharacterManager\AnimLoader</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAnimation\GlobalAnimationHeaderLMG.h">
+      <Filter>CharacterManager\AnimLoader</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAnimation\QuatQuantization.h">
+      <Filter>CharacterManager\AnimLoader</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAnimation\ModelMesh_DebugPC.cpp">
+      <Filter>CharacterManager\ModelRig</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAnimation\ModelSkin.cpp">
+      <Filter>CharacterManager\ModelRig</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAnimation\Model.cpp">
+      <Filter>CharacterManager\ModelRig</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAnimation\ModelAnimationSet.cpp">
+      <Filter>CharacterManager\ModelRig</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAnimation\ModelMesh.cpp">
+      <Filter>CharacterManager\ModelRig</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAnimation\ModelSkin.h">
+      <Filter>CharacterManager\ModelRig</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAnimation\Model.h">
+      <Filter>CharacterManager\ModelRig</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAnimation\ModelAnimationSet.h">
+      <Filter>CharacterManager\ModelRig</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAnimation\ModelMesh.h">
+      <Filter>CharacterManager\ModelRig</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAnimation\DrawHelper.cpp">
+      <Filter>Common</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAnimation\AnimationBase.cpp">
+      <Filter>Common</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAnimation\cvars.cpp">
+      <Filter>Common</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAnimation\DrawHelper.h">
+      <Filter>Common</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAnimation\AnimationBase.h">
+      <Filter>Common</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAnimation\cvars.h">
+      <Filter>Common</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAnimation\Helper.h">
+      <Filter>Common</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAnimation\resource.h">
+      <Filter>Common</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAnimation\ControllerDefragHeap.cpp">
+      <Filter>Memory</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAnimation\Memory\Memory.cpp">
+      <Filter>Memory</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAnimation\Memory\PolymorphicAllocator.cpp">
+      <Filter>Memory</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAnimation\Memory\Pool.cpp">
+      <Filter>Memory</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAnimation\Memory\PoolAllocator.cpp">
+      <Filter>Memory</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAnimation\ControllerDefragHeap.h">
+      <Filter>Memory</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAnimation\Memory\AlignedAllocator.h">
+      <Filter>Memory</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAnimation\Memory\IAllocator.h">
+      <Filter>Memory</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAnimation\Memory\Memory.h">
+      <Filter>Memory</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAnimation\Memory\MultiBuffer.h">
+      <Filter>Memory</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAnimation\Memory\PolymorphicAllocator.h">
+      <Filter>Memory</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAnimation\Memory\Pool.h">
+      <Filter>Memory</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAnimation\Memory\PoolAllocator.h">
+      <Filter>Memory</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAnimation\Vertex\VertexAnimation.cpp">
+      <Filter>Vertex</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAnimation\Vertex\VertexCommand.cpp">
+      <Filter>Vertex</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAnimation\Vertex\VertexCommandBuffer.cpp">
+      <Filter>Vertex</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAnimation\Vertex\VertexData.cpp">
+      <Filter>Vertex</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAnimation\Vertex\VertexAnimation.h">
+      <Filter>Vertex</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAnimation\Vertex\VertexCommand.h">
+      <Filter>Vertex</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAnimation\Vertex\VertexCommandBuffer.h">
+      <Filter>Vertex</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAnimation\Vertex\VertexData.h">
+      <Filter>Vertex</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAnimation\stdafx.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAnimation\Serialization\SerializationCommon.h">
+      <Filter>Serialization</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAnimation\CMakeLists.txt" />
+    <CustomBuild Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Solution_Win64\CMakeFiles\8979228d939824aecae1b68b9af24ca0\CryAnimation_character_instance_uber_0.cpp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Solution_Win64\CMakeFiles\8979228d939824aecae1b68b9af24ca0\CryAnimation_character_instance_uber_1.cpp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Solution_Win64\CMakeFiles\8979228d939824aecae1b68b9af24ca0\CryAnimation_character_instance_uber_2.cpp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Solution_Win64\CMakeFiles\8979228d939824aecae1b68b9af24ca0\CryAnimation_character_instance_uber_3.cpp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Solution_Win64\CMakeFiles\8979228d939824aecae1b68b9af24ca0\CryAnimation_character_manager_uber.cpp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Solution_Win64\CMakeFiles\8979228d939824aecae1b68b9af24ca0\CryAnimation_uber_0.cpp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CharacterManager\AnimLoader">
+      <UniqueIdentifier>{049E4D35-249F-3E2B-AD7A-5DBB77F77160}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="CharacterManager\ModelRig">
+      <UniqueIdentifier>{B353C4B3-C31C-3B8D-93C1-687C4F6470BB}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{526B85B2-5AEE-326C-94F9-8CC53F3E69CC}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{A920178B-E5D3-330D-9F11-D51D6B14FD2A}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{EAD2A386-A4DF-3C43-AE8D-8F52F97F005B}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="CharacterInstance">
+      <UniqueIdentifier>{ECFD0B36-F9FA-3367-94E1-3CF4EC33EF0D}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="CharacterManager">
+      <UniqueIdentifier>{68B619EF-7EEC-3AFF-B647-3D44BCD00E9F}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Common">
+      <UniqueIdentifier>{E9024419-CC82-3841-89D0-C990BFB89A26}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Memory">
+      <UniqueIdentifier>{D95B8DB7-4665-30FD-84DB-DA51F21BF7E8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Vertex">
+      <UniqueIdentifier>{250BB945-DEB0-3C23-B09A-6C16483883E0}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Serialization">
+      <UniqueIdentifier>{A025831D-1B5D-338C-94DD-6436C8294AE3}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="UBER FILES">
+      <UniqueIdentifier>{A9EDE9CC-9CBB-3D2A-9C04-66ECEC4A3DAF}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="CharacterInstance\Attachment">
+      <UniqueIdentifier>{2A747891-18AD-3CA0-B9A5-14D6A8A5983A}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="CharacterInstance\SkeletonAnim">
+      <UniqueIdentifier>{059EC8BB-648F-3F3B-BD01-1BA4FA3C0179}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="CharacterInstance\SkeletonPose">
+      <UniqueIdentifier>{F9C4C621-5A0E-3342-A1FA-D9E0FF2E6126}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="CharacterInstance\FacialAnimation">
+      <UniqueIdentifier>{41EA8B79-680A-38F6-9A08-20071A26B94D}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="CharacterInstance\PoseModifier">
+      <UniqueIdentifier>{C5B2B936-5822-33F7-BB10-AEC1E2AE6FB0}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="CharacterInstance\Command">
+      <UniqueIdentifier>{E31774E2-EEB5-3A93-97FB-A98E1DBAD9D9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="CharacterInstance\Skeleton">
+      <UniqueIdentifier>{F6DF8F9A-5378-39C6-A30D-C9E36547C8F8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="CharacterInstance\SkeletonPhysics">
+      <UniqueIdentifier>{3898F369-ABA0-3B8D-9C0A-23F1AC388872}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

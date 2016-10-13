@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Project ToolsVersion="14.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\SDKs\md5\md5.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\SDKs\md5\md5.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\Libs\md5\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{526B85B2-5AEE-326C-94F9-8CC53F3E69CC}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{A920178B-E5D3-330D-9F11-D51D6B14FD2A}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,494 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Project ToolsVersion="14.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Engine\Shaders\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Engine\Shaders\HWScripts\CryFX\DeferredCaustics.cfx">
+      <Filter>CryFX\Deferred</Filter>
+    </None>
+    <None Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Engine\Shaders\HWScripts\CryFX\DeferredRain.cfx">
+      <Filter>CryFX\Deferred</Filter>
+    </None>
+    <None Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Engine\Shaders\HWScripts\CryFX\DeferredShading.cfx">
+      <Filter>CryFX\Deferred</Filter>
+    </None>
+    <None Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Engine\Shaders\HWScripts\CryFX\VolumeLighting.cfi">
+      <Filter>CryFX\Deferred</Filter>
+    </None>
+    <None Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Engine\Shaders\HWScripts\CryFX\Clouds.cfx">
+      <Filter>CryFX\Effects\Atmospheric</Filter>
+    </None>
+    <None Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Engine\Shaders\HWScripts\CryFX\Common.cfx">
+      <Filter>CryFX\Effects\Atmospheric</Filter>
+    </None>
+    <None Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Engine\Shaders\HWScripts\CryFX\DistanceClouds.cfx">
+      <Filter>CryFX\Effects\Atmospheric</Filter>
+    </None>
+    <None Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Engine\Shaders\HWScripts\CryFX\FogVolume.cfx">
+      <Filter>CryFX\Effects\Atmospheric</Filter>
+    </None>
+    <None Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Engine\Shaders\HWScripts\CryFX\GeometryBeam.cfx">
+      <Filter>CryFX\Effects\Atmospheric</Filter>
+    </None>
+    <None Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Engine\Shaders\HWScripts\CryFX\LightBeam.cfx">
+      <Filter>CryFX\Effects\Atmospheric</Filter>
+    </None>
+    <None Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Engine\Shaders\HWScripts\CryFX\Sky.cfx">
+      <Filter>CryFX\Effects\Atmospheric</Filter>
+    </None>
+    <None Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Engine\Shaders\HWScripts\CryFX\SkyHDR.cfx">
+      <Filter>CryFX\Effects\Atmospheric</Filter>
+    </None>
+    <None Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Engine\Shaders\HWScripts\CryFX\Stars.cfx">
+      <Filter>CryFX\Effects\Atmospheric</Filter>
+    </None>
+    <None Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Engine\Shaders\HWScripts\CryFX\TemplBeamProc.cfx">
+      <Filter>CryFX\Effects\Atmospheric</Filter>
+    </None>
+    <None Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Engine\Shaders\HWScripts\CryFX\VolumeObject.cfx">
+      <Filter>CryFX\Effects\Atmospheric</Filter>
+    </None>
+    <None Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Engine\Shaders\HWScripts\CryFX\Monitor.cfx">
+      <Filter>CryFX\Effects\Game</Filter>
+    </None>
+    <None Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Engine\Shaders\HWScripts\CryFX\Scopes.cfx">
+      <Filter>CryFX\Effects\Game</Filter>
+    </None>
+    <None Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Engine\Shaders\HWScripts\CryFX\LensOptics.cfx">
+      <Filter>CryFX\Effects\Optic</Filter>
+    </None>
+    <None Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Engine\Shaders\HWScripts\CryFX\Light.cfx">
+      <Filter>CryFX\Effects\Optic</Filter>
+    </None>
+    <None Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Engine\Shaders\HWScripts\CryFX\Water.cfx">
+      <Filter>CryFX\Effects\Water</Filter>
+    </None>
+    <None Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Engine\Shaders\HWScripts\CryFX\WaterCausticsPass.cfi">
+      <Filter>CryFX\Effects\Water</Filter>
+    </None>
+    <None Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Engine\Shaders\HWScripts\CryFX\Waterfall.cfx">
+      <Filter>CryFX\Effects\Water</Filter>
+    </None>
+    <None Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Engine\Shaders\HWScripts\CryFX\WaterFogVolume.cfx">
+      <Filter>CryFX\Effects\Water</Filter>
+    </None>
+    <None Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Engine\Shaders\HWScripts\CryFX\WaterOceanBottom.cfx">
+      <Filter>CryFX\Effects\Water</Filter>
+    </None>
+    <None Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Engine\Shaders\HWScripts\CryFX\WaterReflectionsPass.cfi">
+      <Filter>CryFX\Effects\Water</Filter>
+    </None>
+    <None Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Engine\Shaders\HWScripts\CryFX\WaterVolume.cfx">
+      <Filter>CryFX\Effects\Water</Filter>
+    </None>
+    <None Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Engine\Shaders\DistanceClouds.ext">
+      <Filter>CryFX\Extensions</Filter>
+    </None>
+    <None Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Engine\Shaders\Eye.ext">
+      <Filter>CryFX\Extensions</Filter>
+    </None>
+    <None Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Engine\Shaders\GeometryBeam.ext">
+      <Filter>CryFX\Extensions</Filter>
+    </None>
+    <None Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Engine\Shaders\Glass.ext">
+      <Filter>CryFX\Extensions</Filter>
+    </None>
+    <None Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Engine\Shaders\Hair.ext">
+      <Filter>CryFX\Extensions</Filter>
+    </None>
+    <None Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Engine\Shaders\HumanSkin.ext">
+      <Filter>CryFX\Extensions</Filter>
+    </None>
+    <None Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Engine\Shaders\Illum.ext">
+      <Filter>CryFX\Extensions</Filter>
+    </None>
+    <None Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Engine\Shaders\LightBeam.ext">
+      <Filter>CryFX\Extensions</Filter>
+    </None>
+    <None Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Engine\Shaders\Monitor.ext">
+      <Filter>CryFX\Extensions</Filter>
+    </None>
+    <None Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Engine\Shaders\ParticleImposter.ext">
+      <Filter>CryFX\Extensions</Filter>
+    </None>
+    <None Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Engine\Shaders\Particles.ext">
+      <Filter>CryFX\Extensions</Filter>
+    </None>
+    <None Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Engine\Shaders\RunTime.ext">
+      <Filter>CryFX\Extensions</Filter>
+    </None>
+    <None Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Engine\Shaders\Scopes.ext">
+      <Filter>CryFX\Extensions</Filter>
+    </None>
+    <None Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Engine\Shaders\ShadowMaskGen.ext">
+      <Filter>CryFX\Extensions</Filter>
+    </None>
+    <None Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Engine\Shaders\SketchTerrain.ext">
+      <Filter>CryFX\Extensions</Filter>
+    </None>
+    <None Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Engine\Shaders\SkyHDR.ext">
+      <Filter>CryFX\Extensions</Filter>
+    </None>
+    <None Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Engine\Shaders\TemplBeamProc.ext">
+      <Filter>CryFX\Extensions</Filter>
+    </None>
+    <None Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Engine\Shaders\Terrain.ext">
+      <Filter>CryFX\Extensions</Filter>
+    </None>
+    <None Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Engine\Shaders\Vegetation.ext">
+      <Filter>CryFX\Extensions</Filter>
+    </None>
+    <None Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Engine\Shaders\VolumeObject.ext">
+      <Filter>CryFX\Extensions</Filter>
+    </None>
+    <None Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Engine\Shaders\Water.ext">
+      <Filter>CryFX\Extensions</Filter>
+    </None>
+    <None Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Engine\Shaders\Waterfall.ext">
+      <Filter>CryFX\Extensions</Filter>
+    </None>
+    <None Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Engine\Shaders\WaterVolume.ext">
+      <Filter>CryFX\Extensions</Filter>
+    </None>
+    <None Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Engine\Shaders\HWScripts\CryFX\Eye.cfx">
+      <Filter>CryFX\ForwardShading</Filter>
+    </None>
+    <None Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Engine\Shaders\HWScripts\CryFX\FarTreeSprites.cfx">
+      <Filter>CryFX\ForwardShading</Filter>
+    </None>
+    <None Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Engine\Shaders\HWScripts\CryFX\Glass.cfx">
+      <Filter>CryFX\ForwardShading</Filter>
+    </None>
+    <None Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Engine\Shaders\HWScripts\CryFX\Hair.cfx">
+      <Filter>CryFX\ForwardShading</Filter>
+    </None>
+    <None Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Engine\Shaders\HWScripts\CryFX\HumanSkin.cfx">
+      <Filter>CryFX\ForwardShading</Filter>
+    </None>
+    <None Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Engine\Shaders\HWScripts\CryFX\Illum.cfx">
+      <Filter>CryFX\ForwardShading</Filter>
+    </None>
+    <None Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Engine\Shaders\HWScripts\CryFX\Terrain.cfx">
+      <Filter>CryFX\ForwardShading</Filter>
+    </None>
+    <None Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Engine\Shaders\HWScripts\CryFX\Vegetation.cfx">
+      <Filter>CryFX\ForwardShading</Filter>
+    </None>
+    <None Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Engine\Shaders\HWScripts\CryFX\Sketch.cfx">
+      <Filter>CryFX\ForwardShading\Deprecated</Filter>
+    </None>
+    <None Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Engine\Shaders\HWScripts\CryFX\SketchTerrain.cfx">
+      <Filter>CryFX\ForwardShading\Deprecated</Filter>
+    </None>
+    <None Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Engine\Shaders\HWScripts\CryFX\fragLib.cfi">
+      <Filter>CryFX\ForwardShading\Include</Filter>
+    </None>
+    <None Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Engine\Shaders\HWScripts\CryFX\HumanSkinTess.cfi">
+      <Filter>CryFX\ForwardShading\Include</Filter>
+    </None>
+    <None Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Engine\Shaders\HWScripts\CryFX\IllumTess.cfi">
+      <Filter>CryFX\ForwardShading\Include</Filter>
+    </None>
+    <None Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Engine\Shaders\HWScripts\CryFX\TiledShading.cfi">
+      <Filter>CryFX\ForwardShading\Include</Filter>
+    </None>
+    <None Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Engine\Shaders\HWScripts\CryFX\VegetationTess.cfi">
+      <Filter>CryFX\ForwardShading\Include</Filter>
+    </None>
+    <None Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Engine\Shaders\HWScripts\CryFX\vertexLib.cfi">
+      <Filter>CryFX\ForwardShading\Include</Filter>
+    </None>
+    <None Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Engine\Shaders\HWScripts\CryFX\CloakLayer.cfx">
+      <Filter>CryFX\ForwardShading\Layers</Filter>
+    </None>
+    <None Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Engine\Shaders\HWScripts\CryFX\HumanSkinValidations.cfi">
+      <Filter>CryFX\ForwardShading\Validations</Filter>
+    </None>
+    <None Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Engine\Shaders\HWScripts\CryFX\IllumValidations.cfi">
+      <Filter>CryFX\ForwardShading\Validations</Filter>
+    </None>
+    <None Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Engine\Shaders\HWScripts\CryFX\VegetationValidations.cfi">
+      <Filter>CryFX\ForwardShading\Validations</Filter>
+    </None>
+    <None Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Engine\Shaders\HWScripts\CryFX\Common.cfi">
+      <Filter>CryFX\Include</Filter>
+    </None>
+    <None Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Engine\Shaders\HWScripts\CryFX\FXConstantDefs.cfi">
+      <Filter>CryFX\Include</Filter>
+    </None>
+    <None Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Engine\Shaders\HWScripts\CryFX\FXSamplerDefs.cfi">
+      <Filter>CryFX\Include</Filter>
+    </None>
+    <None Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Engine\Shaders\HWScripts\CryFX\FXStreamDefs.cfi">
+      <Filter>CryFX\Include</Filter>
+    </None>
+    <None Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Engine\Shaders\HWScripts\CryFX\LightVolumes.cfi">
+      <Filter>CryFX\Include</Filter>
+    </None>
+    <None Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Engine\Shaders\HWScripts\CryFX\MeshBaker.cfi">
+      <Filter>CryFX\Include</Filter>
+    </None>
+    <None Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Engine\Shaders\HWScripts\CryFX\ModificatorTC.cfi">
+      <Filter>CryFX\Include</Filter>
+    </None>
+    <None Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Engine\Shaders\HWScripts\CryFX\ModificatorVT.cfi">
+      <Filter>CryFX\Include</Filter>
+    </None>
+    <None Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Engine\Shaders\HWScripts\CryFX\shadeLib.cfi">
+      <Filter>CryFX\Include</Filter>
+    </None>
+    <None Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Engine\Shaders\HWScripts\CryFX\VolumetricFog.cfi">
+      <Filter>CryFX\Include</Filter>
+    </None>
+    <None Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Engine\Shaders\HWScripts\CryFX\CommonDebugPass.cfi">
+      <Filter>CryFX\Include\CommonPasses</Filter>
+    </None>
+    <None Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Engine\Shaders\HWScripts\CryFX\CommonEffectLayerPass.cfi">
+      <Filter>CryFX\Include\CommonPasses</Filter>
+    </None>
+    <None Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Engine\Shaders\HWScripts\CryFX\CommonMotionBlurPass.cfi">
+      <Filter>CryFX\Include\CommonPasses</Filter>
+    </None>
+    <None Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Engine\Shaders\HWScripts\CryFX\CommonMotionBlurPassTess.cfi">
+      <Filter>CryFX\Include\CommonPasses</Filter>
+    </None>
+    <None Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Engine\Shaders\HWScripts\CryFX\CommonShadowGenPassTess.cfi">
+      <Filter>CryFX\Include\CommonPasses</Filter>
+    </None>
+    <None Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Engine\Shaders\HWScripts\CryFX\CommonTessellation.cfi">
+      <Filter>CryFX\Include\CommonPasses</Filter>
+    </None>
+    <None Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Engine\Shaders\HWScripts\CryFX\CommonViewsPass.cfi">
+      <Filter>CryFX\Include\CommonPasses</Filter>
+    </None>
+    <None Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Engine\Shaders\HWScripts\CryFX\CommonViewsPassTess.cfi">
+      <Filter>CryFX\Include\CommonPasses</Filter>
+    </None>
+    <None Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Engine\Shaders\HWScripts\CryFX\CommonZPass.cfi">
+      <Filter>CryFX\Include\CommonPasses</Filter>
+    </None>
+    <None Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Engine\Shaders\HWScripts\CryFX\CommonZPassTess.cfi">
+      <Filter>CryFX\Include\CommonPasses</Filter>
+    </None>
+    <None Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Engine\Shaders\HWScripts\CryFX\CommonZPrePass.cfi">
+      <Filter>CryFX\Include\CommonPasses</Filter>
+    </None>
+    <None Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Engine\Shaders\HWScripts\CryFX\AuxGeom.cfx">
+      <Filter>CryFX\Misc</Filter>
+    </None>
+    <None Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Engine\Shaders\HWScripts\CryFX\Debug.cfx">
+      <Filter>CryFX\Misc</Filter>
+    </None>
+    <None Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Engine\Shaders\HWScripts\CryFX\DebugLight.cfx">
+      <Filter>CryFX\Misc</Filter>
+    </None>
+    <None Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Engine\Shaders\HWScripts\CryFX\DXTCompress.cfx">
+      <Filter>CryFX\Misc</Filter>
+    </None>
+    <None Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Engine\Shaders\HWScripts\CryFX\FallBack.cfx">
+      <Filter>CryFX\Misc</Filter>
+    </None>
+    <None Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Engine\Shaders\HWScripts\CryFX\FixedPipelineEmu.cfx">
+      <Filter>CryFX\Misc</Filter>
+    </None>
+    <None Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Engine\Shaders\HWScripts\CryFX\Helper.cfx">
+      <Filter>CryFX\Misc</Filter>
+    </None>
+    <None Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Engine\Shaders\HWScripts\CryFX\MeshBakerDilate.cfx">
+      <Filter>CryFX\Misc</Filter>
+    </None>
+    <None Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Engine\Shaders\HWScripts\CryFX\NoDraw.cfx">
+      <Filter>CryFX\Misc</Filter>
+    </None>
+    <None Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Engine\Shaders\HWScripts\CryFX\OcclusionTest.cfx">
+      <Filter>CryFX\Misc</Filter>
+    </None>
+    <None Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Engine\Shaders\HWScripts\CryFX\ReferenceImage.cfx">
+      <Filter>CryFX\Misc</Filter>
+    </None>
+    <None Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Engine\Shaders\HWScripts\CryFX\Scaleform.cfx">
+      <Filter>CryFX\Misc</Filter>
+    </None>
+    <None Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Engine\Shaders\HWScripts\CryFX\SoftOcclusionQuery.cfx">
+      <Filter>CryFX\Misc</Filter>
+    </None>
+    <None Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Engine\Shaders\HWScripts\CryFX\ComputeSkinning.cfx">
+      <Filter>CryFX\Misc</Filter>
+    </None>
+    <None Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Engine\Shaders\HWScripts\CryFX\ComputeSkinningUtils.cfi">
+      <Filter>CryFX\Misc</Filter>
+    </None>
+    <None Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Engine\Shaders\HWScripts\CryFX\ParticleImposter.cfx">
+      <Filter>CryFX\Particles</Filter>
+    </None>
+    <None Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Engine\Shaders\HWScripts\CryFX\Particles.cfx">
+      <Filter>CryFX\Particles</Filter>
+    </None>
+    <None Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Engine\Shaders\HWScripts\CryFX\GpuMergeSort.cfx">
+      <Filter>CryFX\Particles</Filter>
+    </None>
+    <None Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Engine\Shaders\HWScripts\CryFX\GpuParticles.cfx">
+      <Filter>CryFX\Particles</Filter>
+    </None>
+    <None Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Engine\Shaders\HWScripts\CryFX\GpuPhysicsParticleFluid.cfx">
+      <Filter>CryFX\Particles</Filter>
+    </None>
+    <None Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Engine\Shaders\HWScripts\CryFX\Particles.cfi">
+      <Filter>CryFX\Particles\Include</Filter>
+    </None>
+    <None Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Engine\Shaders\HWScripts\CryFX\ParticlesCustomPass.cfi">
+      <Filter>CryFX\Particles\Include</Filter>
+    </None>
+    <None Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Engine\Shaders\HWScripts\CryFX\ParticlesShadowPass.cfi">
+      <Filter>CryFX\Particles\Include</Filter>
+    </None>
+    <None Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Engine\Shaders\HWScripts\CryFX\ParticleVT.cfi">
+      <Filter>CryFX\Particles\Include</Filter>
+    </None>
+    <None Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Engine\Shaders\HWScripts\CryFX\GpuCollisionScreenSpace.cfi">
+      <Filter>CryFX\Particles\Include</Filter>
+    </None>
+    <None Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Engine\Shaders\HWScripts\CryFX\GpuMergeSort.cfi">
+      <Filter>CryFX\Particles\Include</Filter>
+    </None>
+    <None Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Engine\Shaders\HWScripts\CryFX\GpuParticlesCommon.cfi">
+      <Filter>CryFX\Particles\Include</Filter>
+    </None>
+    <None Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Engine\Shaders\HWScripts\CryFX\GpuRand.cfi">
+      <Filter>CryFX\Particles\Include</Filter>
+    </None>
+    <None Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Engine\Shaders\HWScripts\CryFX\GpuSNoise.cfi">
+      <Filter>CryFX\Particles\Include</Filter>
+    </None>
+    <None Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Engine\Shaders\HWScripts\CryFX\DepthOfField.cfx">
+      <Filter>CryFX\PostProcess</Filter>
+    </None>
+    <None Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Engine\Shaders\HWScripts\CryFX\HDRPostProcess.cfx">
+      <Filter>CryFX\PostProcess</Filter>
+    </None>
+    <None Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Engine\Shaders\HWScripts\CryFX\Hud3D.cfx">
+      <Filter>CryFX\PostProcess</Filter>
+    </None>
+    <None Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Engine\Shaders\HWScripts\CryFX\MotionBlur.cfx">
+      <Filter>CryFX\PostProcess</Filter>
+    </None>
+    <None Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Engine\Shaders\HWScripts\CryFX\PostAA.cfx">
+      <Filter>CryFX\PostProcess</Filter>
+    </None>
+    <None Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Engine\Shaders\HWScripts\CryFX\PostEffects.cfx">
+      <Filter>CryFX\PostProcess</Filter>
+    </None>
+    <None Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Engine\Shaders\HWScripts\CryFX\PostEffectsGame.cfx">
+      <Filter>CryFX\PostProcess</Filter>
+    </None>
+    <None Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Engine\Shaders\HWScripts\CryFX\PostEffectsRenderModes.cfx">
+      <Filter>CryFX\PostProcess</Filter>
+    </None>
+    <None Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Engine\Shaders\HWScripts\CryFX\Stereo.cfx">
+      <Filter>CryFX\PostProcess</Filter>
+    </None>
+    <None Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Engine\Shaders\HWScripts\CryFX\Sunshafts.cfx">
+      <Filter>CryFX\PostProcess</Filter>
+    </None>
+    <None Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Engine\Shaders\HWScripts\CryFX\PostEffectsLib.cfi">
+      <Filter>CryFX\PostProcess\Include</Filter>
+    </None>
+    <None Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Engine\Shaders\HWScripts\CryFX\CommonSVO.cfi">
+      <Filter>CryFX\SVO</Filter>
+    </None>
+    <None Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Engine\Shaders\HWScripts\CryFX\Total_Illumination.cfx">
+      <Filter>CryFX\SVO</Filter>
+    </None>
+    <None Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Engine\Shaders\HWScripts\CryFX\AmbientOcclusion.cfx">
+      <Filter>CryFX\Shadows</Filter>
+    </None>
+    <None Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Engine\Shaders\HWScripts\CryFX\ShadowBlur.cfx">
+      <Filter>CryFX\Shadows</Filter>
+    </None>
+    <None Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Engine\Shaders\HWScripts\CryFX\ShadowMaskGen.cfx">
+      <Filter>CryFX\Shadows</Filter>
+    </None>
+    <None Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Engine\Shaders\HWScripts\CryFX\CommonShadowGenPass.cfi">
+      <Filter>CryFX\Shadows\Include</Filter>
+    </None>
+    <None Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Engine\Shaders\HWScripts\CryFX\DeferredShadows.cfi">
+      <Filter>CryFX\Shadows\Include</Filter>
+    </None>
+    <None Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Engine\Shaders\HWScripts\CryFX\ShadowCommon.cfi">
+      <Filter>CryFX\Shadows\Include</Filter>
+    </None>
+    <None Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Engine\Shaders\ShaderProfiles.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CryFX\ForwardShading\Deprecated">
+      <UniqueIdentifier>{C1EC7E06-C151-3884-866A-1F8E8BE3F0E1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="CryFX\ForwardShading\Include">
+      <UniqueIdentifier>{B3DF95C4-4D9F-3D8A-9E9D-47C702521C5B}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="CryFX\ForwardShading\Layers">
+      <UniqueIdentifier>{8E4DA8ED-E084-3BF8-A732-BFB2E97B990E}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="CryFX\ForwardShading\Validations">
+      <UniqueIdentifier>{6A4F9AE7-8E38-3A1B-9803-2C7A94B5EE4F}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="CryFX\Effects\Atmospheric">
+      <UniqueIdentifier>{558FC663-3DA6-3E38-A105-D80F80CDBF75}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="CryFX\Effects\Game">
+      <UniqueIdentifier>{DD5E5333-85E2-30A4-8247-B2A0D87D36F4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="CryFX\Effects\Optic">
+      <UniqueIdentifier>{92D6B1A2-0E50-31E0-BEAA-1775D19364CF}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="CryFX\Effects\Water">
+      <UniqueIdentifier>{6F40F675-4EBE-3BF9-861D-CDB84C91A2FD}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="CryFX">
+      <UniqueIdentifier>{F959D56A-B2C9-3832-8186-A8B8FB0449DF}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="CryFX\Deferred">
+      <UniqueIdentifier>{230747EE-56D1-357C-80B8-15D69F8232DE}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="CryFX\Effects">
+      <UniqueIdentifier>{EC3612C1-C87C-3D47-ADA5-58D686D8E03A}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="CryFX\Extensions">
+      <UniqueIdentifier>{7B718796-4655-34D4-8CA3-E097DC7BCA6D}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="CryFX\ForwardShading">
+      <UniqueIdentifier>{B6ECABCE-11BD-300D-A416-F075DDE9B6E0}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="CryFX\Include">
+      <UniqueIdentifier>{6DDF2DE1-523B-3CD3-8D37-52F3902F98FB}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="CryFX\Misc">
+      <UniqueIdentifier>{6CCAB5A2-0878-3F42-A2A5-CFFE419B0E0B}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="CryFX\Particles">
+      <UniqueIdentifier>{D472527A-56C0-314E-A49A-D494205D332A}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="CryFX\PostProcess">
+      <UniqueIdentifier>{A74D382A-8084-3C81-A77D-46E1FFCA345F}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="CryFX\SVO">
+      <UniqueIdentifier>{8BCAF5B8-A7C6-30BB-A3B8-9E45E933DCAC}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="CryFX\Shadows">
+      <UniqueIdentifier>{35772423-051A-3EAD-82C7-E0CC109CBA01}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="CryFX\Include\CommonPasses">
+      <UniqueIdentifier>{A16F7547-D268-36BF-AEE0-BD47C8E02287}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="CryFX\Particles\Include">
+      <UniqueIdentifier>{2CA7E748-6C08-3B81-AFC1-1222D6661F94}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="CryFX\PostProcess\Include">
+      <UniqueIdentifier>{3ECBF5FD-A333-32CE-937A-5EA3C2FA505B}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="CryFX\Shadows\Include">
+      <UniqueIdentifier>{777003F2-4B36-3E10-828B-F350A69699F6}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

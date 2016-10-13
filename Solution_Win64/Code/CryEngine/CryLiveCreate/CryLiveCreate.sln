@@ -1,0 +1,66 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ALL_BUILD", "ALL_BUILD.vcxproj", "{99672324-F990-3863-A367-34D4AA9D33D4}"
+	ProjectSection(ProjectDependencies) = postProject
+		{73A41A22-8590-3ED9-8B94-4CE65924FFCB} = {73A41A22-8590-3ED9-8B94-4CE65924FFCB}
+		{7D820597-797F-39B7-9EE8-09D91A4C9D86} = {7D820597-797F-39B7-9EE8-09D91A4C9D86}
+	EndProjectSection
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "CryLiveCreate", "CryLiveCreate.vcxproj", "{73A41A22-8590-3ED9-8B94-4CE65924FFCB}"
+	ProjectSection(ProjectDependencies) = postProject
+		{7D820597-797F-39B7-9EE8-09D91A4C9D86} = {7D820597-797F-39B7-9EE8-09D91A4C9D86}
+	EndProjectSection
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "INSTALL", "INSTALL.vcxproj", "{6BE29E76-F8ED-3ACB-8E84-A6DE2D2AF581}"
+	ProjectSection(ProjectDependencies) = postProject
+		{99672324-F990-3863-A367-34D4AA9D33D4} = {99672324-F990-3863-A367-34D4AA9D33D4}
+		{7D820597-797F-39B7-9EE8-09D91A4C9D86} = {7D820597-797F-39B7-9EE8-09D91A4C9D86}
+	EndProjectSection
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ZERO_CHECK", "..\..\..\\ZERO_CHECK.vcxproj", "{7D820597-797F-39B7-9EE8-09D91A4C9D86}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "CMakePredefinedTargets", "CMakePredefinedTargets", "{38C509BE-22ED-325E-9F76-1FDDEAFFE58C}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "CryEngine", "CryEngine", "{8286E1F3-EC9B-3D2D-AD3D-745980DDC386}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Profile|x64 = Profile|x64
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{99672324-F990-3863-A367-34D4AA9D33D4}.Debug|x64.ActiveCfg = Debug|x64
+		{99672324-F990-3863-A367-34D4AA9D33D4}.Debug|x64.Build.0 = Debug|x64
+		{99672324-F990-3863-A367-34D4AA9D33D4}.Profile|x64.ActiveCfg = Profile|x64
+		{99672324-F990-3863-A367-34D4AA9D33D4}.Profile|x64.Build.0 = Profile|x64
+		{99672324-F990-3863-A367-34D4AA9D33D4}.Release|x64.ActiveCfg = Release|x64
+		{99672324-F990-3863-A367-34D4AA9D33D4}.Release|x64.Build.0 = Release|x64
+		{73A41A22-8590-3ED9-8B94-4CE65924FFCB}.Debug|x64.ActiveCfg = Debug|x64
+		{73A41A22-8590-3ED9-8B94-4CE65924FFCB}.Debug|x64.Build.0 = Debug|x64
+		{73A41A22-8590-3ED9-8B94-4CE65924FFCB}.Profile|x64.ActiveCfg = Profile|x64
+		{73A41A22-8590-3ED9-8B94-4CE65924FFCB}.Profile|x64.Build.0 = Profile|x64
+		{73A41A22-8590-3ED9-8B94-4CE65924FFCB}.Release|x64.ActiveCfg = Release|x64
+		{73A41A22-8590-3ED9-8B94-4CE65924FFCB}.Release|x64.Build.0 = Release|x64
+		{6BE29E76-F8ED-3ACB-8E84-A6DE2D2AF581}.Debug|x64.ActiveCfg = Debug|x64
+		{6BE29E76-F8ED-3ACB-8E84-A6DE2D2AF581}.Profile|x64.ActiveCfg = Profile|x64
+		{6BE29E76-F8ED-3ACB-8E84-A6DE2D2AF581}.Release|x64.ActiveCfg = Release|x64
+		{7D820597-797F-39B7-9EE8-09D91A4C9D86}.Debug|x64.ActiveCfg = Debug|x64
+		{7D820597-797F-39B7-9EE8-09D91A4C9D86}.Debug|x64.Build.0 = Debug|x64
+		{7D820597-797F-39B7-9EE8-09D91A4C9D86}.Profile|x64.ActiveCfg = Profile|x64
+		{7D820597-797F-39B7-9EE8-09D91A4C9D86}.Profile|x64.Build.0 = Profile|x64
+		{7D820597-797F-39B7-9EE8-09D91A4C9D86}.Release|x64.ActiveCfg = Release|x64
+		{7D820597-797F-39B7-9EE8-09D91A4C9D86}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{6BE29E76-F8ED-3ACB-8E84-A6DE2D2AF581} = {38C509BE-22ED-325E-9F76-1FDDEAFFE58C}
+		{7D820597-797F-39B7-9EE8-09D91A4C9D86} = {38C509BE-22ED-325E-9F76-1FDDEAFFE58C}
+		{73A41A22-8590-3ED9-8B94-4CE65924FFCB} = {8286E1F3-EC9B-3D2D-AD3D-745980DDC386}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+	EndGlobalSection
+	GlobalSection(ExtensibilityAddIns) = postSolution
+	EndGlobalSection
+EndGlobal

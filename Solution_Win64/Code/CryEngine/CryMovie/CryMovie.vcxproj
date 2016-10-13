@@ -1,0 +1,447 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Project DefaultTargets="Build" ToolsVersion="14.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup Label="ProjectConfigurations">
+    <ProjectConfiguration Include="Debug|x64">
+      <Configuration>Debug</Configuration>
+      <Platform>x64</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="Profile|x64">
+      <Configuration>Profile</Configuration>
+      <Platform>x64</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="Release|x64">
+      <Configuration>Release</Configuration>
+      <Platform>x64</Platform>
+    </ProjectConfiguration>
+  </ItemGroup>
+  <PropertyGroup Label="Globals">
+    <ProjectGUID>{B9C7B03D-4F16-3F2F-8E53-130E58ED14A3}</ProjectGUID>
+    <WindowsTargetPlatformVersion>10.0.10586.0</WindowsTargetPlatformVersion>
+    <Keyword>Win32Proj</Keyword>
+    <Platform>x64</Platform>
+    <ProjectName>CryMovie</ProjectName>
+  </PropertyGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|x64'" Label="Configuration">
+    <ConfigurationType>DynamicLibrary</ConfigurationType>
+    <UseOfMfc>false</UseOfMfc>
+    <CharacterSet>MultiByte</CharacterSet>
+    <PlatformToolset>v140</PlatformToolset>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Profile|x64'" Label="Configuration">
+    <ConfigurationType>DynamicLibrary</ConfigurationType>
+    <UseOfMfc>false</UseOfMfc>
+    <CharacterSet>MultiByte</CharacterSet>
+    <PlatformToolset>v140</PlatformToolset>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|x64'" Label="Configuration">
+    <ConfigurationType>DynamicLibrary</ConfigurationType>
+    <UseOfMfc>false</UseOfMfc>
+    <CharacterSet>MultiByte</CharacterSet>
+    <PlatformToolset>v140</PlatformToolset>
+  </PropertyGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.props" />
+  <ImportGroup Label="ExtensionSettings">
+  </ImportGroup>
+  <ImportGroup Label="PropertySheets">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <PropertyGroup Label="UserMacros" >
+  </PropertyGroup>
+  <PropertyGroup>
+      <_ProjectFileVersion>10.0.20506.1</_ProjectFileVersion>
+      <OutDir Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\bin\win_x64\</OutDir>
+      <IntDir Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">CryMovie.dir\Debug\</IntDir>
+      <TargetName Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">CryMovie</TargetName>
+      <TargetExt Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">.dll</TargetExt>
+      <LinkIncremental Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</LinkIncremental>
+      <GenerateManifest Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</GenerateManifest>
+      <OutDir Condition="'$(Configuration)|$(Platform)'=='Profile|x64'">I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\bin\win_x64\</OutDir>
+      <IntDir Condition="'$(Configuration)|$(Platform)'=='Profile|x64'">CryMovie.dir\Profile\</IntDir>
+      <TargetName Condition="'$(Configuration)|$(Platform)'=='Profile|x64'">CryMovie</TargetName>
+      <TargetExt Condition="'$(Configuration)|$(Platform)'=='Profile|x64'">.dll</TargetExt>
+      <LinkIncremental Condition="'$(Configuration)|$(Platform)'=='Profile|x64'">true</LinkIncremental>
+      <GenerateManifest Condition="'$(Configuration)|$(Platform)'=='Profile|x64'">true</GenerateManifest>
+      <OutDir Condition="'$(Configuration)|$(Platform)'=='Release|x64'">I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\bin\win_x64\</OutDir>
+      <IntDir Condition="'$(Configuration)|$(Platform)'=='Release|x64'">CryMovie.dir\Release\</IntDir>
+      <TargetName Condition="'$(Configuration)|$(Platform)'=='Release|x64'">CryMovie</TargetName>
+      <TargetExt Condition="'$(Configuration)|$(Platform)'=='Release|x64'">.dll</TargetExt>
+      <LinkIncremental Condition="'$(Configuration)|$(Platform)'=='Release|x64'">false</LinkIncremental>
+      <GenerateManifest Condition="'$(Configuration)|$(Platform)'=='Release|x64'">true</GenerateManifest>
+  </PropertyGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">
+    <ClCompile>
+      <AdditionalOptions> /Zm250 /utf-8 /Wv:18 /bigobj %(AdditionalOptions)</AdditionalOptions>
+      <AdditionalIncludeDirectories>I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\SDKs;I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryCommon;I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\SDKs\boost;I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\Libs\yasli;I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\SDKs\yasli;I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\SDKs\Brofiler;I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryMovie;I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <AssemblerListingLocation>Debug/</AssemblerListingLocation>
+      <BasicRuntimeChecks>EnableFastChecks</BasicRuntimeChecks>
+      <BufferSecurityCheck>true</BufferSecurityCheck>
+      <CallingConvention>Cdecl</CallingConvention>
+      <CompileAs>CompileAsCpp</CompileAs>
+      <DebugInformationFormat>ProgramDatabase</DebugInformationFormat>
+      <DisableSpecificWarnings>4251;4275</DisableSpecificWarnings>
+      <EnableEnhancedInstructionSet>AdvancedVectorExtensions</EnableEnhancedInstructionSet>
+      <ExceptionHandling>
+      </ExceptionHandling>
+      <FloatingPointModel>Fast</FloatingPointModel>
+      <ForceConformanceInForLoopScope>true</ForceConformanceInForLoopScope>
+      <FunctionLevelLinking>true</FunctionLevelLinking>
+      <InlineFunctionExpansion>Disabled</InlineFunctionExpansion>
+      <MultiProcessorCompilation>true</MultiProcessorCompilation>
+      <OmitFramePointers>false</OmitFramePointers>
+      <Optimization>Disabled</Optimization>
+      <PrecompiledHeader>NotUsing</PrecompiledHeader>
+      <RuntimeLibrary>MultiThreadedDebugDLL</RuntimeLibrary>
+      <RuntimeTypeInfo>false</RuntimeTypeInfo>
+      <StringPooling>true</StringPooling>
+      <WarningLevel>Level3</WarningLevel>
+      <PreprocessorDefinitions>WIN32;_WINDOWS;NO_WARN_MBCS_MFC_DEPRECATION;_DEBUG;CRY_FEATURE_SCALEFORM_HELPER;CODE_BASE_FOLDER="I:/Crytek/CRYENGINE Launcher/SourceCode/bigspring-cry/CRYENGINE/Code/";USE_BROFILER;CMAKE_INTDIR="Debug";CryMovie_EXPORTS;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <ObjectFileName>$(IntDir)</ObjectFileName>
+    </ClCompile>
+    <ResourceCompile>
+      <PreprocessorDefinitions>WIN32;_WINDOWS;NO_WARN_MBCS_MFC_DEPRECATION;_DEBUG;CRY_FEATURE_SCALEFORM_HELPER;CODE_BASE_FOLDER=\"I:/Crytek/CRYENGINE Launcher/SourceCode/bigspring-cry/CRYENGINE/Code/\";USE_BROFILER;CMAKE_INTDIR=\"Debug\";CryMovie_EXPORTS;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <AdditionalIncludeDirectories>I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\SDKs;I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryCommon;I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\SDKs\boost;I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\Libs\yasli;I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\SDKs\yasli;I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\SDKs\Brofiler;I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryMovie;I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+    </ResourceCompile>
+    <Midl>
+      <AdditionalIncludeDirectories>I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\SDKs;I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryCommon;I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\SDKs\boost;I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\Libs\yasli;I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\SDKs\yasli;I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\SDKs\Brofiler;I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryMovie;I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <OutputDirectory>$(ProjectDir)/$(IntDir)</OutputDirectory>
+      <HeaderFileName>%(Filename).h</HeaderFileName>
+      <TypeLibraryName>%(Filename).tlb</TypeLibraryName>
+      <InterfaceIdentifierFileName>%(Filename)_i.c</InterfaceIdentifierFileName>
+      <ProxyFileName>%(Filename)_p.c</ProxyFileName>
+    </Midl>
+    <Link>
+      <AdditionalOptions> /machine:x64 %(AdditionalOptions)</AdditionalOptions>
+      <AdditionalDependencies>kernel32.lib;user32.lib;gdi32.lib;winspool.lib;shell32.lib;ole32.lib;oleaut32.lib;uuid.lib;comdlg32.lib;advapi32.lib;Ntdll.lib;User32.lib;Advapi32.lib;Ntdll.lib;Ws2_32.lib;ProfilerCore64.lib;User32.lib;Advapi32.lib;Ws2_32.lib;ProfilerCore64.lib</AdditionalDependencies>
+      <AdditionalLibraryDirectories>I:/Crytek/CRYENGINE Launcher/SourceCode/bigspring-cry/CRYENGINE/Code/SDKs/Brofiler;I:/Crytek/CRYENGINE Launcher/SourceCode/bigspring-cry/CRYENGINE/Code/SDKs/Brofiler/$(Configuration);%(AdditionalLibraryDirectories)</AdditionalLibraryDirectories>
+      <GenerateDebugInformation>Debug</GenerateDebugInformation>
+      <IgnoreSpecificDefaultLibraries>%(IgnoreSpecificDefaultLibraries)</IgnoreSpecificDefaultLibraries>
+      <ImportLibrary>I:/Crytek/CRYENGINE Launcher/SourceCode/bigspring-cry/CRYENGINE/bin/win_x64/CryMovie.lib</ImportLibrary>
+      <ProgramDataBaseFile>I:/Crytek/CRYENGINE Launcher/SourceCode/bigspring-cry/CRYENGINE/bin/win_x64/CryMovie.pdb</ProgramDataBaseFile>
+      <SubSystem>Console</SubSystem>
+      <Version></Version>
+    </Link>
+    <ProjectReference>
+      <LinkLibraryDependencies>false</LinkLibraryDependencies>
+    </ProjectReference>
+  </ItemDefinitionGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Profile|x64'">
+    <ClCompile>
+      <AdditionalOptions> /Zm250 /utf-8 /Wv:18 %(AdditionalOptions)</AdditionalOptions>
+      <AdditionalIncludeDirectories>I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\SDKs;I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryCommon;I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\SDKs\boost;I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\Libs\yasli;I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\SDKs\yasli;I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\SDKs\Brofiler;I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryMovie;I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <AssemblerListingLocation>Profile/</AssemblerListingLocation>
+      <BufferSecurityCheck>false</BufferSecurityCheck>
+      <CallingConvention>Cdecl</CallingConvention>
+      <CompileAs>CompileAsCpp</CompileAs>
+      <DebugInformationFormat>ProgramDatabase</DebugInformationFormat>
+      <DisableSpecificWarnings>4251;4275</DisableSpecificWarnings>
+      <EnableEnhancedInstructionSet>AdvancedVectorExtensions</EnableEnhancedInstructionSet>
+      <ExceptionHandling>
+      </ExceptionHandling>
+      <FavorSizeOrSpeed>Speed</FavorSizeOrSpeed>
+      <FloatingPointModel>Fast</FloatingPointModel>
+      <ForceConformanceInForLoopScope>true</ForceConformanceInForLoopScope>
+      <FunctionLevelLinking>true</FunctionLevelLinking>
+      <InlineFunctionExpansion>AnySuitable</InlineFunctionExpansion>
+      <IntrinsicFunctions>true</IntrinsicFunctions>
+      <MultiProcessorCompilation>true</MultiProcessorCompilation>
+      <OmitFramePointers>false</OmitFramePointers>
+      <Optimization>Full</Optimization>
+      <PrecompiledHeader>NotUsing</PrecompiledHeader>
+      <RuntimeLibrary>MultiThreadedDLL</RuntimeLibrary>
+      <RuntimeTypeInfo>false</RuntimeTypeInfo>
+      <StringPooling>true</StringPooling>
+      <WarningLevel>Level3</WarningLevel>
+      <PreprocessorDefinitions>WIN32;_WINDOWS;NO_WARN_MBCS_MFC_DEPRECATION;NDEBUG;_PROFILE;CRY_FEATURE_SCALEFORM_HELPER;CODE_BASE_FOLDER="I:/Crytek/CRYENGINE Launcher/SourceCode/bigspring-cry/CRYENGINE/Code/";USE_BROFILER;CMAKE_INTDIR="Profile";CryMovie_EXPORTS;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <ObjectFileName>$(IntDir)</ObjectFileName>
+    </ClCompile>
+    <ResourceCompile>
+      <PreprocessorDefinitions>WIN32;_WINDOWS;NO_WARN_MBCS_MFC_DEPRECATION;NDEBUG;_PROFILE;CRY_FEATURE_SCALEFORM_HELPER;CODE_BASE_FOLDER=\"I:/Crytek/CRYENGINE Launcher/SourceCode/bigspring-cry/CRYENGINE/Code/\";USE_BROFILER;CMAKE_INTDIR=\"Profile\";CryMovie_EXPORTS;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <AdditionalIncludeDirectories>I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\SDKs;I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryCommon;I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\SDKs\boost;I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\Libs\yasli;I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\SDKs\yasli;I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\SDKs\Brofiler;I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryMovie;I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+    </ResourceCompile>
+    <Midl>
+      <AdditionalIncludeDirectories>I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\SDKs;I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryCommon;I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\SDKs\boost;I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\Libs\yasli;I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\SDKs\yasli;I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\SDKs\Brofiler;I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryMovie;I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <OutputDirectory>$(ProjectDir)/$(IntDir)</OutputDirectory>
+      <HeaderFileName>%(Filename).h</HeaderFileName>
+      <TypeLibraryName>%(Filename).tlb</TypeLibraryName>
+      <InterfaceIdentifierFileName>%(Filename)_i.c</InterfaceIdentifierFileName>
+      <ProxyFileName>%(Filename)_p.c</ProxyFileName>
+    </Midl>
+    <Link>
+      <AdditionalOptions> /machine:x64 %(AdditionalOptions)</AdditionalOptions>
+      <AdditionalDependencies>kernel32.lib;user32.lib;gdi32.lib;winspool.lib;shell32.lib;ole32.lib;oleaut32.lib;uuid.lib;comdlg32.lib;advapi32.lib;Ntdll.lib;User32.lib;Advapi32.lib;Ntdll.lib;Ws2_32.lib;ProfilerCore64.lib;User32.lib;Advapi32.lib;Ws2_32.lib;ProfilerCore64.lib</AdditionalDependencies>
+      <AdditionalLibraryDirectories>I:/Crytek/CRYENGINE Launcher/SourceCode/bigspring-cry/CRYENGINE/Code/SDKs/Brofiler;I:/Crytek/CRYENGINE Launcher/SourceCode/bigspring-cry/CRYENGINE/Code/SDKs/Brofiler/$(Configuration);%(AdditionalLibraryDirectories)</AdditionalLibraryDirectories>
+      <GenerateDebugInformation>Debug</GenerateDebugInformation>
+      <IgnoreSpecificDefaultLibraries>%(IgnoreSpecificDefaultLibraries)</IgnoreSpecificDefaultLibraries>
+      <ImportLibrary>I:/Crytek/CRYENGINE Launcher/SourceCode/bigspring-cry/CRYENGINE/bin/win_x64/CryMovie.lib</ImportLibrary>
+      <ProgramDataBaseFile>I:/Crytek/CRYENGINE Launcher/SourceCode/bigspring-cry/CRYENGINE/bin/win_x64/CryMovie.pdb</ProgramDataBaseFile>
+      <SubSystem>Console</SubSystem>
+      <Version></Version>
+    </Link>
+    <ProjectReference>
+      <LinkLibraryDependencies>false</LinkLibraryDependencies>
+    </ProjectReference>
+  </ItemDefinitionGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Release|x64'">
+    <ClCompile>
+      <AdditionalOptions> /Zm250 /utf-8 /Wv:18 %(AdditionalOptions)</AdditionalOptions>
+      <AdditionalIncludeDirectories>I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\SDKs;I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryCommon;I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\SDKs\boost;I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\Libs\yasli;I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\SDKs\yasli;I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\SDKs\Brofiler;I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryMovie;I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <AssemblerListingLocation>Release/</AssemblerListingLocation>
+      <BufferSecurityCheck>false</BufferSecurityCheck>
+      <CallingConvention>Cdecl</CallingConvention>
+      <CompileAs>CompileAsCpp</CompileAs>
+      <DisableSpecificWarnings>4251;4275</DisableSpecificWarnings>
+      <EnableEnhancedInstructionSet>AdvancedVectorExtensions</EnableEnhancedInstructionSet>
+      <ExceptionHandling>
+      </ExceptionHandling>
+      <FavorSizeOrSpeed>Speed</FavorSizeOrSpeed>
+      <FloatingPointModel>Fast</FloatingPointModel>
+      <ForceConformanceInForLoopScope>true</ForceConformanceInForLoopScope>
+      <FunctionLevelLinking>true</FunctionLevelLinking>
+      <InlineFunctionExpansion>AnySuitable</InlineFunctionExpansion>
+      <IntrinsicFunctions>true</IntrinsicFunctions>
+      <MultiProcessorCompilation>true</MultiProcessorCompilation>
+      <OmitFramePointers>false</OmitFramePointers>
+      <Optimization>Full</Optimization>
+      <PrecompiledHeader>NotUsing</PrecompiledHeader>
+      <RuntimeLibrary>MultiThreadedDLL</RuntimeLibrary>
+      <RuntimeTypeInfo>false</RuntimeTypeInfo>
+      <StringPooling>true</StringPooling>
+      <WarningLevel>Level3</WarningLevel>
+      <PreprocessorDefinitions>WIN32;_WINDOWS;NO_WARN_MBCS_MFC_DEPRECATION;NDEBUG;_RELEASE;PURE_CLIENT;CRY_FEATURE_SCALEFORM_HELPER;CODE_BASE_FOLDER="I:/Crytek/CRYENGINE Launcher/SourceCode/bigspring-cry/CRYENGINE/Code/";_PROFILE;USE_BROFILER;CMAKE_INTDIR="Release";CryMovie_EXPORTS;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <ObjectFileName>$(IntDir)</ObjectFileName>
+      <DebugInformationFormat></DebugInformationFormat>
+    </ClCompile>
+    <ResourceCompile>
+      <PreprocessorDefinitions>WIN32;_WINDOWS;NO_WARN_MBCS_MFC_DEPRECATION;NDEBUG;_RELEASE;PURE_CLIENT;CRY_FEATURE_SCALEFORM_HELPER;CODE_BASE_FOLDER=\"I:/Crytek/CRYENGINE Launcher/SourceCode/bigspring-cry/CRYENGINE/Code/\";_PROFILE;USE_BROFILER;CMAKE_INTDIR=\"Release\";CryMovie_EXPORTS;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <AdditionalIncludeDirectories>I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\SDKs;I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryCommon;I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\SDKs\boost;I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\Libs\yasli;I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\SDKs\yasli;I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\SDKs\Brofiler;I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryMovie;I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+    </ResourceCompile>
+    <Midl>
+      <AdditionalIncludeDirectories>I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\SDKs;I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryCommon;I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\SDKs\boost;I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\Libs\yasli;I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\SDKs\yasli;I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\SDKs\Brofiler;I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryMovie;I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <OutputDirectory>$(ProjectDir)/$(IntDir)</OutputDirectory>
+      <HeaderFileName>%(Filename).h</HeaderFileName>
+      <TypeLibraryName>%(Filename).tlb</TypeLibraryName>
+      <InterfaceIdentifierFileName>%(Filename)_i.c</InterfaceIdentifierFileName>
+      <ProxyFileName>%(Filename)_p.c</ProxyFileName>
+    </Midl>
+    <Link>
+      <AdditionalOptions> /machine:x64 %(AdditionalOptions)</AdditionalOptions>
+      <AdditionalDependencies>kernel32.lib;user32.lib;gdi32.lib;winspool.lib;shell32.lib;ole32.lib;oleaut32.lib;uuid.lib;comdlg32.lib;advapi32.lib;Ntdll.lib;User32.lib;Advapi32.lib;Ntdll.lib;Ws2_32.lib;ProfilerCore64.lib;User32.lib;Advapi32.lib;Ws2_32.lib;ProfilerCore64.lib</AdditionalDependencies>
+      <AdditionalLibraryDirectories>I:/Crytek/CRYENGINE Launcher/SourceCode/bigspring-cry/CRYENGINE/Code/SDKs/Brofiler;I:/Crytek/CRYENGINE Launcher/SourceCode/bigspring-cry/CRYENGINE/Code/SDKs/Brofiler/$(Configuration);%(AdditionalLibraryDirectories)</AdditionalLibraryDirectories>
+      <GenerateDebugInformation>No</GenerateDebugInformation>
+      <IgnoreSpecificDefaultLibraries>%(IgnoreSpecificDefaultLibraries)</IgnoreSpecificDefaultLibraries>
+      <ImportLibrary>I:/Crytek/CRYENGINE Launcher/SourceCode/bigspring-cry/CRYENGINE/bin/win_x64/CryMovie.lib</ImportLibrary>
+      <ProgramDataBaseFile>I:/Crytek/CRYENGINE Launcher/SourceCode/bigspring-cry/CRYENGINE/bin/win_x64/CryMovie.pdb</ProgramDataBaseFile>
+      <SubSystem>Console</SubSystem>
+      <Version></Version>
+    </Link>
+    <ProjectReference>
+      <LinkLibraryDependencies>false</LinkLibraryDependencies>
+    </ProjectReference>
+  </ItemDefinitionGroup>
+  <ItemGroup>
+    <CustomBuild Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryMovie\CMakeLists.txt">
+      <Message Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">Building Custom Rule I:/Crytek/CRYENGINE Launcher/SourceCode/bigspring-cry/CRYENGINE/Code/CryEngine/CryMovie/CMakeLists.txt</Message>
+      <Command Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">setlocal
+..\..\..\..\Tools\CMake\Win32\bin\cmake.exe "-HI:/Crytek/CRYENGINE Launcher/SourceCode/bigspring-cry/CRYENGINE" "-BI:/Crytek/CRYENGINE Launcher/SourceCode/bigspring-cry/CRYENGINE/Solution_Win64" --check-stamp-file "I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Solution_Win64\Code\CryEngine\CryMovie\CMakeFiles\generate.stamp"
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal &amp; call :cmErrorLevel %errorlevel% &amp; goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd</Command>
+      <AdditionalInputs Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">I:/Crytek/CRYENGINE Launcher/SourceCode/bigspring-cry/CRYENGINE/Code/CryEngine/CryMovie/CMakeLists.txt;I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryMovie\CMakeLists.txt;I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryMovie\CMakeLists.txt;%(AdditionalInputs)</AdditionalInputs>
+      <Outputs Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Solution_Win64\Code\CryEngine\CryMovie\CMakeFiles\generate.stamp</Outputs>
+      <LinkObjects Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">false</LinkObjects>
+      <Message Condition="'$(Configuration)|$(Platform)'=='Profile|x64'">Building Custom Rule I:/Crytek/CRYENGINE Launcher/SourceCode/bigspring-cry/CRYENGINE/Code/CryEngine/CryMovie/CMakeLists.txt</Message>
+      <Command Condition="'$(Configuration)|$(Platform)'=='Profile|x64'">setlocal
+..\..\..\..\Tools\CMake\Win32\bin\cmake.exe "-HI:/Crytek/CRYENGINE Launcher/SourceCode/bigspring-cry/CRYENGINE" "-BI:/Crytek/CRYENGINE Launcher/SourceCode/bigspring-cry/CRYENGINE/Solution_Win64" --check-stamp-file "I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Solution_Win64\Code\CryEngine\CryMovie\CMakeFiles\generate.stamp"
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal &amp; call :cmErrorLevel %errorlevel% &amp; goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd</Command>
+      <AdditionalInputs Condition="'$(Configuration)|$(Platform)'=='Profile|x64'">I:/Crytek/CRYENGINE Launcher/SourceCode/bigspring-cry/CRYENGINE/Code/CryEngine/CryMovie/CMakeLists.txt;I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryMovie\CMakeLists.txt;I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryMovie\CMakeLists.txt;%(AdditionalInputs)</AdditionalInputs>
+      <Outputs Condition="'$(Configuration)|$(Platform)'=='Profile|x64'">I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Solution_Win64\Code\CryEngine\CryMovie\CMakeFiles\generate.stamp</Outputs>
+      <LinkObjects Condition="'$(Configuration)|$(Platform)'=='Profile|x64'">false</LinkObjects>
+      <Message Condition="'$(Configuration)|$(Platform)'=='Release|x64'">Building Custom Rule I:/Crytek/CRYENGINE Launcher/SourceCode/bigspring-cry/CRYENGINE/Code/CryEngine/CryMovie/CMakeLists.txt</Message>
+      <Command Condition="'$(Configuration)|$(Platform)'=='Release|x64'">setlocal
+..\..\..\..\Tools\CMake\Win32\bin\cmake.exe "-HI:/Crytek/CRYENGINE Launcher/SourceCode/bigspring-cry/CRYENGINE" "-BI:/Crytek/CRYENGINE Launcher/SourceCode/bigspring-cry/CRYENGINE/Solution_Win64" --check-stamp-file "I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Solution_Win64\Code\CryEngine\CryMovie\CMakeFiles\generate.stamp"
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal &amp; call :cmErrorLevel %errorlevel% &amp; goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd</Command>
+      <AdditionalInputs Condition="'$(Configuration)|$(Platform)'=='Release|x64'">I:/Crytek/CRYENGINE Launcher/SourceCode/bigspring-cry/CRYENGINE/Code/CryEngine/CryMovie/CMakeLists.txt;I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryMovie\CMakeLists.txt;I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryMovie\CMakeLists.txt;%(AdditionalInputs)</AdditionalInputs>
+      <Outputs Condition="'$(Configuration)|$(Platform)'=='Release|x64'">I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Solution_Win64\Code\CryEngine\CryMovie\CMakeFiles\generate.stamp</Outputs>
+      <LinkObjects Condition="'$(Configuration)|$(Platform)'=='Release|x64'">false</LinkObjects>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Solution_Win64\CMakeFiles\79973cc400f18cd8d0235d188919b7f7\CryMovie_uber_0.cpp.rule">
+      <Message Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">Generating CryMovie_uber_0.cpp</Message>
+      <Command Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">setlocal
+..\..\..\..\Tools\CMake\Win32\bin\cmake.exe "-DUBER_FILE=I:/Crytek/CRYENGINE Launcher/SourceCode/bigspring-cry/CRYENGINE/Solution_Win64/Code/CryEngine/CryMovie/CryMovie_uber_0.cpp" -DSRC_DIR="I:/Crytek/CRYENGINE Launcher/SourceCode/bigspring-cry/CRYENGINE/Code/CryEngine/CryMovie" -DSRC_FILES="AnimSequence.cpp,CryMovie.cpp,Movie.cpp,AnimSplineTrack.cpp,BoolTrack.cpp,CharacterTrack.cpp,CompoundSplineTrack.cpp,GotoTrack.cpp,LookAtTrack.cpp,TimeRangesTrack.cpp" -P "I:/Crytek/CRYENGINE Launcher/SourceCode/bigspring-cry/CRYENGINE/Tools/CMake/write_uber_file.cmake"
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal &amp; call :cmErrorLevel %errorlevel% &amp; goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd</Command>
+      <AdditionalInputs Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">I:/Crytek/CRYENGINE Launcher/SourceCode/bigspring-cry/CRYENGINE/Solution_Win64/CMakeFiles/79973cc400f18cd8d0235d188919b7f7/CryMovie_uber_0.cpp.rule;%(AdditionalInputs)</AdditionalInputs>
+      <Outputs Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Solution_Win64\Code\CryEngine\CryMovie\CryMovie_uber_0.cpp</Outputs>
+      <LinkObjects Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">false</LinkObjects>
+      <Message Condition="'$(Configuration)|$(Platform)'=='Profile|x64'">Generating CryMovie_uber_0.cpp</Message>
+      <Command Condition="'$(Configuration)|$(Platform)'=='Profile|x64'">setlocal
+..\..\..\..\Tools\CMake\Win32\bin\cmake.exe "-DUBER_FILE=I:/Crytek/CRYENGINE Launcher/SourceCode/bigspring-cry/CRYENGINE/Solution_Win64/Code/CryEngine/CryMovie/CryMovie_uber_0.cpp" -DSRC_DIR="I:/Crytek/CRYENGINE Launcher/SourceCode/bigspring-cry/CRYENGINE/Code/CryEngine/CryMovie" -DSRC_FILES="AnimSequence.cpp,CryMovie.cpp,Movie.cpp,AnimSplineTrack.cpp,BoolTrack.cpp,CharacterTrack.cpp,CompoundSplineTrack.cpp,GotoTrack.cpp,LookAtTrack.cpp,TimeRangesTrack.cpp" -P "I:/Crytek/CRYENGINE Launcher/SourceCode/bigspring-cry/CRYENGINE/Tools/CMake/write_uber_file.cmake"
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal &amp; call :cmErrorLevel %errorlevel% &amp; goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd</Command>
+      <AdditionalInputs Condition="'$(Configuration)|$(Platform)'=='Profile|x64'">I:/Crytek/CRYENGINE Launcher/SourceCode/bigspring-cry/CRYENGINE/Solution_Win64/CMakeFiles/79973cc400f18cd8d0235d188919b7f7/CryMovie_uber_0.cpp.rule;%(AdditionalInputs)</AdditionalInputs>
+      <Outputs Condition="'$(Configuration)|$(Platform)'=='Profile|x64'">I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Solution_Win64\Code\CryEngine\CryMovie\CryMovie_uber_0.cpp</Outputs>
+      <LinkObjects Condition="'$(Configuration)|$(Platform)'=='Profile|x64'">false</LinkObjects>
+      <Message Condition="'$(Configuration)|$(Platform)'=='Release|x64'">Generating CryMovie_uber_0.cpp</Message>
+      <Command Condition="'$(Configuration)|$(Platform)'=='Release|x64'">setlocal
+..\..\..\..\Tools\CMake\Win32\bin\cmake.exe "-DUBER_FILE=I:/Crytek/CRYENGINE Launcher/SourceCode/bigspring-cry/CRYENGINE/Solution_Win64/Code/CryEngine/CryMovie/CryMovie_uber_0.cpp" -DSRC_DIR="I:/Crytek/CRYENGINE Launcher/SourceCode/bigspring-cry/CRYENGINE/Code/CryEngine/CryMovie" -DSRC_FILES="AnimSequence.cpp,CryMovie.cpp,Movie.cpp,AnimSplineTrack.cpp,BoolTrack.cpp,CharacterTrack.cpp,CompoundSplineTrack.cpp,GotoTrack.cpp,LookAtTrack.cpp,TimeRangesTrack.cpp" -P "I:/Crytek/CRYENGINE Launcher/SourceCode/bigspring-cry/CRYENGINE/Tools/CMake/write_uber_file.cmake"
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal &amp; call :cmErrorLevel %errorlevel% &amp; goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd</Command>
+      <AdditionalInputs Condition="'$(Configuration)|$(Platform)'=='Release|x64'">I:/Crytek/CRYENGINE Launcher/SourceCode/bigspring-cry/CRYENGINE/Solution_Win64/CMakeFiles/79973cc400f18cd8d0235d188919b7f7/CryMovie_uber_0.cpp.rule;%(AdditionalInputs)</AdditionalInputs>
+      <Outputs Condition="'$(Configuration)|$(Platform)'=='Release|x64'">I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Solution_Win64\Code\CryEngine\CryMovie\CryMovie_uber_0.cpp</Outputs>
+      <LinkObjects Condition="'$(Configuration)|$(Platform)'=='Release|x64'">false</LinkObjects>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Solution_Win64\CMakeFiles\79973cc400f18cd8d0235d188919b7f7\CryMovie_uber_1.cpp.rule">
+      <Message Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">Generating CryMovie_uber_1.cpp</Message>
+      <Command Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">setlocal
+..\..\..\..\Tools\CMake\Win32\bin\cmake.exe "-DUBER_FILE=I:/Crytek/CRYENGINE Launcher/SourceCode/bigspring-cry/CRYENGINE/Solution_Win64/Code/CryEngine/CryMovie/CryMovie_uber_1.cpp" -DSRC_DIR="I:/Crytek/CRYENGINE Launcher/SourceCode/bigspring-cry/CRYENGINE/Code/CryEngine/CryMovie" -DSRC_FILES="AnimCameraNode.cpp,AnimNode.cpp,AnimPostFXNode.cpp,AnimScreenFaderNode.cpp,CommentNode.cpp,CVarNode.cpp,EntityNode.cpp,EventNode.cpp,LayerNode.cpp,MaterialNode.cpp,SceneNode.cpp,ScriptVarNode.cpp,AnimEnvironmentNode.cpp,ShadowsSetupNode.cpp,AnimGeomCacheNode.cpp,AudioNode.cpp,ScreenFaderTrack.cpp" -P "I:/Crytek/CRYENGINE Launcher/SourceCode/bigspring-cry/CRYENGINE/Tools/CMake/write_uber_file.cmake"
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal &amp; call :cmErrorLevel %errorlevel% &amp; goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd</Command>
+      <AdditionalInputs Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">I:/Crytek/CRYENGINE Launcher/SourceCode/bigspring-cry/CRYENGINE/Solution_Win64/CMakeFiles/79973cc400f18cd8d0235d188919b7f7/CryMovie_uber_1.cpp.rule;%(AdditionalInputs)</AdditionalInputs>
+      <Outputs Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Solution_Win64\Code\CryEngine\CryMovie\CryMovie_uber_1.cpp</Outputs>
+      <LinkObjects Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">false</LinkObjects>
+      <Message Condition="'$(Configuration)|$(Platform)'=='Profile|x64'">Generating CryMovie_uber_1.cpp</Message>
+      <Command Condition="'$(Configuration)|$(Platform)'=='Profile|x64'">setlocal
+..\..\..\..\Tools\CMake\Win32\bin\cmake.exe "-DUBER_FILE=I:/Crytek/CRYENGINE Launcher/SourceCode/bigspring-cry/CRYENGINE/Solution_Win64/Code/CryEngine/CryMovie/CryMovie_uber_1.cpp" -DSRC_DIR="I:/Crytek/CRYENGINE Launcher/SourceCode/bigspring-cry/CRYENGINE/Code/CryEngine/CryMovie" -DSRC_FILES="AnimCameraNode.cpp,AnimNode.cpp,AnimPostFXNode.cpp,AnimScreenFaderNode.cpp,CommentNode.cpp,CVarNode.cpp,EntityNode.cpp,EventNode.cpp,LayerNode.cpp,MaterialNode.cpp,SceneNode.cpp,ScriptVarNode.cpp,AnimEnvironmentNode.cpp,ShadowsSetupNode.cpp,AnimGeomCacheNode.cpp,AudioNode.cpp,ScreenFaderTrack.cpp" -P "I:/Crytek/CRYENGINE Launcher/SourceCode/bigspring-cry/CRYENGINE/Tools/CMake/write_uber_file.cmake"
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal &amp; call :cmErrorLevel %errorlevel% &amp; goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd</Command>
+      <AdditionalInputs Condition="'$(Configuration)|$(Platform)'=='Profile|x64'">I:/Crytek/CRYENGINE Launcher/SourceCode/bigspring-cry/CRYENGINE/Solution_Win64/CMakeFiles/79973cc400f18cd8d0235d188919b7f7/CryMovie_uber_1.cpp.rule;%(AdditionalInputs)</AdditionalInputs>
+      <Outputs Condition="'$(Configuration)|$(Platform)'=='Profile|x64'">I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Solution_Win64\Code\CryEngine\CryMovie\CryMovie_uber_1.cpp</Outputs>
+      <LinkObjects Condition="'$(Configuration)|$(Platform)'=='Profile|x64'">false</LinkObjects>
+      <Message Condition="'$(Configuration)|$(Platform)'=='Release|x64'">Generating CryMovie_uber_1.cpp</Message>
+      <Command Condition="'$(Configuration)|$(Platform)'=='Release|x64'">setlocal
+..\..\..\..\Tools\CMake\Win32\bin\cmake.exe "-DUBER_FILE=I:/Crytek/CRYENGINE Launcher/SourceCode/bigspring-cry/CRYENGINE/Solution_Win64/Code/CryEngine/CryMovie/CryMovie_uber_1.cpp" -DSRC_DIR="I:/Crytek/CRYENGINE Launcher/SourceCode/bigspring-cry/CRYENGINE/Code/CryEngine/CryMovie" -DSRC_FILES="AnimCameraNode.cpp,AnimNode.cpp,AnimPostFXNode.cpp,AnimScreenFaderNode.cpp,CommentNode.cpp,CVarNode.cpp,EntityNode.cpp,EventNode.cpp,LayerNode.cpp,MaterialNode.cpp,SceneNode.cpp,ScriptVarNode.cpp,AnimEnvironmentNode.cpp,ShadowsSetupNode.cpp,AnimGeomCacheNode.cpp,AudioNode.cpp,ScreenFaderTrack.cpp" -P "I:/Crytek/CRYENGINE Launcher/SourceCode/bigspring-cry/CRYENGINE/Tools/CMake/write_uber_file.cmake"
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal &amp; call :cmErrorLevel %errorlevel% &amp; goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd</Command>
+      <AdditionalInputs Condition="'$(Configuration)|$(Platform)'=='Release|x64'">I:/Crytek/CRYENGINE Launcher/SourceCode/bigspring-cry/CRYENGINE/Solution_Win64/CMakeFiles/79973cc400f18cd8d0235d188919b7f7/CryMovie_uber_1.cpp.rule;%(AdditionalInputs)</AdditionalInputs>
+      <Outputs Condition="'$(Configuration)|$(Platform)'=='Release|x64'">I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Solution_Win64\Code\CryEngine\CryMovie\CryMovie_uber_1.cpp</Outputs>
+      <LinkObjects Condition="'$(Configuration)|$(Platform)'=='Release|x64'">false</LinkObjects>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryMovie\resource.h" />
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryMovie\AnimSequence.cpp" />
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryMovie\CryMovie.cpp" />
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryMovie\Movie.cpp" />
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryMovie\AnimSequence.h" />
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryMovie\Movie.h" />
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryMovie\AnimSplineTrack.cpp" />
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryMovie\BoolTrack.cpp" />
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryMovie\CharacterTrack.cpp" />
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryMovie\CompoundSplineTrack.cpp" />
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryMovie\GotoTrack.cpp" />
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryMovie\LookAtTrack.cpp" />
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryMovie\TimeRangesTrack.h" />
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryMovie\TimeRangesTrack.cpp" />
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryMovie\AnimCameraNode.cpp" />
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryMovie\AnimNode.cpp" />
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryMovie\AnimPostFXNode.cpp" />
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryMovie\AnimScreenFaderNode.cpp" />
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryMovie\CommentNode.cpp" />
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryMovie\CVarNode.cpp" />
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryMovie\EntityNode.cpp" />
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryMovie\EventNode.cpp" />
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryMovie\LayerNode.cpp" />
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryMovie\MaterialNode.cpp" />
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryMovie\SceneNode.cpp" />
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryMovie\ScriptVarNode.cpp" />
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryMovie\AnimCameraNode.h" />
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryMovie\AnimNode.h" />
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryMovie\AnimPostFXNode.h" />
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryMovie\AnimScreenFaderNode.h" />
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryMovie\CommentNode.h" />
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryMovie\CryMovie.h" />
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryMovie\CVarNode.h" />
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryMovie\EntityNode.h" />
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryMovie\EventNode.h" />
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryMovie\LayerNode.h" />
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryMovie\MaterialNode.h" />
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryMovie\SceneNode.h" />
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryMovie\ScriptVarNode.h" />
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryMovie\AnimEnvironmentNode.h" />
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryMovie\AnimEnvironmentNode.cpp" />
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryMovie\ShadowsSetupNode.h" />
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryMovie\ShadowsSetupNode.cpp" />
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryMovie\AnimGeomCacheNode.h" />
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryMovie\AnimGeomCacheNode.cpp" />
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryMovie\AudioNode.h" />
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryMovie\AudioNode.cpp" />
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryMovie\ScreenFaderTrack.cpp" />
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryMovie\AnimSplineTrack.h" />
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryMovie\AnimTrack.h" />
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryMovie\BoolTrack.h" />
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryMovie\CharacterTrack.h" />
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryMovie\CompoundSplineTrack.h" />
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryMovie\GotoTrack.h" />
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryMovie\LookAtTrack.h" />
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryMovie\ScreenFaderTrack.h" />
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryMovie\Tracks.h" />
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryMovie\StdAfx.h" />
+    <ClCompile Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryMovie\StdAfx.cpp"  />
+    <ClCompile Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Solution_Win64\Code\CryEngine\CryMovie\CryMovie_uber_0.cpp" >
+      <AdditionalOptions Condition="'$(Configuration)|$(Platform)'=='Debug|x64'"> /Y- %(AdditionalOptions)</AdditionalOptions>
+      <AdditionalOptions Condition="'$(Configuration)|$(Platform)'=='Profile|x64'"> /Y- %(AdditionalOptions)</AdditionalOptions>
+      <AdditionalOptions Condition="'$(Configuration)|$(Platform)'=='Release|x64'"> /Y- %(AdditionalOptions)</AdditionalOptions>
+    </ClCompile>
+    <ClCompile Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Solution_Win64\Code\CryEngine\CryMovie\CryMovie_uber_1.cpp" >
+      <AdditionalOptions Condition="'$(Configuration)|$(Platform)'=='Debug|x64'"> /Y- %(AdditionalOptions)</AdditionalOptions>
+      <AdditionalOptions Condition="'$(Configuration)|$(Platform)'=='Profile|x64'"> /Y- %(AdditionalOptions)</AdditionalOptions>
+      <AdditionalOptions Condition="'$(Configuration)|$(Platform)'=='Release|x64'"> /Y- %(AdditionalOptions)</AdditionalOptions>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
+  <ImportGroup Label="ExtensionTargets">
+  </ImportGroup>
+</Project>

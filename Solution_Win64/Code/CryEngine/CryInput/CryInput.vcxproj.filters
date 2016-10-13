@@ -1,0 +1,120 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Project ToolsVersion="14.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryInput\StdAfx.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Solution_Win64\Code\CryEngine\CryInput\CryInput_uber.cpp">
+      <Filter>UBER FILES</Filter>
+    </ClCompile>
+    <ClCompile Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Solution_Win64\Code\CryEngine\CryInput\CryInput_dx_uber.cpp">
+      <Filter>UBER FILES</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryInput\EyeTrackerInput.cpp">
+      <Filter>EyeTracker</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryInput\EyeTrackerInput.h">
+      <Filter>EyeTracker</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryInput\CryInput.cpp">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryInput\CryInput.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryInput\InputCVars.cpp">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryInput\InputCVars.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryInput\resource.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryInput\BaseInput.cpp">
+      <Filter>Shared</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryInput\InputDevice.cpp">
+      <Filter>Shared</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryInput\BaseInput.h">
+      <Filter>Shared</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryInput\InputDevice.h">
+      <Filter>Shared</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryInput\NaturalPointInputNULL.h">
+      <Filter>TrackIR</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryInput\StdAfx.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryInput\XInputDevice.cpp">
+      <Filter>DX</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryInput\XInputDevice.h">
+      <Filter>DX</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryInput\DXInput.cpp">
+      <Filter>DX</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryInput\DXInputDevice.cpp">
+      <Filter>DX</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryInput\Keyboard.cpp">
+      <Filter>DX</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryInput\Mouse.cpp">
+      <Filter>DX</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryInput\DXInput.h">
+      <Filter>DX</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryInput\DXInputDevice.h">
+      <Filter>DX</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryInput\Keyboard.h">
+      <Filter>DX</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryInput\Mouse.h">
+      <Filter>DX</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryInput\CMakeLists.txt" />
+    <CustomBuild Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Solution_Win64\CMakeFiles\d03736c7e11d5fac22366adbb1518e3a\CryInput_uber.cpp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Solution_Win64\CMakeFiles\d03736c7e11d5fac22366adbb1518e3a\CryInput_dx_uber.cpp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{526B85B2-5AEE-326C-94F9-8CC53F3E69CC}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{A920178B-E5D3-330D-9F11-D51D6B14FD2A}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{EAD2A386-A4DF-3C43-AE8D-8F52F97F005B}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="EyeTracker">
+      <UniqueIdentifier>{6CFFABA0-A264-345B-B9B6-CCD0E81B3F41}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Shared">
+      <UniqueIdentifier>{DB50DFFF-2E23-3917-BF94-C09468556B1B}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="TrackIR">
+      <UniqueIdentifier>{D75D7285-ABCE-30EE-9F44-38658AD4CD34}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="DX">
+      <UniqueIdentifier>{B6C3791A-2848-3B5F-9B66-FCD4DA543876}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="UBER FILES">
+      <UniqueIdentifier>{A9EDE9CC-9CBB-3D2A-9C04-66ECEC4A3DAF}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

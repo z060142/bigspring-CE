@@ -1,0 +1,923 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Project ToolsVersion="14.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\Libs\python\CheckValidConfiguration.c">
+      <Filter>Configuration</Filter>
+    </ClCompile>
+    <ClCompile Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\SDKs\Python27\Python\graminit.c">
+      <Filter>Grammar</Filter>
+    </ClCompile>
+    <ClCompile Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\SDKs\Python27\Modules\_io\_iomodule.c">
+      <Filter>IO</Filter>
+    </ClCompile>
+    <ClCompile Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\SDKs\Python27\Modules\_io\bufferedio.c">
+      <Filter>IO</Filter>
+    </ClCompile>
+    <ClCompile Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\SDKs\Python27\Modules\_io\bytesio.c">
+      <Filter>IO</Filter>
+    </ClCompile>
+    <ClCompile Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\SDKs\Python27\Modules\_io\fileio.c">
+      <Filter>IO</Filter>
+    </ClCompile>
+    <ClCompile Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\SDKs\Python27\Modules\_io\iobase.c">
+      <Filter>IO</Filter>
+    </ClCompile>
+    <ClCompile Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\SDKs\Python27\Modules\_io\stringio.c">
+      <Filter>IO</Filter>
+    </ClCompile>
+    <ClCompile Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\SDKs\Python27\Modules\_io\textio.c">
+      <Filter>IO</Filter>
+    </ClCompile>
+    <ClCompile Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\SDKs\Python27\Modules\_bisectmodule.c">
+      <Filter>Module</Filter>
+    </ClCompile>
+    <ClCompile Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\SDKs\Python27\Modules\_codecsmodule.c">
+      <Filter>Module</Filter>
+    </ClCompile>
+    <ClCompile Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\SDKs\Python27\Modules\_collectionsmodule.c">
+      <Filter>Module</Filter>
+    </ClCompile>
+    <ClCompile Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\SDKs\Python27\Modules\_csv.c">
+      <Filter>Module</Filter>
+    </ClCompile>
+    <ClCompile Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\SDKs\Python27\Modules\_elementtree.c">
+      <Filter>Module</Filter>
+    </ClCompile>
+    <ClCompile Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\SDKs\Python27\Modules\_functoolsmodule.c">
+      <Filter>Module</Filter>
+    </ClCompile>
+    <ClCompile Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\SDKs\Python27\Modules\_heapqmodule.c">
+      <Filter>Module</Filter>
+    </ClCompile>
+    <ClCompile Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\SDKs\Python27\Modules\_hotshot.c">
+      <Filter>Module</Filter>
+    </ClCompile>
+    <ClCompile Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\SDKs\Python27\Modules\_json.c">
+      <Filter>Module</Filter>
+    </ClCompile>
+    <ClCompile Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\SDKs\Python27\Modules\_localemodule.c">
+      <Filter>Module</Filter>
+    </ClCompile>
+    <ClCompile Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\SDKs\Python27\Modules\_lsprof.c">
+      <Filter>Module</Filter>
+    </ClCompile>
+    <ClCompile Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\SDKs\Python27\Modules\_math.c">
+      <Filter>Module</Filter>
+    </ClCompile>
+    <ClCompile Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\SDKs\Python27\Modules\_randommodule.c">
+      <Filter>Module</Filter>
+    </ClCompile>
+    <ClCompile Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\SDKs\Python27\Modules\_sre.c">
+      <Filter>Module</Filter>
+    </ClCompile>
+    <ClCompile Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\SDKs\Python27\Modules\_struct.c">
+      <Filter>Module</Filter>
+    </ClCompile>
+    <ClCompile Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\SDKs\Python27\Modules\_weakref.c">
+      <Filter>Module</Filter>
+    </ClCompile>
+    <ClCompile Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\SDKs\Python27\Modules\arraymodule.c">
+      <Filter>Module</Filter>
+    </ClCompile>
+    <ClCompile Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\SDKs\Python27\Modules\audioop.c">
+      <Filter>Module</Filter>
+    </ClCompile>
+    <ClCompile Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\SDKs\Python27\Modules\binascii.c">
+      <Filter>Module</Filter>
+    </ClCompile>
+    <ClCompile Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\SDKs\Python27\Modules\cmathmodule.c">
+      <Filter>Module</Filter>
+    </ClCompile>
+    <ClCompile Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\SDKs\Python27\Modules\cPickle.c">
+      <Filter>Module</Filter>
+    </ClCompile>
+    <ClCompile Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\SDKs\Python27\Modules\cStringIO.c">
+      <Filter>Module</Filter>
+    </ClCompile>
+    <ClCompile Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\SDKs\Python27\Modules\datetimemodule.c">
+      <Filter>Module</Filter>
+    </ClCompile>
+    <ClCompile Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\SDKs\Python27\Modules\errnomodule.c">
+      <Filter>Module</Filter>
+    </ClCompile>
+    <ClCompile Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\SDKs\Python27\Modules\future_builtins.c">
+      <Filter>Module</Filter>
+    </ClCompile>
+    <ClCompile Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\SDKs\Python27\Modules\gcmodule.c">
+      <Filter>Module</Filter>
+    </ClCompile>
+    <ClCompile Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\SDKs\Python27\Modules\getbuildinfo.c">
+      <Filter>Module</Filter>
+    </ClCompile>
+    <ClCompile Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\SDKs\Python27\Modules\getpath.c">
+      <Filter>Module</Filter>
+    </ClCompile>
+    <ClCompile Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\SDKs\Python27\Modules\imageop.c">
+      <Filter>Module</Filter>
+    </ClCompile>
+    <ClCompile Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\SDKs\Python27\Modules\itertoolsmodule.c">
+      <Filter>Module</Filter>
+    </ClCompile>
+    <ClCompile Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\SDKs\Python27\Modules\main.c">
+      <Filter>Module</Filter>
+    </ClCompile>
+    <ClCompile Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\SDKs\Python27\Modules\mathmodule.c">
+      <Filter>Module</Filter>
+    </ClCompile>
+    <ClCompile Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\SDKs\Python27\Modules\md5.c">
+      <Filter>Module</Filter>
+    </ClCompile>
+    <ClCompile Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\SDKs\Python27\Modules\md5module.c">
+      <Filter>Module</Filter>
+    </ClCompile>
+    <ClCompile Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\SDKs\Python27\Modules\mmapmodule.c">
+      <Filter>Module</Filter>
+    </ClCompile>
+    <ClCompile Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\SDKs\Python27\Modules\operator.c">
+      <Filter>Module</Filter>
+    </ClCompile>
+    <ClCompile Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\SDKs\Python27\Modules\parsermodule.c">
+      <Filter>Module</Filter>
+    </ClCompile>
+    <ClCompile Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\SDKs\Python27\Modules\posixmodule.c">
+      <Filter>Module</Filter>
+    </ClCompile>
+    <ClCompile Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\SDKs\Python27\Modules\pyexpat.c">
+      <Filter>Module</Filter>
+    </ClCompile>
+    <ClCompile Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\SDKs\Python27\Modules\rotatingtree.c">
+      <Filter>Module</Filter>
+    </ClCompile>
+    <ClCompile Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\SDKs\Python27\Modules\sha256module.c">
+      <Filter>Module</Filter>
+    </ClCompile>
+    <ClCompile Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\SDKs\Python27\Modules\sha512module.c">
+      <Filter>Module</Filter>
+    </ClCompile>
+    <ClCompile Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\SDKs\Python27\Modules\shamodule.c">
+      <Filter>Module</Filter>
+    </ClCompile>
+    <ClCompile Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\SDKs\Python27\Modules\signalmodule.c">
+      <Filter>Module</Filter>
+    </ClCompile>
+    <ClCompile Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\SDKs\Python27\Modules\stropmodule.c">
+      <Filter>Module</Filter>
+    </ClCompile>
+    <ClCompile Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\SDKs\Python27\Modules\symtablemodule.c">
+      <Filter>Module</Filter>
+    </ClCompile>
+    <ClCompile Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\SDKs\Python27\Modules\threadmodule.c">
+      <Filter>Module</Filter>
+    </ClCompile>
+    <ClCompile Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\SDKs\Python27\Modules\timemodule.c">
+      <Filter>Module</Filter>
+    </ClCompile>
+    <ClCompile Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\SDKs\Python27\Modules\unicodedata.c">
+      <Filter>Module</Filter>
+    </ClCompile>
+    <ClCompile Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\SDKs\Python27\Modules\xxmodule.c">
+      <Filter>Module</Filter>
+    </ClCompile>
+    <ClCompile Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\SDKs\Python27\Modules\xxsubtype.c">
+      <Filter>Module</Filter>
+    </ClCompile>
+    <ClCompile Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\SDKs\Python27\Modules\yuvconvert.c">
+      <Filter>Module</Filter>
+    </ClCompile>
+    <ClCompile Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\SDKs\Python27\Modules\zipimport.c">
+      <Filter>Module</Filter>
+    </ClCompile>
+    <ClCompile Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\SDKs\Python27\Modules\zlibmodule.c">
+      <Filter>Module</Filter>
+    </ClCompile>
+    <ClCompile Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\SDKs\Python27\Objects\abstract.c">
+      <Filter>Object</Filter>
+    </ClCompile>
+    <ClCompile Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\SDKs\Python27\Objects\boolobject.c">
+      <Filter>Object</Filter>
+    </ClCompile>
+    <ClCompile Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\SDKs\Python27\Objects\bufferobject.c">
+      <Filter>Object</Filter>
+    </ClCompile>
+    <ClCompile Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\SDKs\Python27\Objects\bytes_methods.c">
+      <Filter>Object</Filter>
+    </ClCompile>
+    <ClCompile Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\SDKs\Python27\Objects\bytearrayobject.c">
+      <Filter>Object</Filter>
+    </ClCompile>
+    <ClCompile Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\SDKs\Python27\Objects\capsule.c">
+      <Filter>Object</Filter>
+    </ClCompile>
+    <ClCompile Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\SDKs\Python27\Objects\cellobject.c">
+      <Filter>Object</Filter>
+    </ClCompile>
+    <ClCompile Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\SDKs\Python27\Objects\classobject.c">
+      <Filter>Object</Filter>
+    </ClCompile>
+    <ClCompile Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\SDKs\Python27\Objects\cobject.c">
+      <Filter>Object</Filter>
+    </ClCompile>
+    <ClCompile Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\SDKs\Python27\Objects\codeobject.c">
+      <Filter>Object</Filter>
+    </ClCompile>
+    <ClCompile Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\SDKs\Python27\Objects\complexobject.c">
+      <Filter>Object</Filter>
+    </ClCompile>
+    <ClCompile Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\SDKs\Python27\Objects\descrobject.c">
+      <Filter>Object</Filter>
+    </ClCompile>
+    <ClCompile Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\SDKs\Python27\Objects\enumobject.c">
+      <Filter>Object</Filter>
+    </ClCompile>
+    <ClCompile Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\SDKs\Python27\Objects\exceptions.c">
+      <Filter>Object</Filter>
+    </ClCompile>
+    <ClCompile Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\SDKs\Python27\Objects\genobject.c">
+      <Filter>Object</Filter>
+    </ClCompile>
+    <ClCompile Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\SDKs\Python27\Objects\fileobject.c">
+      <Filter>Object</Filter>
+    </ClCompile>
+    <ClCompile Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\SDKs\Python27\Objects\floatobject.c">
+      <Filter>Object</Filter>
+    </ClCompile>
+    <ClCompile Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\SDKs\Python27\Objects\frameobject.c">
+      <Filter>Object</Filter>
+    </ClCompile>
+    <ClCompile Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\SDKs\Python27\Objects\funcobject.c">
+      <Filter>Object</Filter>
+    </ClCompile>
+    <ClCompile Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\SDKs\Python27\Objects\intobject.c">
+      <Filter>Object</Filter>
+    </ClCompile>
+    <ClCompile Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\SDKs\Python27\Objects\iterobject.c">
+      <Filter>Object</Filter>
+    </ClCompile>
+    <ClCompile Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\SDKs\Python27\Objects\listobject.c">
+      <Filter>Object</Filter>
+    </ClCompile>
+    <ClCompile Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\SDKs\Python27\Objects\longobject.c">
+      <Filter>Object</Filter>
+    </ClCompile>
+    <ClCompile Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\SDKs\Python27\Objects\dictobject.c">
+      <Filter>Object</Filter>
+    </ClCompile>
+    <ClCompile Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\SDKs\Python27\Objects\memoryobject.c">
+      <Filter>Object</Filter>
+    </ClCompile>
+    <ClCompile Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\SDKs\Python27\Objects\methodobject.c">
+      <Filter>Object</Filter>
+    </ClCompile>
+    <ClCompile Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\SDKs\Python27\Objects\moduleobject.c">
+      <Filter>Object</Filter>
+    </ClCompile>
+    <ClCompile Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\SDKs\Python27\Objects\object.c">
+      <Filter>Object</Filter>
+    </ClCompile>
+    <ClCompile Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\SDKs\Python27\Objects\obmalloc.c">
+      <Filter>Object</Filter>
+    </ClCompile>
+    <ClCompile Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\SDKs\Python27\Objects\rangeobject.c">
+      <Filter>Object</Filter>
+    </ClCompile>
+    <ClCompile Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\SDKs\Python27\Objects\setobject.c">
+      <Filter>Object</Filter>
+    </ClCompile>
+    <ClCompile Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\SDKs\Python27\Objects\sliceobject.c">
+      <Filter>Object</Filter>
+    </ClCompile>
+    <ClCompile Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\SDKs\Python27\Objects\stringobject.c">
+      <Filter>Object</Filter>
+    </ClCompile>
+    <ClCompile Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\SDKs\Python27\Objects\structseq.c">
+      <Filter>Object</Filter>
+    </ClCompile>
+    <ClCompile Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\SDKs\Python27\Objects\tupleobject.c">
+      <Filter>Object</Filter>
+    </ClCompile>
+    <ClCompile Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\SDKs\Python27\Objects\typeobject.c">
+      <Filter>Object</Filter>
+    </ClCompile>
+    <ClCompile Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\SDKs\Python27\Objects\weakrefobject.c">
+      <Filter>Object</Filter>
+    </ClCompile>
+    <ClCompile Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\SDKs\Python27\PC\_subprocess.c">
+      <Filter>PC</Filter>
+    </ClCompile>
+    <ClCompile Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\SDKs\Python27\PC\_winreg.c">
+      <Filter>PC</Filter>
+    </ClCompile>
+    <ClCompile Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\SDKs\Python27\PC\dl_nt.c">
+      <Filter>PC</Filter>
+    </ClCompile>
+    <ClCompile Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\SDKs\Python27\PC\import_nt.c">
+      <Filter>PC</Filter>
+    </ClCompile>
+    <ClCompile Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\SDKs\Python27\PC\msvcrtmodule.c">
+      <Filter>PC</Filter>
+    </ClCompile>
+    <ClCompile Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\SDKs\Python27\PC\config.c">
+      <Filter>PC</Filter>
+    </ClCompile>
+    <ClCompile Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\SDKs\Python27\Parser\acceler.c">
+      <Filter>Parser</Filter>
+    </ClCompile>
+    <ClCompile Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\SDKs\Python27\Parser\grammar1.c">
+      <Filter>Parser</Filter>
+    </ClCompile>
+    <ClCompile Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\SDKs\Python27\Parser\listnode.c">
+      <Filter>Parser</Filter>
+    </ClCompile>
+    <ClCompile Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\SDKs\Python27\Parser\node.c">
+      <Filter>Parser</Filter>
+    </ClCompile>
+    <ClCompile Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\SDKs\Python27\Parser\parser.c">
+      <Filter>Parser</Filter>
+    </ClCompile>
+    <ClCompile Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\SDKs\Python27\Parser\parsetok.c">
+      <Filter>Parser</Filter>
+    </ClCompile>
+    <ClCompile Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\SDKs\Python27\Parser\bitset.c">
+      <Filter>Parser</Filter>
+    </ClCompile>
+    <ClCompile Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\SDKs\Python27\Parser\metagrammar.c">
+      <Filter>Parser</Filter>
+    </ClCompile>
+    <ClCompile Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\SDKs\Python27\Parser\firstsets.c">
+      <Filter>Parser</Filter>
+    </ClCompile>
+    <ClCompile Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\SDKs\Python27\Parser\grammar.c">
+      <Filter>Parser</Filter>
+    </ClCompile>
+    <ClCompile Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\SDKs\Python27\Parser\pgen.c">
+      <Filter>Parser</Filter>
+    </ClCompile>
+    <ClCompile Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\SDKs\Python27\Parser\myreadline.c">
+      <Filter>Parser</Filter>
+    </ClCompile>
+    <ClCompile Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\SDKs\Python27\Parser\tokenizer.c">
+      <Filter>Parser</Filter>
+    </ClCompile>
+    <ClCompile Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\SDKs\Python27\Python\_warnings.c">
+      <Filter>Python</Filter>
+    </ClCompile>
+    <ClCompile Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\SDKs\Python27\Python\Python-ast.c">
+      <Filter>Python</Filter>
+    </ClCompile>
+    <ClCompile Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\SDKs\Python27\Python\asdl.c">
+      <Filter>Python</Filter>
+    </ClCompile>
+    <ClCompile Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\SDKs\Python27\Python\ast.c">
+      <Filter>Python</Filter>
+    </ClCompile>
+    <ClCompile Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\SDKs\Python27\Python\bltinmodule.c">
+      <Filter>Python</Filter>
+    </ClCompile>
+    <ClCompile Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\SDKs\Python27\Python\ceval.c">
+      <Filter>Python</Filter>
+    </ClCompile>
+    <ClCompile Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\SDKs\Python27\Python\compile.c">
+      <Filter>Python</Filter>
+    </ClCompile>
+    <ClCompile Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\SDKs\Python27\Python\codecs.c">
+      <Filter>Python</Filter>
+    </ClCompile>
+    <ClCompile Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\SDKs\Python27\Python\errors.c">
+      <Filter>Python</Filter>
+    </ClCompile>
+    <ClCompile Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\SDKs\Python27\Python\formatter_string.c">
+      <Filter>Python</Filter>
+    </ClCompile>
+    <ClCompile Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\SDKs\Python27\Python\formatter_unicode.c">
+      <Filter>Python</Filter>
+    </ClCompile>
+    <ClCompile Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\SDKs\Python27\Python\frozen.c">
+      <Filter>Python</Filter>
+    </ClCompile>
+    <ClCompile Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\SDKs\Python27\Python\future.c">
+      <Filter>Python</Filter>
+    </ClCompile>
+    <ClCompile Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\SDKs\Python27\Python\getargs.c">
+      <Filter>Python</Filter>
+    </ClCompile>
+    <ClCompile Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\SDKs\Python27\Python\getcompiler.c">
+      <Filter>Python</Filter>
+    </ClCompile>
+    <ClCompile Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\SDKs\Python27\Python\getcopyright.c">
+      <Filter>Python</Filter>
+    </ClCompile>
+    <ClCompile Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\SDKs\Python27\Python\getplatform.c">
+      <Filter>Python</Filter>
+    </ClCompile>
+    <ClCompile Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\SDKs\Python27\Python\getversion.c">
+      <Filter>Python</Filter>
+    </ClCompile>
+    <ClCompile Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\SDKs\Python27\Python\import.c">
+      <Filter>Python</Filter>
+    </ClCompile>
+    <ClCompile Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\SDKs\Python27\Python\importdl.c">
+      <Filter>Python</Filter>
+    </ClCompile>
+    <ClCompile Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\SDKs\Python27\Python\marshal.c">
+      <Filter>Python</Filter>
+    </ClCompile>
+    <ClCompile Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\SDKs\Python27\Python\modsupport.c">
+      <Filter>Python</Filter>
+    </ClCompile>
+    <ClCompile Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\SDKs\Python27\Python\mystrtoul.c">
+      <Filter>Python</Filter>
+    </ClCompile>
+    <ClCompile Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\SDKs\Python27\Python\mysnprintf.c">
+      <Filter>Python</Filter>
+    </ClCompile>
+    <ClCompile Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\SDKs\Python27\Python\peephole.c">
+      <Filter>Python</Filter>
+    </ClCompile>
+    <ClCompile Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\SDKs\Python27\Python\pyarena.c">
+      <Filter>Python</Filter>
+    </ClCompile>
+    <ClCompile Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\SDKs\Python27\Python\pyctype.c">
+      <Filter>Python</Filter>
+    </ClCompile>
+    <ClCompile Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\SDKs\Python27\Python\pyfpe.c">
+      <Filter>Python</Filter>
+    </ClCompile>
+    <ClCompile Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\SDKs\Python27\Python\pymath.c">
+      <Filter>Python</Filter>
+    </ClCompile>
+    <ClCompile Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\SDKs\Python27\Python\pystate.c">
+      <Filter>Python</Filter>
+    </ClCompile>
+    <ClCompile Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\SDKs\Python27\Python\pythonrun.c">
+      <Filter>Python</Filter>
+    </ClCompile>
+    <ClCompile Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\SDKs\Python27\Python\random.c">
+      <Filter>Python</Filter>
+    </ClCompile>
+    <ClCompile Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\SDKs\Python27\Python\structmember.c">
+      <Filter>Python</Filter>
+    </ClCompile>
+    <ClCompile Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\SDKs\Python27\Python\symtable.c">
+      <Filter>Python</Filter>
+    </ClCompile>
+    <ClCompile Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\SDKs\Python27\Python\sysmodule.c">
+      <Filter>Python</Filter>
+    </ClCompile>
+    <ClCompile Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\SDKs\Python27\Python\traceback.c">
+      <Filter>Python</Filter>
+    </ClCompile>
+    <ClCompile Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\SDKs\Python27\Python\getopt.c">
+      <Filter>Python</Filter>
+    </ClCompile>
+    <ClCompile Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\SDKs\Python27\Python\pystrcmp.c">
+      <Filter>Python</Filter>
+    </ClCompile>
+    <ClCompile Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\SDKs\Python27\Python\pystrtod.c">
+      <Filter>Python</Filter>
+    </ClCompile>
+    <ClCompile Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\SDKs\Python27\Python\dtoa.c">
+      <Filter>Python</Filter>
+    </ClCompile>
+    <ClCompile Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\SDKs\Python27\Python\dynload_win.c">
+      <Filter>Python</Filter>
+    </ClCompile>
+    <ClCompile Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\SDKs\Python27\Python\thread.c">
+      <Filter>Python</Filter>
+    </ClCompile>
+    <ClCompile Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\SDKs\Python27\Objects\unicodectype.c">
+      <Filter>Unicode</Filter>
+    </ClCompile>
+    <ClCompile Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\SDKs\Python27\Objects\unicodeobject.c">
+      <Filter>Unicode</Filter>
+    </ClCompile>
+    <ClCompile Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\SDKs\Python27\Modules\cjkcodecs\_codecs_cn.c">
+      <Filter>Unicode</Filter>
+    </ClCompile>
+    <ClCompile Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\SDKs\Python27\Modules\cjkcodecs\_codecs_hk.c">
+      <Filter>Unicode</Filter>
+    </ClCompile>
+    <ClCompile Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\SDKs\Python27\Modules\cjkcodecs\_codecs_iso2022.c">
+      <Filter>Unicode</Filter>
+    </ClCompile>
+    <ClCompile Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\SDKs\Python27\Modules\cjkcodecs\_codecs_jp.c">
+      <Filter>Unicode</Filter>
+    </ClCompile>
+    <ClCompile Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\SDKs\Python27\Modules\cjkcodecs\_codecs_kr.c">
+      <Filter>Unicode</Filter>
+    </ClCompile>
+    <ClCompile Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\SDKs\Python27\Modules\cjkcodecs\_codecs_tw.c">
+      <Filter>Unicode</Filter>
+    </ClCompile>
+    <ClCompile Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\SDKs\Python27\Modules\cjkcodecs\multibytecodec.c">
+      <Filter>Unicode</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\Libs\python\pyconfig.h">
+      <Filter>Configuration</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\SDKs\Python27\PC\pyconfig.h">
+      <Filter>Configuration</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\SDKs\Python27\Include\token.h">
+      <Filter>Grammar</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\SDKs\Python27\Include\grammar.h">
+      <Filter>Grammar</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\SDKs\Python27\Include\graminit.h">
+      <Filter>Grammar</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\SDKs\Python27\Modules\_io\_iomodule.h">
+      <Filter>IO</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\SDKs\Python27\Include\Python-ast.h">
+      <Filter>Include</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\SDKs\Python27\Include\Python.h">
+      <Filter>Include</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\SDKs\Python27\Include\abstract.h">
+      <Filter>Include</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\SDKs\Python27\Include\asdl.h">
+      <Filter>Include</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\SDKs\Python27\Include\ast.h">
+      <Filter>Include</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\SDKs\Python27\Include\bitset.h">
+      <Filter>Include</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\SDKs\Python27\Include\boolobject.h">
+      <Filter>Include</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\SDKs\Python27\Include\bytearrayobject.h">
+      <Filter>Include</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\SDKs\Python27\Include\bytes_methods.h">
+      <Filter>Include</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\SDKs\Python27\Include\bytesobject.h">
+      <Filter>Include</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\SDKs\Python27\Include\bufferobject.h">
+      <Filter>Include</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\SDKs\Python27\Include\cellobject.h">
+      <Filter>Include</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\SDKs\Python27\Include\ceval.h">
+      <Filter>Include</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\SDKs\Python27\Include\classobject.h">
+      <Filter>Include</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\SDKs\Python27\Include\cobject.h">
+      <Filter>Include</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\SDKs\Python27\Include\code.h">
+      <Filter>Include</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\SDKs\Python27\Include\codecs.h">
+      <Filter>Include</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\SDKs\Python27\Include\compile.h">
+      <Filter>Include</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\SDKs\Python27\Include\complexobject.h">
+      <Filter>Include</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\SDKs\Python27\Include\descrobject.h">
+      <Filter>Include</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\SDKs\Python27\Include\dictobject.h">
+      <Filter>Include</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\SDKs\Python27\Include\dtoa.h">
+      <Filter>Include</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\SDKs\Python27\Include\enumobject.h">
+      <Filter>Include</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\SDKs\Python27\Include\errcode.h">
+      <Filter>Include</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\SDKs\Python27\Include\eval.h">
+      <Filter>Include</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\SDKs\Python27\Include\fileobject.h">
+      <Filter>Include</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\SDKs\Python27\Include\floatobject.h">
+      <Filter>Include</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\SDKs\Python27\Include\frameobject.h">
+      <Filter>Include</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\SDKs\Python27\Include\funcobject.h">
+      <Filter>Include</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\SDKs\Python27\Include\genobject.h">
+      <Filter>Include</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\SDKs\Python27\Include\import.h">
+      <Filter>Include</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\SDKs\Python27\Include\intobject.h">
+      <Filter>Include</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\SDKs\Python27\Include\intrcheck.h">
+      <Filter>Include</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\SDKs\Python27\Include\iterobject.h">
+      <Filter>Include</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\SDKs\Python27\Include\listobject.h">
+      <Filter>Include</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\SDKs\Python27\Include\longintrepr.h">
+      <Filter>Include</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\SDKs\Python27\Include\longobject.h">
+      <Filter>Include</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\SDKs\Python27\Include\marshal.h">
+      <Filter>Include</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\SDKs\Python27\Include\memoryobject.h">
+      <Filter>Include</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\SDKs\Python27\Include\metagrammar.h">
+      <Filter>Include</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\SDKs\Python27\Include\methodobject.h">
+      <Filter>Include</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\SDKs\Python27\Include\modsupport.h">
+      <Filter>Include</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\SDKs\Python27\Include\moduleobject.h">
+      <Filter>Include</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\SDKs\Python27\Include\node.h">
+      <Filter>Include</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\SDKs\Python27\Include\object.h">
+      <Filter>Include</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\SDKs\Python27\Include\objimpl.h">
+      <Filter>Include</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\SDKs\Python27\Include\opcode.h">
+      <Filter>Include</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\SDKs\Python27\Include\osdefs.h">
+      <Filter>Include</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\SDKs\Python27\Include\parsetok.h">
+      <Filter>Include</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\SDKs\Python27\Include\patchlevel.h">
+      <Filter>Include</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\SDKs\Python27\Include\pgen.h">
+      <Filter>Include</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\SDKs\Python27\Include\pgenheaders.h">
+      <Filter>Include</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\SDKs\Python27\Include\pyarena.h">
+      <Filter>Include</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\SDKs\Python27\Include\pycapsule.h">
+      <Filter>Include</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\SDKs\Python27\Include\pyctype.h">
+      <Filter>Include</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\SDKs\Python27\Include\pydebug.h">
+      <Filter>Include</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\SDKs\Python27\Include\pyerrors.h">
+      <Filter>Include</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\SDKs\Python27\Include\pyfpe.h">
+      <Filter>Include</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\SDKs\Python27\Include\pymath.h">
+      <Filter>Include</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\SDKs\Python27\Include\pygetopt.h">
+      <Filter>Include</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\SDKs\Python27\Include\pymem.h">
+      <Filter>Include</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\SDKs\Python27\Include\pyport.h">
+      <Filter>Include</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\SDKs\Python27\Include\pystate.h">
+      <Filter>Include</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\SDKs\Python27\Include\pystrcmp.h">
+      <Filter>Include</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\SDKs\Python27\Include\pystrtod.h">
+      <Filter>Include</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\SDKs\Python27\Include\pythonrun.h">
+      <Filter>Include</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\SDKs\Python27\Include\pythread.h">
+      <Filter>Include</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\SDKs\Python27\Include\rangeobject.h">
+      <Filter>Include</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\SDKs\Python27\Include\setobject.h">
+      <Filter>Include</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\SDKs\Python27\Include\sliceobject.h">
+      <Filter>Include</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\SDKs\Python27\Include\stringobject.h">
+      <Filter>Include</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\SDKs\Python27\Include\structmember.h">
+      <Filter>Include</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\SDKs\Python27\Include\structseq.h">
+      <Filter>Include</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\SDKs\Python27\Include\symtable.h">
+      <Filter>Include</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\SDKs\Python27\Include\sysmodule.h">
+      <Filter>Include</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\SDKs\Python27\Include\traceback.h">
+      <Filter>Include</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\SDKs\Python27\Include\tupleobject.h">
+      <Filter>Include</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\SDKs\Python27\Include\ucnhash.h">
+      <Filter>Include</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\SDKs\Python27\Include\unicodeobject.h">
+      <Filter>Include</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\SDKs\Python27\Include\warnings.h">
+      <Filter>Include</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\SDKs\Python27\Include\weakrefobject.h">
+      <Filter>Include</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\SDKs\Python27\Modules\_math.h">
+      <Filter>Module</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\SDKs\Python27\Modules\md5.h">
+      <Filter>Module</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\SDKs\Python27\Modules\rotatingtree.h">
+      <Filter>Module</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\SDKs\Python27\Modules\sre.h">
+      <Filter>Module</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\SDKs\Python27\Modules\sre_constants.h">
+      <Filter>Module</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\SDKs\Python27\Modules\unicodedata_db.h">
+      <Filter>Module</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\SDKs\Python27\Modules\unicodename_db.h">
+      <Filter>Module</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\SDKs\Python27\Modules\yuv.h">
+      <Filter>Module</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\Libs\python\pythonnt_rc.h">
+      <Filter>Resources</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\Libs\python\pythonnt_rc_d.h">
+      <Filter>Resources</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\SDKs\Python27\Objects\stringlib\count.h">
+      <Filter>String</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\SDKs\Python27\Objects\stringlib\ctype.h">
+      <Filter>String</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\SDKs\Python27\Objects\stringlib\fastsearch.h">
+      <Filter>String</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\SDKs\Python27\Objects\stringlib\find.h">
+      <Filter>String</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\SDKs\Python27\Objects\stringlib\formatter.h">
+      <Filter>String</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\SDKs\Python27\Objects\stringlib\partition.h">
+      <Filter>String</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\SDKs\Python27\Objects\stringlib\split.h">
+      <Filter>String</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\SDKs\Python27\Objects\stringlib\stringdefs.h">
+      <Filter>String</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\SDKs\Python27\Objects\stringlib\string_format.h">
+      <Filter>String</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\SDKs\Python27\Objects\stringlib\transmogrify.h">
+      <Filter>String</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\SDKs\Python27\Objects\stringlib\localeutil.h">
+      <Filter>String</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\SDKs\Python27\Objects\stringlib\unicodedefs.h">
+      <Filter>Unicode</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\SDKs\Python27\Objects\unicodetype_db.h">
+      <Filter>Unicode</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\SDKs\Python27\Modules\cjkcodecs\alg_jisx0201.h">
+      <Filter>Unicode</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\SDKs\Python27\Modules\cjkcodecs\cjkcodecs.h">
+      <Filter>Unicode</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\SDKs\Python27\Modules\cjkcodecs\emu_jisx0213_2000.h">
+      <Filter>Unicode</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\SDKs\Python27\Modules\cjkcodecs\mappings_cn.h">
+      <Filter>Unicode</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\SDKs\Python27\Modules\cjkcodecs\mappings_hk.h">
+      <Filter>Unicode</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\SDKs\Python27\Modules\cjkcodecs\mappings_jisx0213_pair.h">
+      <Filter>Unicode</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\SDKs\Python27\Modules\cjkcodecs\mappings_jp.h">
+      <Filter>Unicode</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\SDKs\Python27\Modules\cjkcodecs\mappings_kr.h">
+      <Filter>Unicode</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\SDKs\Python27\Modules\cjkcodecs\mappings_tw.h">
+      <Filter>Unicode</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\SDKs\Python27\Modules\cjkcodecs\multibytecodec.h">
+      <Filter>Unicode</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\Libs\python\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\SDKs\Python27\PC\python_nt.rc">
+      <Filter>Resources</Filter>
+    </ResourceCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Resources">
+      <UniqueIdentifier>{044AA542-E5CB-37AE-8A6F-5A7EEFACF2E0}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Configuration">
+      <UniqueIdentifier>{59A030BD-CA79-36AE-BAEF-13097E996E3A}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Grammar">
+      <UniqueIdentifier>{DC1CEECA-ABC7-35CD-9E02-04A9CAA92982}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="IO">
+      <UniqueIdentifier>{D658DAEE-7E98-30F0-85A0-2D4BF641F258}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Include">
+      <UniqueIdentifier>{5BA3F45F-088B-3875-8B43-28EB235B972A}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Module">
+      <UniqueIdentifier>{C4385F5F-089B-3D08-8676-A384F97C6E16}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Object">
+      <UniqueIdentifier>{5255C109-DD92-3913-BFFD-C493D8A6D9C2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="PC">
+      <UniqueIdentifier>{275BD61B-D81E-3394-9AAF-A9D7AEF8DF80}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Parser">
+      <UniqueIdentifier>{5470DB18-CCD9-3F67-BC9B-FA110C874494}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Python">
+      <UniqueIdentifier>{D38D4F32-C708-3F5F-9EE5-5405FD16B01D}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="String">
+      <UniqueIdentifier>{EEAC3F69-92C1-341D-9DCA-659CE024DC6C}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Unicode">
+      <UniqueIdentifier>{4E5E6A08-0402-3CCD-ACD7-CBA25AB48E17}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

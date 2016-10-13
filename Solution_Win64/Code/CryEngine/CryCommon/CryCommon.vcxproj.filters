@@ -1,0 +1,1856 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Project ToolsVersion="14.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryCommon\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryCommon\CryNetwork\CrySocks_win32.h">
+      <Filter>CryNetwork</Filter>
+    </None>
+    <None Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryCommon\CryThreading\CryAtomics_win32.h">
+      <Filter>CryThreading</Filter>
+    </None>
+    <None Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryCommon\CryThreading\CryAtomics_impl_win32.h">
+      <Filter>CryThreading</Filter>
+    </None>
+    <None Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryCommon\CryThreading\CryThread_win32.h">
+      <Filter>CryThreading</Filter>
+    </None>
+    <None Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryCommon\CryThreading\CryThreadImpl_win32.h">
+      <Filter>CryThreading</Filter>
+    </None>
+    <None Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryCommon\CryAssert\CryAssert_Mac.h">
+      <Filter>CryAssert</Filter>
+    </None>
+    <None Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryCommon\CryAssert\CryAssert_iOS.h">
+      <Filter>CryAssert</Filter>
+    </None>
+    <None Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryCommon\CryCore\Platform\IPlatformOS.h">
+      <Filter>CryCore\Platform</Filter>
+    </None>
+    <None Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryCommon\CryCore\Platform\AppleSpecific.h">
+      <Filter>CryCore\Platform</Filter>
+    </None>
+    <None Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryCommon\CryCore\Platform\iOSSpecific.h">
+      <Filter>CryCore\Platform</Filter>
+    </None>
+    <None Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryCommon\CryCore\Platform\MacSpecific.h">
+      <Filter>CryCore\Platform</Filter>
+    </None>
+    <None Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryCommon\CryCore\Platform\CryPlatform.Darwin.h">
+      <Filter>CryCore\Platform</Filter>
+    </None>
+    <None Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryCommon\CryAssert\CryAssert_Windows.h">
+      <Filter>CryAssert</Filter>
+    </None>
+    <None Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryCommon\CryCore\Platform\CryPlatform.Win32.h">
+      <Filter>CryCore\Platform</Filter>
+    </None>
+    <None Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryCommon\CryCore\Platform\CryPlatform.Win64.h">
+      <Filter>CryCore\Platform</Filter>
+    </None>
+    <None Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryCommon\CryCore\Platform\Win32specific.h">
+      <Filter>CryCore\Platform</Filter>
+    </None>
+    <None Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryCommon\CryCore\Platform\Win64specific.h">
+      <Filter>CryCore\Platform</Filter>
+    </None>
+    <None Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryCommon\CrySystem\Profilers\FrameProfiler\FrameProfiler_impl.pc.h">
+      <Filter>CrySystem\Profilers\FrameProfiler</Filter>
+    </None>
+    <None Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryCommon\Cry3DEngine\I3DEngine.h">
+      <Filter>Cry3DEngine</Filter>
+    </None>
+    <None Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryCommon\Cry3DEngine\I3DEngine_info.h">
+      <Filter>Cry3DEngine</Filter>
+    </None>
+    <None Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryCommon\Cry3DEngine\IMaterial.h">
+      <Filter>Cry3DEngine</Filter>
+    </None>
+    <None Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryCommon\Cry3DEngine\IIndexedMesh.h">
+      <Filter>Cry3DEngine</Filter>
+    </None>
+    <None Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryCommon\Cry3DEngine\IIndexedMesh_info.h">
+      <Filter>Cry3DEngine</Filter>
+    </None>
+    <None Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryCommon\Cry3DEngine\CryEngineDecalInfo.h">
+      <Filter>Cry3DEngine</Filter>
+    </None>
+    <None Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryCommon\Cry3DEngine\CREGeomCache.h">
+      <Filter>Cry3DEngine</Filter>
+    </None>
+    <None Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryCommon\Cry3DEngine\IGeomCache.h">
+      <Filter>Cry3DEngine</Filter>
+    </None>
+    <None Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryCommon\Cry3DEngine\GeomCacheFileFormat.h">
+      <Filter>Cry3DEngine</Filter>
+    </None>
+    <None Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryCommon\Cry3DEngine\IStatObj.h">
+      <Filter>Cry3DEngine</Filter>
+    </None>
+    <None Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryCommon\Cry3DEngine\ITimeOfDay.h">
+      <Filter>Cry3DEngine</Filter>
+    </None>
+    <None Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryCommon\Cry3DEngine\ISurfaceType.h">
+      <Filter>Cry3DEngine</Filter>
+    </None>
+    <None Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryCommon\Cry3DEngine\IMeshObj.h">
+      <Filter>Cry3DEngine</Filter>
+    </None>
+    <None Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryCommon\Cry3DEngine\CryPodArray.h">
+      <Filter>Cry3DEngine</Filter>
+    </None>
+    <None Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryCommon\Cry3DEngine\ImageExtensionHelper.h">
+      <Filter>Cry3DEngine</Filter>
+    </None>
+    <None Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryCommon\Cry3DEngine\ImageExtensionHelper_info.h">
+      <Filter>Cry3DEngine</Filter>
+    </None>
+    <None Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryCommon\Cry3DEngine\CGF\CGFContent.h">
+      <Filter>Cry3DEngine\CGF</Filter>
+    </None>
+    <None Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryCommon\Cry3DEngine\CGF\CGFContent_info.h">
+      <Filter>Cry3DEngine\CGF</Filter>
+    </None>
+    <None Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryCommon\Cry3DEngine\CGF\CryHeaders.h">
+      <Filter>Cry3DEngine\CGF</Filter>
+    </None>
+    <None Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryCommon\Cry3DEngine\CGF\CryHeaders_info.h">
+      <Filter>Cry3DEngine\CGF</Filter>
+    </None>
+    <None Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryCommon\Cry3DEngine\CGF\IChunkFile.h">
+      <Filter>Cry3DEngine\CGF</Filter>
+    </None>
+    <None Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryCommon\CryAISystem\IAIMannequin.h">
+      <Filter>CryAISystem</Filter>
+    </None>
+    <None Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryCommon\CryAISystem\IClusterDetector.h">
+      <Filter>CryAISystem</Filter>
+    </None>
+    <None Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryCommon\CryAISystem\INavigationSystem.h">
+      <Filter>CryAISystem</Filter>
+    </None>
+    <None Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryCommon\CryAISystem\IAgent.h">
+      <Filter>CryAISystem</Filter>
+    </None>
+    <None Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryCommon\CryAISystem\IAIAction.h">
+      <Filter>CryAISystem</Filter>
+    </None>
+    <None Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryCommon\CryAISystem\IAIActor.h">
+      <Filter>CryAISystem</Filter>
+    </None>
+    <None Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryCommon\CryAISystem\IAIActorProxy.h">
+      <Filter>CryAISystem</Filter>
+    </None>
+    <None Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryCommon\CryAISystem\IAIDebugRenderer.h">
+      <Filter>CryAISystem</Filter>
+    </None>
+    <None Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryCommon\CryAISystem\IAIGroup.h">
+      <Filter>CryAISystem</Filter>
+    </None>
+    <None Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryCommon\CryAISystem\IAIGroupProxy.h">
+      <Filter>CryAISystem</Filter>
+    </None>
+    <None Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryCommon\CryAISystem\IAIObject.h">
+      <Filter>CryAISystem</Filter>
+    </None>
+    <None Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryCommon\CryAISystem\IAIObjectManager.h">
+      <Filter>CryAISystem</Filter>
+    </None>
+    <None Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryCommon\CryAISystem\IAIRateOfDeathHandler.h">
+      <Filter>CryAISystem</Filter>
+    </None>
+    <None Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryCommon\CryAISystem\IAIRecorder.h">
+      <Filter>CryAISystem</Filter>
+    </None>
+    <None Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryCommon\CryAISystem\IAISystem.h">
+      <Filter>CryAISystem</Filter>
+    </None>
+    <None Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryCommon\CryAISystem\IBlackBoard.h">
+      <Filter>CryAISystem</Filter>
+    </None>
+    <None Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryCommon\CryAISystem\ICommunicationManager.h">
+      <Filter>CryAISystem</Filter>
+    </None>
+    <None Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryCommon\CryAISystem\ICoverSystem.h">
+      <Filter>CryAISystem</Filter>
+    </None>
+    <None Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryCommon\CryAISystem\IFactionMap.h">
+      <Filter>CryAISystem</Filter>
+    </None>
+    <None Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryCommon\CryAISystem\INavigation.h">
+      <Filter>CryAISystem</Filter>
+    </None>
+    <None Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryCommon\CryAISystem\IPathfinder.h">
+      <Filter>CryAISystem</Filter>
+    </None>
+    <None Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryCommon\CryAISystem\HashGrid.h">
+      <Filter>CryAISystem</Filter>
+    </None>
+    <None Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryCommon\CryAISystem\IVisionMap.h">
+      <Filter>CryAISystem</Filter>
+    </None>
+    <None Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryCommon\CryAISystem\IMNM.h">
+      <Filter>CryAISystem</Filter>
+    </None>
+    <None Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryCommon\CryAISystem\IOffMeshNavigationManager.h">
+      <Filter>CryAISystem</Filter>
+    </None>
+    <None Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryCommon\CryAISystem\IMovementActor.h">
+      <Filter>CryAISystem</Filter>
+    </None>
+    <None Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryCommon\CryAISystem\AgentParams.h">
+      <Filter>CryAISystem</Filter>
+    </None>
+    <None Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryCommon\CryAISystem\IAIActionSequence.h">
+      <Filter>CryAISystem</Filter>
+    </None>
+    <None Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryCommon\CryAISystem\AIFormationDescriptor.h">
+      <Filter>CryAISystem</Filter>
+    </None>
+    <None Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryCommon\CryAISystem\AISystemListener.h">
+      <Filter>CryAISystem</Filter>
+    </None>
+    <None Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryCommon\CryAISystem\IMovementSystem.h">
+      <Filter>CryAISystem</Filter>
+    </None>
+    <None Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryCommon\CryAISystem\MovementRequestID.h">
+      <Filter>CryAISystem</Filter>
+    </None>
+    <None Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryCommon\CryAISystem\MovementUpdateContext.h">
+      <Filter>CryAISystem</Filter>
+    </None>
+    <None Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryCommon\CryAISystem\MovementBlock.h">
+      <Filter>CryAISystem</Filter>
+    </None>
+    <None Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryCommon\CryAISystem\MovementRequest.h">
+      <Filter>CryAISystem</Filter>
+    </None>
+    <None Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryCommon\CryAISystem\HidespotQueryContext.h">
+      <Filter>CryAISystem</Filter>
+    </None>
+    <None Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryCommon\CryAISystem\IPerceptionHandler.h">
+      <Filter>CryAISystem</Filter>
+    </None>
+    <None Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryCommon\CryAISystem\IPerceptionHandlerModifier.h">
+      <Filter>CryAISystem</Filter>
+    </None>
+    <None Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryCommon\CryAISystem\ITargetTrackManager.h">
+      <Filter>CryAISystem</Filter>
+    </None>
+    <None Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryCommon\CryAISystem\IGoalPipe.h">
+      <Filter>CryAISystem</Filter>
+    </None>
+    <None Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryCommon\CryAISystem\IInterestSystem.h">
+      <Filter>CryAISystem</Filter>
+    </None>
+    <None Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryCommon\CryAISystem\ITacticalPointSystem.h">
+      <Filter>CryAISystem</Filter>
+    </None>
+    <None Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryCommon\CryAISystem\ISelectionTreeManager.h">
+      <Filter>CryAISystem</Filter>
+    </None>
+    <None Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryCommon\CryAISystem\VisionMapTypes.h">
+      <Filter>CryAISystem</Filter>
+    </None>
+    <None Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryCommon\CryAISystem\MovementStyle.h">
+      <Filter>CryAISystem</Filter>
+    </None>
+    <None Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryCommon\CryAISystem\IAIBubblesSystem.h">
+      <Filter>CryAISystem</Filter>
+    </None>
+    <None Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryCommon\CryAISystem\BehaviorTree\IBehaviorTree.h">
+      <Filter>CryAISystem\BehaviorTree</Filter>
+    </None>
+    <None Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryCommon\CryAISystem\BehaviorTree\IBehaviorTreeGraft.h">
+      <Filter>CryAISystem\BehaviorTree</Filter>
+    </None>
+    <None Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryCommon\CryAISystem\BehaviorTree\Action.h">
+      <Filter>CryAISystem\BehaviorTree</Filter>
+    </None>
+    <None Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryCommon\CryAISystem\BehaviorTree\Composite.h">
+      <Filter>CryAISystem\BehaviorTree</Filter>
+    </None>
+    <None Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryCommon\CryAISystem\BehaviorTree\Decorator.h">
+      <Filter>CryAISystem\BehaviorTree</Filter>
+    </None>
+    <None Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryCommon\CryAISystem\BehaviorTree\NodeFactory.h">
+      <Filter>CryAISystem\BehaviorTree</Filter>
+    </None>
+    <None Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryCommon\CryAISystem\BehaviorTree\Node.h">
+      <Filter>CryAISystem\BehaviorTree</Filter>
+    </None>
+    <None Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryCommon\CryAISystem\BehaviorTree\XmlLoader.h">
+      <Filter>CryAISystem\BehaviorTree</Filter>
+    </None>
+    <None Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryCommon\CryAISystem\BehaviorTree\Readme.txt">
+      <Filter>CryAISystem\BehaviorTree</Filter>
+    </None>
+    <None Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryCommon\CryAISystem\BehaviorTree\TimestampCollection.h">
+      <Filter>CryAISystem\BehaviorTree</Filter>
+    </None>
+    <None Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryCommon\CryAISystem\BehaviorTree\SerializationSupport.h">
+      <Filter>CryAISystem\BehaviorTree</Filter>
+    </None>
+    <None Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryCommon\CryAction\ICustomActions.h">
+      <Filter>CryAction</Filter>
+    </None>
+    <None Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryCommon\CryAction\ICustomEvents.h">
+      <Filter>CryAction</Filter>
+    </None>
+    <None Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryCommon\CryAction\ILipSync.h">
+      <Filter>CryAction</Filter>
+    </None>
+    <None Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryCommon\CryAction\ILipSyncProvider.h">
+      <Filter>CryAction</Filter>
+    </None>
+    <None Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryCommon\CryAction\IDebugHistory.h">
+      <Filter>CryAction</Filter>
+    </None>
+    <None Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryCommon\CryAction\InterpolationHelpers.h">
+      <Filter>CryAction</Filter>
+    </None>
+    <None Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryCommon\CryAction\IMaterialEffects.h">
+      <Filter>CryAction</Filter>
+    </None>
+    <None Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryCommon\CryAnimation\ICryAnimation.h">
+      <Filter>CryAnimation</Filter>
+    </None>
+    <None Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryCommon\CryAnimation\IAnimationPoseModifier.h">
+      <Filter>CryAnimation</Filter>
+    </None>
+    <None Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryCommon\CryAnimation\IAnimEventPlayer.h">
+      <Filter>CryAnimation</Filter>
+    </None>
+    <None Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryCommon\CryAnimation\IFacialAnimation.h">
+      <Filter>CryAnimation</Filter>
+    </None>
+    <None Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryCommon\CryAnimation\IAttachment.h">
+      <Filter>CryAnimation</Filter>
+    </None>
+    <None Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryCommon\CryAnimation\CryCharAnimationParams.h">
+      <Filter>CryAnimation</Filter>
+    </None>
+    <None Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryCommon\CryAnimation\CryCharMorphParams.h">
+      <Filter>CryAnimation</Filter>
+    </None>
+    <None Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryCommon\CryAnimation\IVertexAnimation.h">
+      <Filter>CryAnimation</Filter>
+    </None>
+    <None Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryCommon\CryAudio\IAudioInterfacesCommonData.h">
+      <Filter>CryAudio</Filter>
+    </None>
+    <None Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryCommon\CryAudio\IAudioSystem.h">
+      <Filter>CryAudio</Filter>
+    </None>
+    <None Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryCommon\CryAudio\Dialog\IDialogSystem.h">
+      <Filter>CryAudio\Dialog</Filter>
+    </None>
+    <None Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryCommon\CryCore\BaseTypes.h">
+      <Filter>CryCore</Filter>
+    </None>
+    <None Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryCommon\CryCore\Octree.h">
+      <Filter>CryCore</Filter>
+    </None>
+    <None Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryCommon\CryCore\OctreeDebug.h">
+      <Filter>CryCore</Filter>
+    </None>
+    <None Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryCommon\CryCore\smartptr.h">
+      <Filter>CryCore</Filter>
+    </None>
+    <None Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryCommon\CryCore\FixedPoint.h">
+      <Filter>CryCore</Filter>
+    </None>
+    <None Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryCommon\CryCore\stridedptr.h">
+      <Filter>CryCore</Filter>
+    </None>
+    <None Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryCommon\CryCore\CryFlags.h">
+      <Filter>CryCore</Filter>
+    </None>
+    <None Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryCommon\CryCore\CryTypeInfo.h">
+      <Filter>CryCore</Filter>
+    </None>
+    <None Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryCommon\CryCore\CryTypeInfo.inl">
+      <Filter>CryCore</Filter>
+    </None>
+    <None Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryCommon\CryCore\DynamicEnum.h">
+      <Filter>CryCore</Filter>
+    </None>
+    <None Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryCommon\CryCore\Common_TypeInfo2.h">
+      <Filter>CryCore</Filter>
+    </None>
+    <None Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryCommon\CryCore\Common_TypeInfo.h">
+      <Filter>CryCore</Filter>
+    </None>
+    <None Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryCommon\CryCore\TypeInfo_decl.h">
+      <Filter>CryCore</Filter>
+    </None>
+    <None Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryCommon\CryCore\TypeInfo_impl.h">
+      <Filter>CryCore</Filter>
+    </None>
+    <None Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryCommon\CryCore\Typelist.h">
+      <Filter>CryCore</Filter>
+    </None>
+    <None Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryCommon\CryCore\TypelistUtils.h">
+      <Filter>CryCore</Filter>
+    </None>
+    <None Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryCommon\CryCore\Wrapper.h">
+      <Filter>CryCore</Filter>
+    </None>
+    <None Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryCommon\CryCore\CryEndian.h">
+      <Filter>CryCore</Filter>
+    </None>
+    <None Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryCommon\CryCore\BitFiddling.h">
+      <Filter>CryCore</Filter>
+    </None>
+    <None Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryCommon\CryCore\BitmapDilation.h">
+      <Filter>CryCore</Filter>
+    </None>
+    <None Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryCommon\CryCore\BitMask.h">
+      <Filter>CryCore</Filter>
+    </None>
+    <None Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryCommon\CryCore\FindZeroRanges.h">
+      <Filter>CryCore</Filter>
+    </None>
+    <None Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryCommon\CryCore\StaticInstanceList.h">
+      <Filter>CryCore</Filter>
+    </None>
+    <None Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryCommon\CryCore\SFunctor.h">
+      <Filter>CryCore</Filter>
+    </None>
+    <None Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryCommon\CryCore\FunctorBaseFunction.h">
+      <Filter>CryCore</Filter>
+    </None>
+    <None Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryCommon\CryCore\IFunctorBase.h">
+      <Filter>CryCore</Filter>
+    </None>
+    <None Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryCommon\CryCore\FunctorBaseMember.h">
+      <Filter>CryCore</Filter>
+    </None>
+    <None Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryCommon\CryCore\functor.h">
+      <Filter>CryCore</Filter>
+    </None>
+    <None Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryCommon\CryCore\Base64.h">
+      <Filter>CryCore</Filter>
+    </None>
+    <None Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryCommon\CryCore\MetaUtils.h">
+      <Filter>CryCore</Filter>
+    </None>
+    <None Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryCommon\CryCore\BoostHelpers.h">
+      <Filter>CryCore</Filter>
+    </None>
+    <None Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryCommon\CryCore\CrtDebugStats.h">
+      <Filter>CryCore</Filter>
+    </None>
+    <None Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryCommon\CryCore\CryCustomTypes.h">
+      <Filter>CryCore</Filter>
+    </None>
+    <None Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryCommon\CryCore\CryCrc32.h">
+      <Filter>CryCore</Filter>
+    </None>
+    <None Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryCommon\CryCore\StlUtils.h">
+      <Filter>CryCore</Filter>
+    </None>
+    <None Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryCommon\CryCore\RingBuffer.h">
+      <Filter>CryCore</Filter>
+    </None>
+    <None Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryCommon\CryCore\AlignmentTools.h">
+      <Filter>CryCore</Filter>
+    </None>
+    <None Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryCommon\CryCore\CountedValue.h">
+      <Filter>CryCore</Filter>
+    </None>
+    <None Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryCommon\CryCore\Assert\CryAssert_impl.h">
+      <Filter>CryCore\Assert</Filter>
+    </None>
+    <None Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryCommon\CryCore\Assert\CryAssert.h">
+      <Filter>CryCore\Assert</Filter>
+    </None>
+    <None Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryCommon\CryCore\Assert\CompileTimeUtils.h">
+      <Filter>CryCore\Assert</Filter>
+    </None>
+    <None Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryCommon\CryCore\Assert\CompileTimeAssert.h">
+      <Filter>CryCore\Assert</Filter>
+    </None>
+    <None Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryCommon\CryCore\Compiler\MSVCspecific.h">
+      <Filter>CryCore\Compiler</Filter>
+    </None>
+    <None Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryCommon\CryCore\Compiler\GCCspecific.h">
+      <Filter>CryCore\Compiler</Filter>
+    </None>
+    <None Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryCommon\CryCore\Compiler\Clangspecific.h">
+      <Filter>CryCore\Compiler</Filter>
+    </None>
+    <None Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryCommon\CryCore\Containers\CryArray.h">
+      <Filter>CryCore\Containers</Filter>
+    </None>
+    <None Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryCommon\CryCore\Containers\CryPtrArray.h">
+      <Filter>CryCore\Containers</Filter>
+    </None>
+    <None Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryCommon\CryCore\Containers\CryFixedArray.h">
+      <Filter>CryCore\Containers</Filter>
+    </None>
+    <None Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryCommon\CryCore\Containers\HeapContainer.h">
+      <Filter>CryCore\Containers</Filter>
+    </None>
+    <None Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryCommon\CryCore\Containers\StackContainer.h">
+      <Filter>CryCore\Containers</Filter>
+    </None>
+    <None Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryCommon\CryCore\Containers\VectorMap.h">
+      <Filter>CryCore\Containers</Filter>
+    </None>
+    <None Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryCommon\CryCore\Containers\VectorSet.h">
+      <Filter>CryCore\Containers</Filter>
+    </None>
+    <None Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryCommon\CryCore\Containers\intrusive_list.hpp">
+      <Filter>CryCore\Containers</Filter>
+    </None>
+    <None Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryCommon\CryCore\Containers\MiniQueue.h">
+      <Filter>CryCore\Containers</Filter>
+    </None>
+    <None Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryCommon\CryCore\Containers\CryListenerSet.h">
+      <Filter>CryCore\Containers</Filter>
+    </None>
+    <None Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryCommon\CryCore\Containers\VariableCollection.h">
+      <Filter>CryCore\Containers</Filter>
+    </None>
+    <None Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryCommon\CryCore\Containers\IDMap.h">
+      <Filter>CryCore\Containers</Filter>
+    </None>
+    <None Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryCommon\CryCore\Platform\CryPlatform.h">
+      <Filter>CryCore\Platform</Filter>
+    </None>
+    <None Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryCommon\CryCore\Platform\CryPlatformDefines.h">
+      <Filter>CryCore\Platform</Filter>
+    </None>
+    <None Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryCommon\CryCore\Platform\CryWindows.h">
+      <Filter>CryCore\Platform</Filter>
+    </None>
+    <None Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryCommon\CryCore\Platform\CryAtlMfc.h">
+      <Filter>CryCore\Platform</Filter>
+    </None>
+    <None Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryCommon\CryCore\Platform\CryDLMalloc.h">
+      <Filter>CryCore\Platform</Filter>
+    </None>
+    <None Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryCommon\CryCore\Platform\CryLibrary.h">
+      <Filter>CryCore\Platform</Filter>
+    </None>
+    <None Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryCommon\CryCore\Platform\platform.h">
+      <Filter>CryCore\Platform</Filter>
+    </None>
+    <None Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryCommon\CryCore\Platform\platform_impl.inl">
+      <Filter>CryCore\Platform</Filter>
+    </None>
+    <None Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryCommon\CryCore\Platform\WindowsUtils.h">
+      <Filter>CryCore\Platform</Filter>
+    </None>
+    <None Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryCommon\CryCore\Platform\CryStlConfig.h">
+      <Filter>CryCore\Platform</Filter>
+    </None>
+    <None Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryCommon\CryCore\Platform\WinBase.inl">
+      <Filter>CryCore\Platform</Filter>
+    </None>
+    <None Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryCommon\CryCore\Project\ProjectDefines.h">
+      <Filter>CryCore\Project</Filter>
+    </None>
+    <None Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryCommon\CryCore\Project\ProjectDefinesInclude.h">
+      <Filter>CryCore\Project</Filter>
+    </None>
+    <None Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryCommon\CryCore\Project\CryModuleDefs.h">
+      <Filter>CryCore\Project</Filter>
+    </None>
+    <None Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryCommon\CryCore\Project\Version.h">
+      <Filter>CryCore\Project</Filter>
+    </None>
+    <None Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryCommon\CryCore\Project\Version_override.h">
+      <Filter>CryCore\Project</Filter>
+    </None>
+    <None Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryCommon\CryCore\ToolsHelpers\ResourceCompilerHelper.h">
+      <Filter>CryCore\ToolsHelpers</Filter>
+    </None>
+    <None Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryCommon\CryCore\ToolsHelpers\ResourceCompilerHelper.inl">
+      <Filter>CryCore\ToolsHelpers</Filter>
+    </None>
+    <None Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryCommon\CryCore\ToolsHelpers\SettingsManagerHelpers.h">
+      <Filter>CryCore\ToolsHelpers</Filter>
+    </None>
+    <None Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryCommon\CryCore\ToolsHelpers\SettingsManagerHelpers.inl">
+      <Filter>CryCore\ToolsHelpers</Filter>
+    </None>
+    <None Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryCommon\CryCore\ToolsHelpers\EngineSettingsManager.h">
+      <Filter>CryCore\ToolsHelpers</Filter>
+    </None>
+    <None Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryCommon\CryCore\ToolsHelpers\EngineSettingsManager.inl">
+      <Filter>CryCore\ToolsHelpers</Filter>
+    </None>
+    <None Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryCommon\CryCore\ToolsHelpers\GuidUtil.h">
+      <Filter>CryCore\ToolsHelpers</Filter>
+    </None>
+    <None Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryCommon\CryDynamicResponseSystem\IDynamicResponseSystem.h">
+      <Filter>CryDynamicResponseSystem</Filter>
+    </None>
+    <None Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryCommon\CryDynamicResponseSystem\IDynamicResponseAction.h">
+      <Filter>CryDynamicResponseSystem</Filter>
+    </None>
+    <None Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryCommon\CryDynamicResponseSystem\IDynamicResponseCondition.h">
+      <Filter>CryDynamicResponseSystem</Filter>
+    </None>
+    <None Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryCommon\CryEntitySystem\IComponent.h">
+      <Filter>CryEntitySystem</Filter>
+    </None>
+    <None Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryCommon\CryEntitySystem\IEntitySystem.h">
+      <Filter>CryEntitySystem</Filter>
+    </None>
+    <None Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryCommon\CryEntitySystem\IEntity.h">
+      <Filter>CryEntitySystem</Filter>
+    </None>
+    <None Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryCommon\CryEntitySystem\IEntityAttributesProxy.h">
+      <Filter>CryEntitySystem</Filter>
+    </None>
+    <None Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryCommon\CryEntitySystem\IEntityClass.h">
+      <Filter>CryEntitySystem</Filter>
+    </None>
+    <None Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryCommon\CryEntitySystem\IEntityLayer.h">
+      <Filter>CryEntitySystem</Filter>
+    </None>
+    <None Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryCommon\CryEntitySystem\IEntityProxy.h">
+      <Filter>CryEntitySystem</Filter>
+    </None>
+    <None Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryCommon\CryEntitySystem\IEntityRenderState.h">
+      <Filter>CryEntitySystem</Filter>
+    </None>
+    <None Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryCommon\CryEntitySystem\IEntityRenderState_info.h">
+      <Filter>CryEntitySystem</Filter>
+    </None>
+    <None Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryCommon\CryEntitySystem\IEntitySerialize.h">
+      <Filter>CryEntitySystem</Filter>
+    </None>
+    <None Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryCommon\CryEntitySystem\EntityDesc.h">
+      <Filter>CryEntitySystem</Filter>
+    </None>
+    <None Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryCommon\CryEntitySystem\IBitStream.h">
+      <Filter>CryEntitySystem</Filter>
+    </None>
+    <None Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryCommon\CryEntitySystem\IBreakableManager.h">
+      <Filter>CryEntitySystem</Filter>
+    </None>
+    <None Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryCommon\CryEntitySystem\IBreakableGlassSystem.h">
+      <Filter>CryEntitySystem</Filter>
+    </None>
+    <None Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryCommon\CryExtension\CryCreateClassInstance.h">
+      <Filter>CryExtension</Filter>
+    </None>
+    <None Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryCommon\CryExtension\CryGUID.h">
+      <Filter>CryExtension</Filter>
+    </None>
+    <None Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryCommon\CryExtension\CryTypeID.h">
+      <Filter>CryExtension</Filter>
+    </None>
+    <None Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryCommon\CryExtension\ICryFactory.h">
+      <Filter>CryExtension</Filter>
+    </None>
+    <None Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryCommon\CryExtension\ICryFactoryRegistry.h">
+      <Filter>CryExtension</Filter>
+    </None>
+    <None Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryCommon\CryExtension\ICryPluginManager.h">
+      <Filter>CryExtension</Filter>
+    </None>
+    <None Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryCommon\CryExtension\ICryUnknown.h">
+      <Filter>CryExtension</Filter>
+    </None>
+    <None Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryCommon\CryExtension\Conversion.h">
+      <Filter>CryExtension</Filter>
+    </None>
+    <None Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryCommon\CryExtension\ClassWeaver.h">
+      <Filter>CryExtension</Filter>
+    </None>
+    <None Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryCommon\CryExtension\CryGUIDHelper.h">
+      <Filter>CryExtension</Filter>
+    </None>
+    <None Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryCommon\CryExtension\ICryFactoryRegistryImpl.h">
+      <Filter>CryExtension</Filter>
+    </None>
+    <None Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryCommon\CryExtension\RegFactoryNode.h">
+      <Filter>CryExtension</Filter>
+    </None>
+    <None Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryCommon\CryExtension\TypeList.h">
+      <Filter>CryExtension</Filter>
+    </None>
+    <None Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryCommon\CryFlowGraph\IFlowGraphDebugger.h">
+      <Filter>CryFlowGraph</Filter>
+    </None>
+    <None Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryCommon\CryFlowGraph\IFlowGraphModuleManager.h">
+      <Filter>CryFlowGraph</Filter>
+    </None>
+    <None Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryCommon\CryFlowGraph\IFlowSystem.h">
+      <Filter>CryFlowGraph</Filter>
+    </None>
+    <None Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryCommon\CryFlowGraph\IFlowBaseNode.h">
+      <Filter>CryFlowGraph</Filter>
+    </None>
+    <None Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryCommon\CryFont\IFont.h">
+      <Filter>CryFont</Filter>
+    </None>
+    <None Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryCommon\CryGame\IGame.h">
+      <Filter>CryGame</Filter>
+    </None>
+    <None Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryCommon\CryGame\IGameFramework.h">
+      <Filter>CryGame</Filter>
+    </None>
+    <None Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryCommon\CryGame\IGameFrameworkExtension.h">
+      <Filter>CryGame</Filter>
+    </None>
+    <None Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryCommon\CryGame\IGameRef.h">
+      <Filter>CryGame</Filter>
+    </None>
+    <None Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryCommon\CryGame\IGameStartup.h">
+      <Filter>CryGame</Filter>
+    </None>
+    <None Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryCommon\CryGame\IGameStatistics.h">
+      <Filter>CryGame</Filter>
+    </None>
+    <None Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryCommon\CryGame\IGameTokens.h">
+      <Filter>CryGame</Filter>
+    </None>
+    <None Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryCommon\CryGame\IGameVolumes.h">
+      <Filter>CryGame</Filter>
+    </None>
+    <None Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryCommon\CryGame\GameUtils.h">
+      <Filter>CryGame</Filter>
+    </None>
+    <None Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryCommon\CryGame\ExtensionDefines.h">
+      <Filter>CryGame</Filter>
+    </None>
+    <None Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryCommon\CryGame\CoherentValue.h">
+      <Filter>CryGame</Filter>
+    </None>
+    <None Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryCommon\CryGame\IGameWebDebug.h">
+      <Filter>CryGame</Filter>
+    </None>
+    <None Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryCommon\CryInput\IInput.h">
+      <Filter>CryInput</Filter>
+    </None>
+    <None Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryCommon\CryInput\IJoystick.h">
+      <Filter>CryInput</Filter>
+    </None>
+    <None Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryCommon\CryInput\IHardwareMouse.h">
+      <Filter>CryInput</Filter>
+    </None>
+    <None Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryCommon\CryLiveCreate\ILiveCreatePlatform.h">
+      <Filter>CryLiveCreate</Filter>
+    </None>
+    <None Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryCommon\CryLiveCreate\ILiveCreateCommon.h">
+      <Filter>CryLiveCreate</Filter>
+    </None>
+    <None Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryCommon\CryLiveCreate\ILiveCreateHost.h">
+      <Filter>CryLiveCreate</Filter>
+    </None>
+    <None Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryCommon\CryLiveCreate\ILiveCreateManager.h">
+      <Filter>CryLiveCreate</Filter>
+    </None>
+    <None Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryCommon\CryLiveCreate\IRealtimeRemoteUpdate.h">
+      <Filter>CryLiveCreate</Filter>
+    </None>
+    <None Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryCommon\CryLobby\CommonICryLobby.h">
+      <Filter>CryLobby</Filter>
+    </None>
+    <None Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryCommon\CryLobby\CryLobbyEventCallback.h">
+      <Filter>CryLobby</Filter>
+    </None>
+    <None Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryCommon\CryLobby\ICryStats.h">
+      <Filter>CryLobby</Filter>
+    </None>
+    <None Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryCommon\CryLobby\CommonICryMatchMaking.h">
+      <Filter>CryLobby</Filter>
+    </None>
+    <None Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryCommon\CryMath\Cry_Matrix33.h">
+      <Filter>CryMath</Filter>
+    </None>
+    <None Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryCommon\CryMath\Cry_Matrix34.h">
+      <Filter>CryMath</Filter>
+    </None>
+    <None Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryCommon\CryMath\Cry_Matrix44.h">
+      <Filter>CryMath</Filter>
+    </None>
+    <None Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryCommon\CryMath\Cry_MatrixDiag.h">
+      <Filter>CryMath</Filter>
+    </None>
+    <None Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryCommon\CryMath\Cry_Vector4.h">
+      <Filter>CryMath</Filter>
+    </None>
+    <None Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryCommon\CryMath\AABBSV.h">
+      <Filter>CryMath</Filter>
+    </None>
+    <None Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryCommon\CryMath\Cry_Camera.h">
+      <Filter>CryMath</Filter>
+    </None>
+    <None Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryCommon\CryMath\Cry_Color.h">
+      <Filter>CryMath</Filter>
+    </None>
+    <None Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryCommon\CryMath\Cry_Geo.h">
+      <Filter>CryMath</Filter>
+    </None>
+    <None Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryCommon\CryMath\Cry_GeoDistance.h">
+      <Filter>CryMath</Filter>
+    </None>
+    <None Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryCommon\CryMath\Cry_GeoIntersect.h">
+      <Filter>CryMath</Filter>
+    </None>
+    <None Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryCommon\CryMath\Cry_GeoOverlap.h">
+      <Filter>CryMath</Filter>
+    </None>
+    <None Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryCommon\CryMath\Cry_Math.h">
+      <Filter>CryMath</Filter>
+    </None>
+    <None Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryCommon\CryMath\Cry_Math_SSE.h">
+      <Filter>CryMath</Filter>
+    </None>
+    <None Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryCommon\CryMath\Cry_Quat.h">
+      <Filter>CryMath</Filter>
+    </None>
+    <None Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryCommon\CryMath\Cry_ValidNumber.h">
+      <Filter>CryMath</Filter>
+    </None>
+    <None Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryCommon\CryMath\Cry_Vector2.h">
+      <Filter>CryMath</Filter>
+    </None>
+    <None Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryCommon\CryMath\Cry_Vector3.h">
+      <Filter>CryMath</Filter>
+    </None>
+    <None Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryCommon\CryMath\Cry_XOptimise.h">
+      <Filter>CryMath</Filter>
+    </None>
+    <None Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryCommon\CryMath\CryHalf_info.h">
+      <Filter>CryMath</Filter>
+    </None>
+    <None Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryCommon\CryMath\GeomQuery.h">
+      <Filter>CryMath</Filter>
+    </None>
+    <None Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryCommon\CryMath\CryHalf.inl">
+      <Filter>CryMath</Filter>
+    </None>
+    <None Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryCommon\CryMath\QTangent.h">
+      <Filter>CryMath</Filter>
+    </None>
+    <None Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryCommon\CryMath\ISplines.h">
+      <Filter>CryMath</Filter>
+    </None>
+    <None Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryCommon\CryMath\ISplineSerialization_impl.h">
+      <Filter>CryMath</Filter>
+    </None>
+    <None Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryCommon\CryMath\Bezier.h">
+      <Filter>CryMath</Filter>
+    </None>
+    <None Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryCommon\CryMath\Bezier_impl.h">
+      <Filter>CryMath</Filter>
+    </None>
+    <None Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryCommon\CryMath\FinalizingSpline.h">
+      <Filter>CryMath</Filter>
+    </None>
+    <None Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryCommon\CryMath\TCBSpline.h">
+      <Filter>CryMath</Filter>
+    </None>
+    <None Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryCommon\CryMath\Range.h">
+      <Filter>CryMath</Filter>
+    </None>
+    <None Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryCommon\CryMath\CryRandomInternal.h">
+      <Filter>CryMath</Filter>
+    </None>
+    <None Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryCommon\CryMath\Random.h">
+      <Filter>CryMath</Filter>
+    </None>
+    <None Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryCommon\CryMath\LCGRandom.h">
+      <Filter>CryMath</Filter>
+    </None>
+    <None Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryCommon\CryMath\MTPseudoRandom.h">
+      <Filter>CryMath</Filter>
+    </None>
+    <None Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryCommon\CryMath\PNoise3.h">
+      <Filter>CryMath</Filter>
+    </None>
+    <None Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryCommon\CryMath\SNoise.h">
+      <Filter>CryMath</Filter>
+    </None>
+    <None Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryCommon\CryMath\SimpleHashLookUp.h">
+      <Filter>CryMath</Filter>
+    </None>
+    <None Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryCommon\CryMath\RadixSort.h">
+      <Filter>CryMath</Filter>
+    </None>
+    <None Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryCommon\CryMath\RadixSortImpl.h">
+      <Filter>CryMath</Filter>
+    </None>
+    <None Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryCommon\CryMemory\Allocator.h">
+      <Filter>CryMemory</Filter>
+    </None>
+    <None Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryCommon\CryMemory\IDefragAllocator.h">
+      <Filter>CryMemory</Filter>
+    </None>
+    <None Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryCommon\CryMemory\MemoryAccess.h">
+      <Filter>CryMemory</Filter>
+    </None>
+    <None Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryCommon\CryMemory\FixedAllocator.h">
+      <Filter>CryMemory</Filter>
+    </None>
+    <None Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryCommon\CryMemory\CryMemoryAllocator.h">
+      <Filter>CryMemory</Filter>
+    </None>
+    <None Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryCommon\CryMemory\CryMemoryManager.h">
+      <Filter>CryMemory</Filter>
+    </None>
+    <None Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryCommon\CryMemory\CryMemoryManager_impl.h">
+      <Filter>CryMemory</Filter>
+    </None>
+    <None Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryCommon\CryMemory\IMemory.h">
+      <Filter>CryMemory</Filter>
+    </None>
+    <None Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryCommon\CryMemory\IGeneralMemoryHeap.h">
+      <Filter>CryMemory</Filter>
+    </None>
+    <None Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryCommon\CryMemory\ILocalMemoryUsage.h">
+      <Filter>CryMemory</Filter>
+    </None>
+    <None Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryCommon\CryMemory\PoolAllocator.h">
+      <Filter>CryMemory</Filter>
+    </None>
+    <None Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryCommon\CryMemory\StlDbgAlloc.h">
+      <Filter>CryMemory</Filter>
+    </None>
+    <None Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryCommon\CryMemory\STLGlobalAllocator.h">
+      <Filter>CryMemory</Filter>
+    </None>
+    <None Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryCommon\CryMemory\STLPoolAllocator.h">
+      <Filter>CryMemory</Filter>
+    </None>
+    <None Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryCommon\CryMemory\STLPoolAllocator_ManyElems.h">
+      <Filter>CryMemory</Filter>
+    </None>
+    <None Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryCommon\CryMemory\STLAlignedAlloc.h">
+      <Filter>CryMemory</Filter>
+    </None>
+    <None Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryCommon\CryMemory\BucketAllocator.h">
+      <Filter>CryMemory</Filter>
+    </None>
+    <None Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryCommon\CryMemory\BucketAllocatorImpl.h">
+      <Filter>CryMemory</Filter>
+    </None>
+    <None Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryCommon\CryMemory\BucketAllocatorPolicy.h">
+      <Filter>CryMemory</Filter>
+    </None>
+    <None Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryCommon\CryMemory\HeapAllocator.h">
+      <Filter>CryMemory</Filter>
+    </None>
+    <None Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryCommon\CryMemory\CryMemBlock.h">
+      <Filter>CryMemory</Filter>
+    </None>
+    <None Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryCommon\CryMemory\CrySizer.h">
+      <Filter>CryMemory</Filter>
+    </None>
+    <None Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryCommon\CryMemory\CryPool\PAUnitTest.cpp">
+      <Filter>CryMemory\CryPool</Filter>
+    </None>
+    <None Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryCommon\CryMemory\CryPool\Allocator.h">
+      <Filter>CryMemory\CryPool</Filter>
+    </None>
+    <None Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryCommon\CryMemory\CryPool\Container.h">
+      <Filter>CryMemory\CryPool</Filter>
+    </None>
+    <None Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryCommon\CryMemory\CryPool\Defrag.h">
+      <Filter>CryMemory\CryPool</Filter>
+    </None>
+    <None Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryCommon\CryMemory\CryPool\example.h">
+      <Filter>CryMemory\CryPool</Filter>
+    </None>
+    <None Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryCommon\CryMemory\CryPool\Fallback.h">
+      <Filter>CryMemory\CryPool</Filter>
+    </None>
+    <None Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryCommon\CryMemory\CryPool\Inspector.h">
+      <Filter>CryMemory\CryPool</Filter>
+    </None>
+    <None Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryCommon\CryMemory\CryPool\List.h">
+      <Filter>CryMemory\CryPool</Filter>
+    </None>
+    <None Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryCommon\CryMemory\CryPool\Memory.h">
+      <Filter>CryMemory\CryPool</Filter>
+    </None>
+    <None Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryCommon\CryMemory\CryPool\PoolAlloc.h">
+      <Filter>CryMemory\CryPool</Filter>
+    </None>
+    <None Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryCommon\CryMemory\CryPool\STLWrapper.h">
+      <Filter>CryMemory\CryPool</Filter>
+    </None>
+    <None Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryCommon\CryMemory\CryPool\ThreadSafe.h">
+      <Filter>CryMemory\CryPool</Filter>
+    </None>
+    <None Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryCommon\CryMono\IMonoRuntime.h">
+      <Filter>CryMono</Filter>
+    </None>
+    <None Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryCommon\CryMovie\IMovieSystem.h">
+      <Filter>CryMovie</Filter>
+    </None>
+    <None Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryCommon\CryMovie\AnimKey.h">
+      <Filter>CryMovie</Filter>
+    </None>
+    <None Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryCommon\CryMovie\AnimKey_impl.h">
+      <Filter>CryMovie</Filter>
+    </None>
+    <None Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryCommon\CryMovie\AnimTime.h">
+      <Filter>CryMovie</Filter>
+    </None>
+    <None Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryCommon\CryNetwork\ISerialize.h">
+      <Filter>CryNetwork</Filter>
+    </None>
+    <None Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryCommon\CryNetwork\ISerialize_info.h">
+      <Filter>CryNetwork</Filter>
+    </None>
+    <None Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryCommon\CryNetwork\ISerializeHelper.h">
+      <Filter>CryNetwork</Filter>
+    </None>
+    <None Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryCommon\CryNetwork\SerializationTypes.h">
+      <Filter>CryNetwork</Filter>
+    </None>
+    <None Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryCommon\CryNetwork\SerializeBuffer.h">
+      <Filter>CryNetwork</Filter>
+    </None>
+    <None Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryCommon\CryNetwork\SerializeFwd.h">
+      <Filter>CryNetwork</Filter>
+    </None>
+    <None Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryCommon\CryNetwork\SimpleSerialize.h">
+      <Filter>CryNetwork</Filter>
+    </None>
+    <None Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryCommon\CryNetwork\INetwork.h">
+      <Filter>CryNetwork</Filter>
+    </None>
+    <None Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryCommon\CryNetwork\INetworkService.h">
+      <Filter>CryNetwork</Filter>
+    </None>
+    <None Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryCommon\CryNetwork\INotificationNetwork.h">
+      <Filter>CryNetwork</Filter>
+    </None>
+    <None Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryCommon\CryNetwork\IServiceNetwork.h">
+      <Filter>CryNetwork</Filter>
+    </None>
+    <None Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryCommon\CryNetwork\NetHelpers.h">
+      <Filter>CryNetwork</Filter>
+    </None>
+    <None Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryCommon\CryNetwork\NetAddress.h">
+      <Filter>CryNetwork</Filter>
+    </None>
+    <None Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryCommon\CryNetwork\CrySocks.h">
+      <Filter>CryNetwork</Filter>
+    </None>
+    <None Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryCommon\CryNetwork\IRemoteControl.h">
+      <Filter>CryNetwork</Filter>
+    </None>
+    <None Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryCommon\CryNetwork\IRemoteCommand.h">
+      <Filter>CryNetwork</Filter>
+    </None>
+    <None Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryCommon\CryNetwork\ICryOnlineStorage.h">
+      <Filter>CryNetwork</Filter>
+    </None>
+    <None Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryCommon\CryNetwork\ISimpleHttpServer.h">
+      <Filter>CryNetwork</Filter>
+    </None>
+    <None Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryCommon\CryParticleSystem\Options.h">
+      <Filter>CryParticleSystem</Filter>
+    </None>
+    <None Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryCommon\CryParticleSystem\IParticles.h">
+      <Filter>CryParticleSystem</Filter>
+    </None>
+    <None Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryCommon\CryParticleSystem\ParticleParams.h">
+      <Filter>CryParticleSystem</Filter>
+    </None>
+    <None Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryCommon\CryParticleSystem\ParticleParams_info.h">
+      <Filter>CryParticleSystem</Filter>
+    </None>
+    <None Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryCommon\CryParticleSystem\ParticleParams_TypeInfo.h">
+      <Filter>CryParticleSystem</Filter>
+    </None>
+    <None Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryCommon\CryParticleSystem\IParticlesPfx2.h">
+      <Filter>CryParticleSystem</Filter>
+    </None>
+    <None Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryCommon\CryPhysics\IPhysics.h">
+      <Filter>CryPhysics</Filter>
+    </None>
+    <None Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryCommon\CryPhysics\IPhysicsDebugRenderer.h">
+      <Filter>CryPhysics</Filter>
+    </None>
+    <None Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryCommon\CryPhysics\physinterface.h">
+      <Filter>CryPhysics</Filter>
+    </None>
+    <None Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryCommon\CryPhysics\IDeferredCollisionEvent.h">
+      <Filter>CryPhysics</Filter>
+    </None>
+    <None Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryCommon\CryPhysics\primitives.h">
+      <Filter>CryPhysics</Filter>
+    </None>
+    <None Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryCommon\CryPhysics\polynomial.h">
+      <Filter>CryPhysics</Filter>
+    </None>
+    <None Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryCommon\CryPhysics\primitives_info.h">
+      <Filter>CryPhysics</Filter>
+    </None>
+    <None Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryCommon\CryPhysics\RayCastQueue.h">
+      <Filter>CryPhysics</Filter>
+    </None>
+    <None Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryCommon\CryPhysics\AgePriorityQueue.h">
+      <Filter>CryPhysics</Filter>
+    </None>
+    <None Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryCommon\CryPhysics\DeferredActionQueue.h">
+      <Filter>CryPhysics</Filter>
+    </None>
+    <None Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryCommon\CryPhysics\IntersectionTestQueue.h">
+      <Filter>CryPhysics</Filter>
+    </None>
+    <None Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryCommon\CryRenderer\IRenderer.h">
+      <Filter>CryRenderer</Filter>
+    </None>
+    <None Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryCommon\CryRenderer\IRenderMesh.h">
+      <Filter>CryRenderer</Filter>
+    </None>
+    <None Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryCommon\CryRenderer\IRenderAuxGeom.h">
+      <Filter>CryRenderer</Filter>
+    </None>
+    <None Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryCommon\CryRenderer\IStereoRenderer.h">
+      <Filter>CryRenderer</Filter>
+    </None>
+    <None Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryCommon\CryRenderer\RenderObject.h">
+      <Filter>CryRenderer</Filter>
+    </None>
+    <None Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryCommon\CryRenderer\IMeshBaking.h">
+      <Filter>CryRenderer</Filter>
+    </None>
+    <None Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryCommon\CryRenderer\IShader.h">
+      <Filter>CryRenderer</Filter>
+    </None>
+    <None Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryCommon\CryRenderer\IShaderParamCallback.h">
+      <Filter>CryRenderer</Filter>
+    </None>
+    <None Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryCommon\CryRenderer\IShader_info.h">
+      <Filter>CryRenderer</Filter>
+    </None>
+    <None Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryCommon\CryRenderer\IImage.h">
+      <Filter>CryRenderer</Filter>
+    </None>
+    <None Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryCommon\CryRenderer\ITexture.h">
+      <Filter>CryRenderer</Filter>
+    </None>
+    <None Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryCommon\CryRenderer\branchmask.h">
+      <Filter>CryRenderer</Filter>
+    </None>
+    <None Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryCommon\CryRenderer\IFlares.h">
+      <Filter>CryRenderer</Filter>
+    </None>
+    <None Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryCommon\CryRenderer\VertexFormats.h">
+      <Filter>CryRenderer</Filter>
+    </None>
+    <None Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryCommon\CryRenderer\Tarray.h">
+      <Filter>CryRenderer</Filter>
+    </None>
+    <None Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryCommon\CryRenderer\IColorGradingController.h">
+      <Filter>CryRenderer</Filter>
+    </None>
+    <None Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryCommon\CryRenderer\IGpuParticles.h">
+      <Filter>CryRenderer</Filter>
+    </None>
+    <None Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryCommon\CryRenderer\IGpuPhysics.h">
+      <Filter>CryRenderer</Filter>
+    </None>
+    <None Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryCommon\CryRenderer\IComputeSkinning.h">
+      <Filter>CryRenderer</Filter>
+    </None>
+    <None Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryCommon\CryRenderer\IScaleform.h">
+      <Filter>CryRenderer</Filter>
+    </None>
+    <None Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryCommon\CryRenderer\RenderElements\CREBreakableGlass.h">
+      <Filter>CryRenderer\RenderElements</Filter>
+    </None>
+    <None Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryCommon\CryRenderer\RenderElements\CREBreakableGlassConfig.h">
+      <Filter>CryRenderer\RenderElements</Filter>
+    </None>
+    <None Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryCommon\CryRenderer\RenderElements\CREBreakableGlassHelpers.h">
+      <Filter>CryRenderer\RenderElements</Filter>
+    </None>
+    <None Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryCommon\CryRenderer\RenderElements\CREBaseCloud.h">
+      <Filter>CryRenderer\RenderElements</Filter>
+    </None>
+    <None Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryCommon\CryRenderer\RenderElements\CREFarTreeSprites.h">
+      <Filter>CryRenderer\RenderElements</Filter>
+    </None>
+    <None Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryCommon\CryRenderer\RenderElements\CREFogVolume.h">
+      <Filter>CryRenderer\RenderElements</Filter>
+    </None>
+    <None Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryCommon\CryRenderer\RenderElements\CREGameEffect.h">
+      <Filter>CryRenderer\RenderElements</Filter>
+    </None>
+    <None Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryCommon\CryRenderer\RenderElements\CREImposter.h">
+      <Filter>CryRenderer\RenderElements</Filter>
+    </None>
+    <None Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryCommon\CryRenderer\RenderElements\CREMesh.h">
+      <Filter>CryRenderer\RenderElements</Filter>
+    </None>
+    <None Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryCommon\CryRenderer\RenderElements\CREOcclusionQuery.h">
+      <Filter>CryRenderer\RenderElements</Filter>
+    </None>
+    <None Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryCommon\CryRenderer\RenderElements\CREParticle.h">
+      <Filter>CryRenderer\RenderElements</Filter>
+    </None>
+    <None Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryCommon\CryRenderer\RenderElements\CREPostProcess.h">
+      <Filter>CryRenderer\RenderElements</Filter>
+    </None>
+    <None Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryCommon\CryRenderer\RenderElements\CREPrismObject.h">
+      <Filter>CryRenderer\RenderElements</Filter>
+    </None>
+    <None Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryCommon\CryRenderer\RenderElements\CRESky.h">
+      <Filter>CryRenderer\RenderElements</Filter>
+    </None>
+    <None Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryCommon\CryRenderer\RenderElements\CREVolumeObject.h">
+      <Filter>CryRenderer\RenderElements</Filter>
+    </None>
+    <None Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryCommon\CryRenderer\RenderElements\CREWaterOcean.h">
+      <Filter>CryRenderer\RenderElements</Filter>
+    </None>
+    <None Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryCommon\CryRenderer\RenderElements\CREWaterVolume.h">
+      <Filter>CryRenderer\RenderElements</Filter>
+    </None>
+    <None Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryCommon\CryRenderer\RenderElements\RendElement.h">
+      <Filter>CryRenderer\RenderElements</Filter>
+    </None>
+    <None Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryCommon\CrySandbox\ScopedVariableSetter.h">
+      <Filter>CrySandbox</Filter>
+    </None>
+    <None Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryCommon\CrySandbox\IFuncVariable.h">
+      <Filter>CrySandbox</Filter>
+    </None>
+    <None Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryCommon\CrySandbox\IEditorGame.h">
+      <Filter>CrySandbox</Filter>
+    </None>
+    <None Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryCommon\CrySandbox\CrySignal.h">
+      <Filter>CrySandbox</Filter>
+    </None>
+    <None Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryCommon\CrySandbox\CryFunction.h">
+      <Filter>CrySandbox</Filter>
+    </None>
+    <None Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryCommon\CrySandbox\CryInterop.h">
+      <Filter>CrySandbox</Filter>
+    </None>
+    <None Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryCommon\CryScriptSystem\IScriptSystem.h">
+      <Filter>CryScriptSystem</Filter>
+    </None>
+    <None Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryCommon\CryScriptSystem\ScriptHelpers.h">
+      <Filter>CryScriptSystem</Filter>
+    </None>
+    <None Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryCommon\CrySerialization\BlackBox.h">
+      <Filter>CrySerialization</Filter>
+    </None>
+    <None Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryCommon\CrySerialization\SharedPtr.h">
+      <Filter>CrySerialization</Filter>
+    </None>
+    <None Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryCommon\CrySerialization\CRCRef.h">
+      <Filter>CrySerialization</Filter>
+    </None>
+    <None Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryCommon\CrySerialization\CRCRefImpl.h">
+      <Filter>CrySerialization</Filter>
+    </None>
+    <None Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryCommon\CrySerialization\ClassFactory.h">
+      <Filter>CrySerialization</Filter>
+    </None>
+    <None Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryCommon\CrySerialization\Color.h">
+      <Filter>CrySerialization</Filter>
+    </None>
+    <None Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryCommon\CrySerialization\ColorImpl.h">
+      <Filter>CrySerialization</Filter>
+    </None>
+    <None Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryCommon\CrySerialization\CryExtension.h">
+      <Filter>CrySerialization</Filter>
+    </None>
+    <None Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryCommon\CrySerialization\CryExtensionImpl.h">
+      <Filter>CrySerialization</Filter>
+    </None>
+    <None Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryCommon\CrySerialization\CryName.h">
+      <Filter>CrySerialization</Filter>
+    </None>
+    <None Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryCommon\CrySerialization\CryNameImpl.h">
+      <Filter>CrySerialization</Filter>
+    </None>
+    <None Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryCommon\CrySerialization\CryStrings.h">
+      <Filter>CrySerialization</Filter>
+    </None>
+    <None Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryCommon\CrySerialization\CryStringsImpl.h">
+      <Filter>CrySerialization</Filter>
+    </None>
+    <None Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryCommon\CrySerialization\DynArray.h">
+      <Filter>CrySerialization</Filter>
+    </None>
+    <None Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryCommon\CrySerialization\DynArrayImpl.h">
+      <Filter>CrySerialization</Filter>
+    </None>
+    <None Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryCommon\CrySerialization\Enum.h">
+      <Filter>CrySerialization</Filter>
+    </None>
+    <None Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryCommon\CrySerialization\Gap.h">
+      <Filter>CrySerialization</Filter>
+    </None>
+    <None Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryCommon\CrySerialization\IArchive.h">
+      <Filter>CrySerialization</Filter>
+    </None>
+    <None Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryCommon\CrySerialization\IArchiveHost.h">
+      <Filter>CrySerialization</Filter>
+    </None>
+    <None Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryCommon\CrySerialization\IClassFactory.h">
+      <Filter>CrySerialization</Filter>
+    </None>
+    <None Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryCommon\CrySerialization\IntrusiveFactory.h">
+      <Filter>CrySerialization</Filter>
+    </None>
+    <None Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryCommon\CrySerialization\Math.h">
+      <Filter>CrySerialization</Filter>
+    </None>
+    <None Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryCommon\CrySerialization\MathImpl.h">
+      <Filter>CrySerialization</Filter>
+    </None>
+    <None Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryCommon\CrySerialization\STL.h">
+      <Filter>CrySerialization</Filter>
+    </None>
+    <None Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryCommon\CrySerialization\Serializer.h">
+      <Filter>CrySerialization</Filter>
+    </None>
+    <None Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryCommon\CrySerialization\SmartPtr.h">
+      <Filter>CrySerialization</Filter>
+    </None>
+    <None Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryCommon\CrySerialization\SmartPtrImpl.h">
+      <Filter>CrySerialization</Filter>
+    </None>
+    <None Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryCommon\CrySerialization\StringList.h">
+      <Filter>CrySerialization</Filter>
+    </None>
+    <None Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryCommon\CrySerialization\NameGeneration.h">
+      <Filter>CrySerialization</Filter>
+    </None>
+    <None Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryCommon\CrySerialization\TypeID.h">
+      <Filter>CrySerialization</Filter>
+    </None>
+    <None Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryCommon\CrySerialization\TypeInfo.h">
+      <Filter>CrySerialization</Filter>
+    </None>
+    <None Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryCommon\CrySerialization\TypeInfoImpl.h">
+      <Filter>CrySerialization</Filter>
+    </None>
+    <None Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryCommon\CrySerialization\Callback.h">
+      <Filter>CrySerialization</Filter>
+    </None>
+    <None Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryCommon\CrySerialization\Forward.h">
+      <Filter>CrySerialization</Filter>
+    </None>
+    <None Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryCommon\CrySerialization\Decorators\ActionButton.h">
+      <Filter>CrySerialization\Decorators</Filter>
+    </None>
+    <None Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryCommon\CrySerialization\Decorators\BitFlags.h">
+      <Filter>CrySerialization\Decorators</Filter>
+    </None>
+    <None Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryCommon\CrySerialization\Decorators\BitFlagsImpl.h">
+      <Filter>CrySerialization\Decorators</Filter>
+    </None>
+    <None Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryCommon\CrySerialization\Decorators\JointName.h">
+      <Filter>CrySerialization\Decorators</Filter>
+    </None>
+    <None Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryCommon\CrySerialization\Decorators\JointNameImpl.h">
+      <Filter>CrySerialization\Decorators</Filter>
+    </None>
+    <None Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryCommon\CrySerialization\Decorators\LocalFrame.h">
+      <Filter>CrySerialization\Decorators</Filter>
+    </None>
+    <None Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryCommon\CrySerialization\Decorators\LocalFrameImpl.h">
+      <Filter>CrySerialization\Decorators</Filter>
+    </None>
+    <None Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryCommon\CrySerialization\Decorators\OutputFilePath.h">
+      <Filter>CrySerialization\Decorators</Filter>
+    </None>
+    <None Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryCommon\CrySerialization\Decorators\OutputFilePathImpl.h">
+      <Filter>CrySerialization\Decorators</Filter>
+    </None>
+    <None Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryCommon\CrySerialization\Decorators\Range.h">
+      <Filter>CrySerialization\Decorators</Filter>
+    </None>
+    <None Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryCommon\CrySerialization\Decorators\RangeImpl.h">
+      <Filter>CrySerialization\Decorators</Filter>
+    </None>
+    <None Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryCommon\CrySerialization\Decorators\ResourceFilePath.h">
+      <Filter>CrySerialization\Decorators</Filter>
+    </None>
+    <None Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryCommon\CrySerialization\Decorators\ResourceFilePathImpl.h">
+      <Filter>CrySerialization\Decorators</Filter>
+    </None>
+    <None Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryCommon\CrySerialization\Decorators\ResourceFolderPath.h">
+      <Filter>CrySerialization\Decorators</Filter>
+    </None>
+    <None Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryCommon\CrySerialization\Decorators\ResourceFolderPathImpl.h">
+      <Filter>CrySerialization\Decorators</Filter>
+    </None>
+    <None Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryCommon\CrySerialization\Decorators\ResourceSelector.h">
+      <Filter>CrySerialization\Decorators</Filter>
+    </None>
+    <None Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryCommon\CrySerialization\Decorators\Resources.h">
+      <Filter>CrySerialization\Decorators</Filter>
+    </None>
+    <None Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryCommon\CrySerialization\Decorators\ResourcesAudio.h">
+      <Filter>CrySerialization\Decorators</Filter>
+    </None>
+    <None Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryCommon\CrySerialization\Decorators\Slider.h">
+      <Filter>CrySerialization\Decorators</Filter>
+    </None>
+    <None Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryCommon\CrySerialization\Decorators\SliderImpl.h">
+      <Filter>CrySerialization\Decorators</Filter>
+    </None>
+    <None Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryCommon\CrySerialization\Decorators\TagList.h">
+      <Filter>CrySerialization\Decorators</Filter>
+    </None>
+    <None Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryCommon\CrySerialization\Decorators\TagListImpl.h">
+      <Filter>CrySerialization\Decorators</Filter>
+    </None>
+    <None Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryCommon\CryString\CryFixedString.h">
+      <Filter>CryString</Filter>
+    </None>
+    <None Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryCommon\CryString\CryString.h">
+      <Filter>CryString</Filter>
+    </None>
+    <None Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryCommon\CryString\CryStringUtils.h">
+      <Filter>CryString</Filter>
+    </None>
+    <None Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryCommon\CryString\StringUtils.h">
+      <Filter>CryString</Filter>
+    </None>
+    <None Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryCommon\CryString\HashedString.h">
+      <Filter>CryString</Filter>
+    </None>
+    <None Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryCommon\CryString\Name_TypeInfo.h">
+      <Filter>CryString</Filter>
+    </None>
+    <None Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryCommon\CryString\CryName.h">
+      <Filter>CryString</Filter>
+    </None>
+    <None Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryCommon\CryString\CryPath.h">
+      <Filter>CryString</Filter>
+    </None>
+    <None Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryCommon\CryString\UnicodeBinding.h">
+      <Filter>CryString</Filter>
+    </None>
+    <None Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryCommon\CryString\UnicodeEncoding.h">
+      <Filter>CryString</Filter>
+    </None>
+    <None Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryCommon\CryString\UnicodeFunctions.h">
+      <Filter>CryString</Filter>
+    </None>
+    <None Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryCommon\CryString\UnicodeIterator.h">
+      <Filter>CryString</Filter>
+    </None>
+    <None Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryCommon\CryString\NameCRCHelper.h">
+      <Filter>CryString</Filter>
+    </None>
+    <None Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryCommon\CrySystem\IEngineModule.h">
+      <Filter>CrySystem</Filter>
+    </None>
+    <None Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryCommon\CrySystem\ICryPlugin.h">
+      <Filter>CrySystem</Filter>
+    </None>
+    <None Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryCommon\CrySystem\Timer.h">
+      <Filter>CrySystem</Filter>
+    </None>
+    <None Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryCommon\CrySystem\TimeValue.h">
+      <Filter>CrySystem</Filter>
+    </None>
+    <None Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryCommon\CrySystem\TimeValue_info.h">
+      <Filter>CrySystem</Filter>
+    </None>
+    <None Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryCommon\CrySystem\ISystem.h">
+      <Filter>CrySystem</Filter>
+    </None>
+    <None Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryCommon\CrySystem\CryUnitTest.h">
+      <Filter>CrySystem</Filter>
+    </None>
+    <None Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryCommon\CrySystem\CryUtils.h">
+      <Filter>CrySystem</Filter>
+    </None>
+    <None Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryCommon\CrySystem\ILog.h">
+      <Filter>CrySystem</Filter>
+    </None>
+    <None Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryCommon\CrySystem\IMiniLog.h">
+      <Filter>CrySystem</Filter>
+    </None>
+    <None Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryCommon\CrySystem\Pipe.h">
+      <Filter>CrySystem</Filter>
+    </None>
+    <None Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryCommon\CrySystem\ICmdLine.h">
+      <Filter>CrySystem</Filter>
+    </None>
+    <None Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryCommon\CrySystem\IConsole.h">
+      <Filter>CrySystem</Filter>
+    </None>
+    <None Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryCommon\CrySystem\ITextModeConsole.h">
+      <Filter>CrySystem</Filter>
+    </None>
+    <None Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryCommon\CrySystem\ParseEngineConfig.h">
+      <Filter>CrySystem</Filter>
+    </None>
+    <None Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryCommon\CrySystem\IResourceCollector.h">
+      <Filter>CrySystem</Filter>
+    </None>
+    <None Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryCommon\CrySystem\IOverloadSceneManager.h">
+      <Filter>CrySystem</Filter>
+    </None>
+    <None Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryCommon\CrySystem\ISystemScheduler.h">
+      <Filter>CrySystem</Filter>
+    </None>
+    <None Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryCommon\CrySystem\IWindowMessageHandler.h">
+      <Filter>CrySystem</Filter>
+    </None>
+    <None Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryCommon\CrySystem\ILocalizationManager.h">
+      <Filter>CrySystem</Filter>
+    </None>
+    <None Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryCommon\CrySystem\IBudgetingSystem.h">
+      <Filter>CrySystem</Filter>
+    </None>
+    <None Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryCommon\CrySystem\IProcess.h">
+      <Filter>CrySystem</Filter>
+    </None>
+    <None Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryCommon\CrySystem\ICodeCheckpointMgr.h">
+      <Filter>CrySystem</Filter>
+    </None>
+    <None Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryCommon\CrySystem\InplaceFactory.h">
+      <Filter>CrySystem</Filter>
+    </None>
+    <None Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryCommon\CrySystem\ITestSystem.h">
+      <Filter>CrySystem</Filter>
+    </None>
+    <None Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryCommon\CrySystem\ITimer.h">
+      <Filter>CrySystem</Filter>
+    </None>
+    <None Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryCommon\CrySystem\IValidator.h">
+      <Filter>CrySystem</Filter>
+    </None>
+    <None Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryCommon\CrySystem\CryVersion.h">
+      <Filter>CrySystem</Filter>
+    </None>
+    <None Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryCommon\CrySystem\IStreamEngine.h">
+      <Filter>CrySystem</Filter>
+    </None>
+    <None Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryCommon\CrySystem\IStreamEngineDefs.h">
+      <Filter>CrySystem</Filter>
+    </None>
+    <None Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryCommon\CrySystem\ICryMiniGUI.h">
+      <Filter>CrySystem</Filter>
+    </None>
+    <None Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryCommon\CrySystem\File\LineStreamBuffer.h">
+      <Filter>CrySystem\File</Filter>
+    </None>
+    <None Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryCommon\CrySystem\File\CryFile.h">
+      <Filter>CrySystem\File</Filter>
+    </None>
+    <None Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryCommon\CrySystem\File\CryBufferedFileReader.h">
+      <Filter>CrySystem\File</Filter>
+    </None>
+    <None Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryCommon\CrySystem\File\IResourceManager.h">
+      <Filter>CrySystem\File</Filter>
+    </None>
+    <None Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryCommon\CrySystem\File\ICryPak.h">
+      <Filter>CrySystem\File</Filter>
+    </None>
+    <None Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryCommon\CrySystem\File\IAVI_Reader.h">
+      <Filter>CrySystem\File</Filter>
+    </None>
+    <None Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryCommon\CrySystem\File\IFileChangeMonitor.h">
+      <Filter>CrySystem\File</Filter>
+    </None>
+    <None Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryCommon\CrySystem\Profilers\IDiskProfiler.h">
+      <Filter>CrySystem\Profilers</Filter>
+    </None>
+    <None Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryCommon\CrySystem\Profilers\ThreadProfilerSupport.h">
+      <Filter>CrySystem\Profilers</Filter>
+    </None>
+    <None Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryCommon\CrySystem\Profilers\CryMemReplay.h">
+      <Filter>CrySystem\Profilers</Filter>
+    </None>
+    <None Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryCommon\CrySystem\Profilers\CryMemReplayTrackedPtr.h">
+      <Filter>CrySystem\Profilers</Filter>
+    </None>
+    <None Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryCommon\CrySystem\Profilers\IPerfHud.h">
+      <Filter>CrySystem\Profilers</Filter>
+    </None>
+    <None Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryCommon\CrySystem\Profilers\IStatoscope.h">
+      <Filter>CrySystem\Profilers</Filter>
+    </None>
+    <None Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryCommon\CrySystem\Profilers\ProfileLog.h">
+      <Filter>CrySystem\Profilers</Filter>
+    </None>
+    <None Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryCommon\CrySystem\Profilers\FrameProfiler\FrameProfiler.h">
+      <Filter>CrySystem\Profilers\FrameProfiler</Filter>
+    </None>
+    <None Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryCommon\CrySystem\Profilers\FrameProfiler\FrameProfiler_Brofiler.h">
+      <Filter>CrySystem\Profilers\FrameProfiler</Filter>
+    </None>
+    <None Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryCommon\CrySystem\Profilers\FrameProfiler\FrameProfiler_Platform.h">
+      <Filter>CrySystem\Profilers\FrameProfiler</Filter>
+    </None>
+    <None Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryCommon\CrySystem\Profilers\FrameProfiler\FrameProfiler_Internal.h">
+      <Filter>CrySystem\Profilers\FrameProfiler</Filter>
+    </None>
+    <None Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryCommon\CrySystem\Profilers\FrameProfiler\FrameProfiler_JobSystem.h">
+      <Filter>CrySystem\Profilers\FrameProfiler</Filter>
+    </None>
+    <None Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryCommon\CrySystem\Profilers\FrameProfiler\FrameProfiler_Shared.h">
+      <Filter>CrySystem\Profilers\FrameProfiler</Filter>
+    </None>
+    <None Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryCommon\CrySystem\Profilers\FrameProfiler\FrameProfiler_impl.h">
+      <Filter>CrySystem\Profilers\FrameProfiler</Filter>
+    </None>
+    <None Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryCommon\CrySystem\Scaleform\IFlashPlayer.h">
+      <Filter>CrySystem\Scaleform</Filter>
+    </None>
+    <None Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryCommon\CrySystem\Scaleform\IFlashUI.h">
+      <Filter>CrySystem\Scaleform</Filter>
+    </None>
+    <None Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryCommon\CrySystem\Scaleform\IUIFramework.h">
+      <Filter>CrySystem\Scaleform</Filter>
+    </None>
+    <None Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryCommon\CrySystem\Scaleform\IScaleformHelper.h">
+      <Filter>CrySystem\Scaleform</Filter>
+    </None>
+    <None Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryCommon\CrySystem\VR\IHMDManager.h">
+      <Filter>CrySystem\VR</Filter>
+    </None>
+    <None Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryCommon\CrySystem\VR\IHMDDevice.h">
+      <Filter>CrySystem\VR</Filter>
+    </None>
+    <None Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryCommon\CrySystem\VR\IHmdOculusRiftDevice.h">
+      <Filter>CrySystem\VR</Filter>
+    </None>
+    <None Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryCommon\CrySystem\VR\IHmdOpenVRDevice.h">
+      <Filter>CrySystem\VR</Filter>
+    </None>
+    <None Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryCommon\CrySystem\VR\IHmdOSVRDevice.h">
+      <Filter>CrySystem\VR</Filter>
+    </None>
+    <None Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryCommon\CrySystem\XML\IXml.h">
+      <Filter>CrySystem\XML</Filter>
+    </None>
+    <None Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryCommon\CrySystem\XML\XMLAttrReader.h">
+      <Filter>CrySystem\XML</Filter>
+    </None>
+    <None Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryCommon\CrySystem\XML\XMLBinaryHeaders.h">
+      <Filter>CrySystem\XML</Filter>
+    </None>
+    <None Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryCommon\CrySystem\XML\IReadWriteXMLSink.h">
+      <Filter>CrySystem\XML</Filter>
+    </None>
+    <None Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryCommon\CrySystem\ZLib\IZLibCompressor.h">
+      <Filter>CrySystem\ZLib</Filter>
+    </None>
+    <None Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryCommon\CrySystem\ZLib\IZlibDecompressor.h">
+      <Filter>CrySystem\ZLib</Filter>
+    </None>
+    <None Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryCommon\CrySystem\ZLib\ILZ4Decompressor.h">
+      <Filter>CrySystem\ZLib</Filter>
+    </None>
+    <None Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryCommon\CryThreading\IJobManager.h">
+      <Filter>CryThreading</Filter>
+    </None>
+    <None Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryCommon\CryThreading\IJobManager_JobDelegator.h">
+      <Filter>CryThreading</Filter>
+    </None>
+    <None Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryCommon\CryThreading\IThreadConfigManager.h">
+      <Filter>CryThreading</Filter>
+    </None>
+    <None Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryCommon\CryThreading\IThreadManager.h">
+      <Filter>CryThreading</Filter>
+    </None>
+    <None Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryCommon\CryThreading\CryThread.h">
+      <Filter>CryThreading</Filter>
+    </None>
+    <None Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryCommon\CryThreading\CryThreadImpl.h">
+      <Filter>CryThreading</Filter>
+    </None>
+    <None Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryCommon\CryThreading\CryAtomics.h">
+      <Filter>CryThreading</Filter>
+    </None>
+    <None Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryCommon\CryThreading\MultiThread_Containers.h">
+      <Filter>CryThreading</Filter>
+    </None>
+    <None Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryCommon\CryThreading\CryThread_dummy.h">
+      <Filter>CryThreading</Filter>
+    </None>
+    <None Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryCommon\CryThreading\CryThreadSafeWorkerContainer.h">
+      <Filter>CryThreading</Filter>
+    </None>
+    <None Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryCommon\CryThreading\CryThreadSafeRendererContainer.h">
+      <Filter>CryThreading</Filter>
+    </None>
+    <None Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryCommon\CryThreading\Synchronization.h">
+      <Filter>CryThreading</Filter>
+    </None>
+    <None Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryCommon\CryEngine.natvis" />
+    <None Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryCommon\CryCore\Platform\WinBase_posix.inl">
+      <Filter>CryCore\Platform</Filter>
+    </None>
+    <None Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryCommon\CryNetwork\CrySocks_posix.h">
+      <Filter>CryNetwork</Filter>
+    </None>
+    <None Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryCommon\CryThreading\CryAtomics_posix.h">
+      <Filter>CryThreading</Filter>
+    </None>
+    <None Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryCommon\CryThreading\CryThread_posix.h">
+      <Filter>CryThreading</Filter>
+    </None>
+    <None Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryCommon\CryThreading\CryThreadImpl_posix.h">
+      <Filter>CryThreading</Filter>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CrySystem\Profilers">
+      <UniqueIdentifier>{E0A99CD6-8D49-3B89-8A60-335ED7CDCD6A}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="CrySystem\File">
+      <UniqueIdentifier>{5BDA56DC-0334-3962-AF27-29F78C108975}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="CrySystem\Scaleform">
+      <UniqueIdentifier>{B8F124CC-99FC-3A51-A9F0-BB8021219C70}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="CrySystem\VR">
+      <UniqueIdentifier>{0019E20A-5556-3794-B537-06BE8681E3ED}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="CrySystem\XML">
+      <UniqueIdentifier>{7B1F2281-1C09-34A7-B8AD-7EC00D8FB1E2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="CrySystem\ZLib">
+      <UniqueIdentifier>{69268E90-E637-3E98-B896-761ADF50E343}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="CryCore\Platform">
+      <UniqueIdentifier>{D765A1E6-C4D7-32B2-93B6-0538BE4E4EEF}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="CryCore\Assert">
+      <UniqueIdentifier>{45CF6E8F-CC9C-3F8B-B53D-D47BE8F2BC65}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="CryCore\Compiler">
+      <UniqueIdentifier>{874074DF-77C8-3ECA-84B4-AD06ABF92057}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="CryCore\Containers">
+      <UniqueIdentifier>{41E5F1F9-71CF-3276-9DDF-557FD7B11114}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="CryCore\Project">
+      <UniqueIdentifier>{E74572BA-7D7B-3096-9CFA-14B932C58E4D}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="CryCore\ToolsHelpers">
+      <UniqueIdentifier>{EF4D7C89-AE22-3004-8835-10B2697A5058}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Cry3DEngine\CGF">
+      <UniqueIdentifier>{C1202EC8-D9B9-3482-9D51-75F996690507}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="CrySystem\Profilers\FrameProfiler">
+      <UniqueIdentifier>{B94E0496-803D-32A7-81C9-FB0A17A2EE56}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="CryAudio\Dialog">
+      <UniqueIdentifier>{6AF3F8E7-6EE1-3077-96AA-BBCC19B4B9E5}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="CryMemory\CryPool">
+      <UniqueIdentifier>{1628C64F-5CDF-308C-AD7E-47E0B921525E}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="CrySerialization\Decorators">
+      <UniqueIdentifier>{3651AAC3-DB5A-3114-B531-39C1FFA341BC}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="CryAISystem\BehaviorTree">
+      <UniqueIdentifier>{833B68C2-C2B1-3F2E-A155-823FA364CE94}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="CryRenderer\RenderElements">
+      <UniqueIdentifier>{7DE835E0-2FCC-3302-B929-97B0E6091D1C}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="CryNetwork">
+      <UniqueIdentifier>{6C14D616-2267-3D9C-89DB-4D1AEF09FBF0}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="CryThreading">
+      <UniqueIdentifier>{11A2EFDD-029A-379E-8A28-7C8268CBBD7E}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="CryAssert">
+      <UniqueIdentifier>{FDE3FE75-7DBE-32D6-8066-73F3EBEF6D16}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="CryCore">
+      <UniqueIdentifier>{25EACA42-BA7C-386B-8702-6D1C7658C70D}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="CrySystem">
+      <UniqueIdentifier>{833F2A38-8828-3F5C-AAAD-61CBC9FA12C1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Cry3DEngine">
+      <UniqueIdentifier>{87BC0B98-BF6F-35C1-93F1-CB220D20C1D8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="CryAISystem">
+      <UniqueIdentifier>{99F1136D-3064-356B-87AF-922657A79586}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="CryAction">
+      <UniqueIdentifier>{884C0E39-6EF7-307B-B563-A3D39DF63DE3}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="CryAnimation">
+      <UniqueIdentifier>{E5FB3FE0-5EBD-37F4-BFA1-26FF918DB14C}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="CryAudio">
+      <UniqueIdentifier>{6408B289-6F93-39B2-A8E3-DDA609460665}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="CryDynamicResponseSystem">
+      <UniqueIdentifier>{F608646A-93EB-3B69-A96A-A1F368A4B518}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="CryEntitySystem">
+      <UniqueIdentifier>{44CBF5D3-8540-377E-8258-09D05A6DC812}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="CryExtension">
+      <UniqueIdentifier>{B7EEA9D6-5133-31A0-8B41-DA6588FB2925}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="CryFlowGraph">
+      <UniqueIdentifier>{DF384350-87D5-35ED-B558-27396E1E2B6C}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="CryFont">
+      <UniqueIdentifier>{9537638B-D6AE-3C12-BC5C-501D8B63CEAD}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="CryGame">
+      <UniqueIdentifier>{EF60ABD9-1119-3569-BEA8-A4682E6E8E67}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="CryInput">
+      <UniqueIdentifier>{473827E1-B667-3B96-B422-F25150CD336E}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="CryLiveCreate">
+      <UniqueIdentifier>{C66FCFBD-1A0C-3A7C-9578-0060EAA51A27}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="CryLobby">
+      <UniqueIdentifier>{88CB938E-512D-3016-A1F0-8FD334EE6397}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="CryMath">
+      <UniqueIdentifier>{ED374795-A1A9-3B29-B5B3-0E419018B632}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="CryMemory">
+      <UniqueIdentifier>{A8EABE04-7AA5-338E-BE81-EC83E7718F9A}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="CryMono">
+      <UniqueIdentifier>{B6B74050-F68E-3880-BA29-0613DBE7B7A1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="CryMovie">
+      <UniqueIdentifier>{473D93F1-7182-3299-B60B-BD5FADCD3791}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="CryParticleSystem">
+      <UniqueIdentifier>{204598FE-8CFA-3745-A49A-05A5D99E8F7C}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="CryPhysics">
+      <UniqueIdentifier>{49B1D77B-D8EE-3621-9E0E-025C253C8D57}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="CryRenderer">
+      <UniqueIdentifier>{5E6E1B32-CCDE-3F40-9219-95E5726791C9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="CrySandbox">
+      <UniqueIdentifier>{30877FB1-5759-37C0-8FF2-E96D6175CDC9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="CryScriptSystem">
+      <UniqueIdentifier>{3C86778D-6BDD-3FD2-ADF6-DC4F1D60FDE2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="CrySerialization">
+      <UniqueIdentifier>{0DEF3074-C4BC-3CCF-BFCB-C6CF9C8B4931}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="CryString">
+      <UniqueIdentifier>{B65E7482-2DF8-3E19-A62A-62009D867D5C}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

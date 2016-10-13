@@ -1,0 +1,2823 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Project ToolsVersion="14.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\StdAfx.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Solution_Win64\Code\CryEngine\CryAction\CryAction_animgraph_uber.cpp">
+      <Filter>UBER FILES</Filter>
+    </ClCompile>
+    <ClCompile Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Solution_Win64\Code\CryEngine\CryAction\CryAction_dialogsystem_uber.cpp">
+      <Filter>UBER FILES</Filter>
+    </ClCompile>
+    <ClCompile Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Solution_Win64\Code\CryEngine\CryAction\CryAction_flashui_uber.cpp">
+      <Filter>UBER FILES</Filter>
+    </ClCompile>
+    <ClCompile Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Solution_Win64\Code\CryEngine\CryAction\CryAction_flowsystem_nodes_uber.cpp">
+      <Filter>UBER FILES</Filter>
+    </ClCompile>
+    <ClCompile Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Solution_Win64\Code\CryEngine\CryAction\CryAction_flowsystem_uber.cpp">
+      <Filter>UBER FILES</Filter>
+    </ClCompile>
+    <ClCompile Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Solution_Win64\Code\CryEngine\CryAction\CryAction_game_objects_uber.cpp">
+      <Filter>UBER FILES</Filter>
+    </ClCompile>
+    <ClCompile Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Solution_Win64\Code\CryEngine\CryAction\CryAction_main_uber_0.cpp">
+      <Filter>UBER FILES</Filter>
+    </ClCompile>
+    <ClCompile Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Solution_Win64\Code\CryEngine\CryAction\CryAction_main_uber_1.cpp">
+      <Filter>UBER FILES</Filter>
+    </ClCompile>
+    <ClCompile Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Solution_Win64\Code\CryEngine\CryAction\CryAction_main_uber_2.cpp">
+      <Filter>UBER FILES</Filter>
+    </ClCompile>
+    <ClCompile Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Solution_Win64\Code\CryEngine\CryAction\CryAction_main_uber_3.cpp">
+      <Filter>UBER FILES</Filter>
+    </ClCompile>
+    <ClCompile Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Solution_Win64\Code\CryEngine\CryAction\CryAction_main_uber_4.cpp">
+      <Filter>UBER FILES</Filter>
+    </ClCompile>
+    <ClCompile Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Solution_Win64\Code\CryEngine\CryAction\CryAction_mannequin_uber.cpp">
+      <Filter>UBER FILES</Filter>
+    </ClCompile>
+    <ClCompile Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Solution_Win64\Code\CryEngine\CryAction\CryAction_material_effects_uber.cpp">
+      <Filter>UBER FILES</Filter>
+    </ClCompile>
+    <ClCompile Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Solution_Win64\Code\CryEngine\CryAction\CryAction_network_uber.cpp">
+      <Filter>UBER FILES</Filter>
+    </ClCompile>
+    <ClCompile Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Solution_Win64\Code\CryEngine\CryAction\CryAction_serialization_uber.cpp">
+      <Filter>UBER FILES</Filter>
+    </ClCompile>
+    <ClCompile Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Solution_Win64\Code\CryEngine\CryAction\CryAction_vehicle_uber.cpp">
+      <Filter>UBER FILES</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\AnimationGraph\AnimatedCharacter.cpp">
+      <Filter>AnimationGraph\Game Object</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\AnimationGraph\AnimatedCharacterPPS.cpp">
+      <Filter>AnimationGraph\Game Object</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\AnimationGraph\AnimatedCharacterPPS_Common.cpp">
+      <Filter>AnimationGraph\Game Object</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\AnimationGraph\AnimatedCharacterPPS_Debug.cpp">
+      <Filter>AnimationGraph\Game Object</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\AnimationGraph\AnimatedCharacterPPS_ParamCalculation.cpp">
+      <Filter>AnimationGraph\Game Object</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\AnimationGraph\DebugHistory.cpp">
+      <Filter>AnimationGraph\Game Object</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\AnimationGraph\AnimatedCharacterEventProxies.cpp">
+      <Filter>AnimationGraph\Game Object</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\AnimationGraph\AnimatedCharacterEventProxies.h">
+      <Filter>AnimationGraph\Game Object</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\AnimationGraph\AnimatedCharacter.h">
+      <Filter>AnimationGraph\Game Object</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\AnimationGraph\DebugHistory.h">
+      <Filter>AnimationGraph\Game Object</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\AnimationGraph\AnimationGraphCVars.cpp">
+      <Filter>AnimationGraph\System Files</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\AnimationGraph\AnimationTrigger.cpp">
+      <Filter>AnimationGraph\System Files</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\AnimationGraph\AnimationGraphCVars.h">
+      <Filter>AnimationGraph\System Files</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\AnimationGraph\AnimationTrigger.h">
+      <Filter>AnimationGraph\System Files</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\DialogSystem\DialogActorContext.cpp">
+      <Filter>Dialog System</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\DialogSystem\DialogLoader.cpp">
+      <Filter>Dialog System</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\DialogSystem\DialogLoaderMK2.cpp">
+      <Filter>Dialog System</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\DialogSystem\DialogScript.cpp">
+      <Filter>Dialog System</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\DialogSystem\DialogSession.cpp">
+      <Filter>Dialog System</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\DialogSystem\DialogSystem.cpp">
+      <Filter>Dialog System</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\DialogSystem\ScriptBind_DialogSystem.cpp">
+      <Filter>Dialog System</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\SubtitleManager.cpp">
+      <Filter>Dialog System</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\DialogSystem\DialogActorContext.h">
+      <Filter>Dialog System</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\DialogSystem\DialogCommon.h">
+      <Filter>Dialog System</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\DialogSystem\DialogLoader.h">
+      <Filter>Dialog System</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\DialogSystem\DialogLoaderMK2.h">
+      <Filter>Dialog System</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\DialogSystem\DialogScript.h">
+      <Filter>Dialog System</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\DialogSystem\DialogSession.h">
+      <Filter>Dialog System</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\DialogSystem\DialogSystem.h">
+      <Filter>Dialog System</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\DialogSystem\ScriptBind_DialogSystem.h">
+      <Filter>Dialog System</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\SubtitleManager.h">
+      <Filter>Dialog System</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\DialogSystem\DialogQueuesManager.h">
+      <Filter>Dialog System</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\DialogSystem\DialogQueuesManager.cpp">
+      <Filter>Dialog System</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\FlashUI\FlashUI.cpp">
+      <Filter>FlashUI</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\FlashUI\FlashUIAction.cpp">
+      <Filter>FlashUI</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\FlashUI\FlashUIElement.cpp">
+      <Filter>FlashUI</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\FlashUI\FlashUIEventSystem.cpp">
+      <Filter>FlashUI</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\FlashUI\FlashUIActionEvents.cpp">
+      <Filter>FlashUI</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\FlashUI\FlashUIBaseNode.cpp">
+      <Filter>FlashUI</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\FlashUI\FlashUIArrayNodes.cpp">
+      <Filter>FlashUI</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\FlashUI\FlashUIDisplayNodes.cpp">
+      <Filter>FlashUI</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\FlashUI\FlashUIElementNodes.cpp">
+      <Filter>FlashUI</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\FlashUI\FlashUIEventNodes.cpp">
+      <Filter>FlashUI</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\FlashUI\FlashUIActionNodes.cpp">
+      <Filter>FlashUI</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\FlashUI\FlashUIUtilNodes.cpp">
+      <Filter>FlashUI</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\FlashUI\ScriptBind_UIAction.cpp">
+      <Filter>FlashUI</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\FlashUI\FlashUI.h">
+      <Filter>FlashUI</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\FlashUI\FlashUIAction.h">
+      <Filter>FlashUI</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\FlashUI\FlashUIActionEvents.h">
+      <Filter>FlashUI</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\FlashUI\FlashUIActionNodes.h">
+      <Filter>FlashUI</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\FlashUI\FlashUIArrayNodes.h">
+      <Filter>FlashUI</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\FlashUI\FlashUIBaseNode.h">
+      <Filter>FlashUI</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\FlashUI\FlashUIDisplayNodes.h">
+      <Filter>FlashUI</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\FlashUI\FlashUIElement.h">
+      <Filter>FlashUI</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\FlashUI\FlashUIElementNodes.h">
+      <Filter>FlashUI</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\FlashUI\FlashUIEventNodes.h">
+      <Filter>FlashUI</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\FlashUI\FlashUIEventSystem.h">
+      <Filter>FlashUI</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\FlashUI\FlashUIUtilNodes.h">
+      <Filter>FlashUI</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\FlashUI\ScriptBind_UIAction.h">
+      <Filter>FlashUI</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\FlowSystem\Nodes\FlowVRNodes.cpp">
+      <Filter>Flow System\Nodes</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\FlowSystem\Nodes\ColorGradientNode.cpp">
+      <Filter>Flow System\Nodes</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\FlowSystem\Nodes\ColorGradientNode.h">
+      <Filter>Flow System\Nodes</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\FlowSystem\Nodes\ComputeLightingNode.cpp">
+      <Filter>Flow System\Nodes</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\FlowSystem\Nodes\EntitiesInRangeNode.cpp">
+      <Filter>Flow System\Nodes</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\FlowSystem\Nodes\FlowCVarsNode.cpp">
+      <Filter>Flow System\Nodes</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\FlowSystem\Nodes\FlowPlatformNode.cpp">
+      <Filter>Flow System\Nodes</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\FlowSystem\Nodes\FlowCameraNodes.cpp">
+      <Filter>Flow System\Nodes</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\FlowSystem\Nodes\FlowCompositeNode.cpp">
+      <Filter>Flow System\Nodes</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\FlowSystem\Nodes\FlowConditionNode.cpp">
+      <Filter>Flow System\Nodes</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\FlowSystem\Nodes\FlowDelayNode.cpp">
+      <Filter>Flow System\Nodes</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\FlowSystem\Nodes\FlowDynamicResponseVariable.cpp">
+      <Filter>Flow System\Nodes</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\FlowSystem\Nodes\FlowDynamicResponseSignal.cpp">
+      <Filter>Flow System\Nodes</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\FlowSystem\Nodes\FlowEngineEffectsNodes.cpp">
+      <Filter>Flow System\Nodes</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\FlowSystem\Nodes\FlowEngineNodes.cpp">
+      <Filter>Flow System\Nodes</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\FlowSystem\Nodes\FlowEntityNode.cpp">
+      <Filter>Flow System\Nodes</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\FlowSystem\Nodes\FlowEnvironmentNodes.cpp">
+      <Filter>Flow System\Nodes</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\FlowSystem\Nodes\FlowFlashInvokeNode.cpp">
+      <Filter>Flow System\Nodes</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\FlowSystem\Nodes\FlowGameNodes.cpp">
+      <Filter>Flow System\Nodes</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\FlowSystem\Nodes\FlowHUDNodes.cpp">
+      <Filter>Flow System\Nodes</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\FlowSystem\Nodes\FlowInputNode.cpp">
+      <Filter>Flow System\Nodes</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\FlowSystem\Nodes\FlowActionMapNodes.cpp">
+      <Filter>Flow System\Nodes</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\FlowSystem\Nodes\FlowInterpolNodes.cpp">
+      <Filter>Flow System\Nodes</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\FlowSystem\Nodes\FlowInventoryNodes.cpp">
+      <Filter>Flow System\Nodes</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\FlowSystem\Nodes\FlowLogNode.cpp">
+      <Filter>Flow System\Nodes</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\FlowSystem\Nodes\FlowLogicNodes.cpp">
+      <Filter>Flow System\Nodes</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\FlowSystem\Nodes\FlowMathNodes.cpp">
+      <Filter>Flow System\Nodes</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\FlowSystem\Nodes\FlowMissionNodes.cpp">
+      <Filter>Flow System\Nodes</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\FlowSystem\Nodes\FlowMovieNodes.cpp">
+      <Filter>Flow System\Nodes</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\FlowSystem\Nodes\FlowNodeAI.cpp">
+      <Filter>Flow System\Nodes</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\FlowSystem\Nodes\FlowNodeAIAction.cpp">
+      <Filter>Flow System\Nodes</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\FlowSystem\Nodes\FlowNodesAIActionSequence.cpp">
+      <Filter>Flow System\Nodes</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\FlowSystem\Nodes\FlowNoiseNodes.cpp">
+      <Filter>Flow System\Nodes</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\FlowSystem\Nodes\FlowPhysicsNodes.cpp">
+      <Filter>Flow System\Nodes</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\FlowSystem\Nodes\FlowScriptedNode.cpp">
+      <Filter>Flow System\Nodes</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\FlowSystem\Nodes\FlowStartNode.cpp">
+      <Filter>Flow System\Nodes</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\FlowSystem\Nodes\FlowStopNode.cpp">
+      <Filter>Flow System\Nodes</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\FlowSystem\Nodes\FlowStatsNodes.cpp">
+      <Filter>Flow System\Nodes</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\FlowSystem\Nodes\FlowStringNodes.cpp">
+      <Filter>Flow System\Nodes</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\FlowSystem\Nodes\FlowTimeNode.cpp">
+      <Filter>Flow System\Nodes</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\FlowSystem\Nodes\FlowTrackEventNode.cpp">
+      <Filter>Flow System\Nodes</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\FlowSystem\Nodes\FlowWeaponNodes.cpp">
+      <Filter>Flow System\Nodes</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\FlowSystem\Nodes\GameTokenNode.cpp">
+      <Filter>Flow System\Nodes</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\FlowSystem\Nodes\IndexerNode.cpp">
+      <Filter>Flow System\Nodes</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\FlowSystem\Nodes\MultiplexerNode.cpp">
+      <Filter>Flow System\Nodes</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\FlowSystem\Nodes\OwnerAngularInterpolatorNode.cpp">
+      <Filter>Flow System\Nodes</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\FlowSystem\Nodes\OwnerAngularRotationNode.cpp">
+      <Filter>Flow System\Nodes</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\FlowSystem\Nodes\OwnerLinearInterpolatorNode.cpp">
+      <Filter>Flow System\Nodes</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\FlowSystem\Nodes\PlayCGANode.cpp">
+      <Filter>Flow System\Nodes</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\FlowSystem\Nodes\PlaySequenceNode.cpp">
+      <Filter>Flow System\Nodes</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\FlowSystem\Nodes\FlowExecuteStringNode.cpp">
+      <Filter>Flow System\Nodes</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\FlowSystem\Nodes\FlowNodeStereoparameters.cpp">
+      <Filter>Flow System\Nodes</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\FlowSystem\Nodes\FlowAudioPreloadData.cpp">
+      <Filter>Flow System\Nodes</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\FlowSystem\Nodes\FlowAudioRtpcNode.cpp">
+      <Filter>Flow System\Nodes</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\FlowSystem\Nodes\FlowAudioSwitchNode.cpp">
+      <Filter>Flow System\Nodes</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\FlowSystem\Nodes\FlowAudioTriggerNode.cpp">
+      <Filter>Flow System\Nodes</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\FlowSystem\Nodes\FlowAttachmentNodes.cpp">
+      <Filter>Flow System\Nodes</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\FlowSystem\Nodes\FlowCustomActionNodes.cpp">
+      <Filter>Flow System\Nodes</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\FlowSystem\Nodes\AnimationEventListenerNode.cpp">
+      <Filter>Flow System\Nodes</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\FlowSystem\Nodes\FlowPrefabNodes.cpp">
+      <Filter>Flow System\Nodes</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\FlowSystem\Nodes\FlowMouseInfo.cpp">
+      <Filter>Flow System\Nodes</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\FlowSystem\Nodes\FlowNodeAIHelicopter.cpp">
+      <Filter>Flow System\Nodes</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\FlowSystem\Nodes\FlowCustomActionNodes.h">
+      <Filter>Flow System\Nodes</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\FlowSystem\Nodes\FlowPrefabNodes.h">
+      <Filter>Flow System\Nodes</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\FlowSystem\Nodes\FlowFrameworkBaseNode.h">
+      <Filter>Flow System\Nodes</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\FlowSystem\Nodes\FlowCompositeNode.h">
+      <Filter>Flow System\Nodes</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\FlowSystem\Nodes\FlowDelayNode.h">
+      <Filter>Flow System\Nodes</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\FlowSystem\Nodes\FlowEntityNode.h">
+      <Filter>Flow System\Nodes</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\FlowSystem\Nodes\FlowLogNode.h">
+      <Filter>Flow System\Nodes</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\FlowSystem\Nodes\FlowNodeAIAction.h">
+      <Filter>Flow System\Nodes</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\FlowSystem\Nodes\FlowNoiseNodes.h">
+      <Filter>Flow System\Nodes</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\FlowSystem\Nodes\FlowScriptedNode.h">
+      <Filter>Flow System\Nodes</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\FlowSystem\Nodes\FlowStartNode.h">
+      <Filter>Flow System\Nodes</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\FlowSystem\Nodes\FlowTrackEventNode.h">
+      <Filter>Flow System\Nodes</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\FlowSystem\Nodes\FlowMannequinNodes.cpp">
+      <Filter>Flow System\Nodes</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\FlowSystem\Nodes\FlowMaterialNodes.cpp">
+      <Filter>Flow System\Nodes</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\FlowSystem\Nodes\FlowNetMsgNodes.cpp">
+      <Filter>Flow System\Nodes</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\FlowSystem\Nodes\FlowBaseXmlNode.cpp">
+      <Filter>Flow System\Nodes</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\FlowSystem\Nodes\FlowBaseXmlNode.h">
+      <Filter>Flow System\Nodes</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\FlowSystem\Nodes\FlowClipCaptureNodes.cpp">
+      <Filter>Flow System\Nodes</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\FlowSystem\Nodes\FlowContainerNode.cpp">
+      <Filter>Flow System\Nodes</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\FlowSystem\Nodes\FlowDebugNodes.cpp">
+      <Filter>Flow System\Nodes</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\FlowSystem\Nodes\FlowEntityIterator.cpp">
+      <Filter>Flow System\Nodes</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\FlowSystem\Nodes\FlowOnlineStatsNodes.cpp">
+      <Filter>Flow System\Nodes</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\FlowSystem\Nodes\FlowXmlDataNodes.cpp">
+      <Filter>Flow System\Nodes</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\FlowSystem\Nodes\FlowXmlFileNodes.cpp">
+      <Filter>Flow System\Nodes</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\FlowSystem\Nodes\FlowXmlNavNodes.cpp">
+      <Filter>Flow System\Nodes</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\FlowSystem\Nodes\FlowDialogNode.cpp">
+      <Filter>Flow System\Nodes</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\FlowSystem\Nodes\Vehicle\FlowVehicleAttachment.cpp">
+      <Filter>Flow System\Nodes\Vehicle</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\FlowSystem\Nodes\Vehicle\FlowVehicleBase.cpp">
+      <Filter>Flow System\Nodes\Vehicle</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\FlowSystem\Nodes\Vehicle\FlowVehicleDamage.cpp">
+      <Filter>Flow System\Nodes\Vehicle</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\FlowSystem\Nodes\Vehicle\FlowVehicleHorn.cpp">
+      <Filter>Flow System\Nodes\Vehicle</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\FlowSystem\Nodes\Vehicle\FlowVehicleLights.cpp">
+      <Filter>Flow System\Nodes\Vehicle</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\FlowSystem\Nodes\Vehicle\FlowVehicleMoveActionMult.cpp">
+      <Filter>Flow System\Nodes\Vehicle</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\FlowSystem\Nodes\Vehicle\FlowVehicleMovement.cpp">
+      <Filter>Flow System\Nodes\Vehicle</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\FlowSystem\Nodes\Vehicle\FlowVehiclePassenger.cpp">
+      <Filter>Flow System\Nodes\Vehicle</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\FlowSystem\Nodes\Vehicle\FlowVehicleSeat.cpp">
+      <Filter>Flow System\Nodes\Vehicle</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\FlowSystem\Nodes\Vehicle\FlowVehicleTurret.cpp">
+      <Filter>Flow System\Nodes\Vehicle</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\FlowSystem\Nodes\Vehicle\FlowVehicleHandbrake.cpp">
+      <Filter>Flow System\Nodes\Vehicle</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\FlowSystem\Nodes\Vehicle\FlowVehicleCamera.cpp">
+      <Filter>Flow System\Nodes\Vehicle</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\FlowSystem\Nodes\Vehicle\FlowVehicleAttachment.h">
+      <Filter>Flow System\Nodes\Vehicle</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\FlowSystem\Nodes\Vehicle\FlowVehicleBase.h">
+      <Filter>Flow System\Nodes\Vehicle</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\FlowSystem\Nodes\Vehicle\FlowVehicleDamage.h">
+      <Filter>Flow System\Nodes\Vehicle</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\FlowSystem\Nodes\Vehicle\FlowVehicleHandbrake.h">
+      <Filter>Flow System\Nodes\Vehicle</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\FlowSystem\Nodes\Vehicle\FlowVehicleLights.h">
+      <Filter>Flow System\Nodes\Vehicle</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\FlowSystem\Nodes\Vehicle\FlowVehicleMoveActionMult.h">
+      <Filter>Flow System\Nodes\Vehicle</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\FlowSystem\Nodes\Vehicle\FlowVehicleMovement.h">
+      <Filter>Flow System\Nodes\Vehicle</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\FlowSystem\Nodes\Vehicle\FlowVehiclePassenger.h">
+      <Filter>Flow System\Nodes\Vehicle</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\FlowSystem\Nodes\Vehicle\FlowVehicleSeat.h">
+      <Filter>Flow System\Nodes\Vehicle</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\FlowSystem\Nodes\Vehicle\FlowVehicleTurret.h">
+      <Filter>Flow System\Nodes\Vehicle</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\FlowSystem\UnitTests\FlowGraphDebuggerUnitTests.cpp">
+      <Filter>Flow System\Unit Tests</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\FlowSystem\FlowData.cpp">
+      <Filter>Flow System</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\FlowSystem\FlowGraph.cpp">
+      <Filter>Flow System</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\FlowSystem\FlowGraphDebugger.cpp">
+      <Filter>Flow System</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\FlowSystem\FlowSerialize.cpp">
+      <Filter>Flow System</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\FlowSystem\FlowSystem.cpp">
+      <Filter>Flow System</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\FlowSystem\FlowSystemCVars.cpp">
+      <Filter>Flow System</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\FlowSystem\FlowGraphDebugger.h">
+      <Filter>Flow System</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\FlowSystem\FlowData.h">
+      <Filter>Flow System</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\FlowSystem\FlowGraph.h">
+      <Filter>Flow System</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\FlowSystem\FlowSerialize.h">
+      <Filter>Flow System</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\FlowSystem\FlowSystem.h">
+      <Filter>Flow System</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\FlowSystem\FlowSystemCVars.h">
+      <Filter>Flow System</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\FlowSystem\Inspectors\FlowFilters.cpp">
+      <Filter>Flow System\Inspectors</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\FlowSystem\Inspectors\FlowInspectorDefault.cpp">
+      <Filter>Flow System\Inspectors</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\FlowSystem\Inspectors\FlowFilters.h">
+      <Filter>Flow System\Inspectors</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\FlowSystem\Inspectors\FlowInspectorDefault.h">
+      <Filter>Flow System\Inspectors</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\FlowSystem\Modules\FlowModuleNodes.cpp">
+      <Filter>Flow System\Modules</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\FlowSystem\Modules\Module.cpp">
+      <Filter>Flow System\Modules</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\FlowSystem\Modules\ModuleManager.cpp">
+      <Filter>Flow System\Modules</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\FlowSystem\Modules\FlowModuleNodes.h">
+      <Filter>Flow System\Modules</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\FlowSystem\Modules\Module.h">
+      <Filter>Flow System\Modules</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\FlowSystem\Modules\ModuleManager.h">
+      <Filter>Flow System\Modules</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\GameObjects\CameraSource.cpp">
+      <Filter>Game Objects</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\GameObjects\GameObject.cpp">
+      <Filter>Game Objects</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\GameObjects\GameObjectDispatch.cpp">
+      <Filter>Game Objects</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\GameObjects\GameObjectSystem.cpp">
+      <Filter>Game Objects</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\GameObjects\GameObjectSystem_FactoryRegistration.cpp">
+      <Filter>Game Objects</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\GameObjects\Interactor.cpp">
+      <Filter>Game Objects</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\GameObjects\WorldQuery.cpp">
+      <Filter>Game Objects</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\GameObjects\CameraSource.h">
+      <Filter>Game Objects</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\GameObjects\GameObject.h">
+      <Filter>Game Objects</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\GameObjects\GameObjectDispatch.h">
+      <Filter>Game Objects</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\GameObjects\GameObjectSystem.h">
+      <Filter>Game Objects</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\GameObjects\Interactor.h">
+      <Filter>Game Objects</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\GameObjects\WorldQuery.h">
+      <Filter>Game Objects</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\GameObjects\MannequinObject.h">
+      <Filter>Game Objects</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\GameObjects\MannequinObject.cpp">
+      <Filter>Game Objects</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\GameObjects\RuntimeAreaObject.h">
+      <Filter>Game Objects</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\GameObjects\RuntimeAreaObject.cpp">
+      <Filter>Game Objects</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\GameRulesSystem.cpp">
+      <Filter>GameRules</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\GameRulesSystem.h">
+      <Filter>GameRules</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\GameSession\GameSessionHandler.cpp">
+      <Filter>GameSession</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\GameSession\GameSessionHandler.h">
+      <Filter>GameSession</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\GameTokens\GameTokenSystem.cpp">
+      <Filter>GameTokens</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\GameTokens\GameToken.cpp">
+      <Filter>GameTokens</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\GameTokens\GameToken.h">
+      <Filter>GameTokens</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\GameTokens\GameTokenSystem.h">
+      <Filter>GameTokens</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\GameTokens\ScriptBind_GameToken.h">
+      <Filter>GameTokens</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\GameTokens\ScriptBind_GameToken.cpp">
+      <Filter>GameTokens</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\GameVolumes\GameVolumesManager.cpp">
+      <Filter>GameVolumes</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\GameVolumes\GameVolumesManager.h">
+      <Filter>GameVolumes</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\GameVolumes\GameVolume_Water.cpp">
+      <Filter>GameVolumes\VolumeClasses</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\GameVolumes\GameVolume_Water.h">
+      <Filter>GameVolumes\VolumeClasses</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\GameplayRecorder\GameplayRecorder.cpp">
+      <Filter>GameplayRecorder</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\GameplayRecorder\GameplayRecorder.h">
+      <Filter>GameplayRecorder</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\Analyst.cpp">
+      <Filter>GameplayRecorder\Gameplay Analyst</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\Analyst.h">
+      <Filter>GameplayRecorder\Gameplay Analyst</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\WrinkleMapRenderProxyCallback.cpp">
+      <Filter>Animation</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\WrinkleMapRenderProxyCallback.h">
+      <Filter>Animation</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\Animation\PoseAligner\PoseAligner.cpp">
+      <Filter>Animation\PoseAligner</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\Animation\PoseAligner\PoseAlignerC3.cpp">
+      <Filter>Animation\PoseAligner</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\Animation\PoseAligner\PoseAligner.h">
+      <Filter>Animation\PoseAligner</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\Animation\PoseModifier\IKTorsoAim.h">
+      <Filter>Animation\PoseModifier</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\Animation\PoseModifier\IKTorsoAim.cpp">
+      <Filter>Animation\PoseModifier</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\Animation\PoseModifier\LookAtSimple.h">
+      <Filter>Animation\PoseModifier</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\Animation\PoseModifier\LookAtSimple.cpp">
+      <Filter>Animation\PoseModifier</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\CheckPoint\CheckPointSystem.cpp">
+      <Filter>Checkpoint</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\CheckPoint\CheckPointSystem.h">
+      <Filter>Checkpoint</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\CustomEvents\CustomEventsManager.cpp">
+      <Filter>CustomEvents</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\CustomEvents\CustomEventsManager.h">
+      <Filter>CustomEvents</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\DelayedPlaneBreak.cpp">
+      <Filter>Physics Helpers</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\BreakableGlassSystem.cpp">
+      <Filter>Physics Helpers</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\BreakableGlassSystem.h">
+      <Filter>Physics Helpers</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\DelayedPlaneBreak.h">
+      <Filter>Physics Helpers</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\TestSystem\TimeDemoRecorder.cpp">
+      <Filter>Test System</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\TestSystem\IGameStateRecorder.h">
+      <Filter>Test System</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\TestSystem\TimeDemoRecorder.h">
+      <Filter>Test System</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\ActionFilter.cpp">
+      <Filter>Action Files</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\ActionMap.cpp">
+      <Filter>Action Files</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\ActionMapManager.cpp">
+      <Filter>Action Files</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\ScriptBind_ActionMapManager.cpp">
+      <Filter>Action Files</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\ActionFilter.h">
+      <Filter>Action Files</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\ActionMap.h">
+      <Filter>Action Files</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\ActionMapManager.h">
+      <Filter>Action Files</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\ScriptBind_ActionMapManager.h">
+      <Filter>Action Files</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\ActorSystem.cpp">
+      <Filter>Actor Files</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\ScriptBind_ActorSystem.cpp">
+      <Filter>Actor Files</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\ActorSystem.h">
+      <Filter>Actor Files</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\ScriptBind_ActorSystem.h">
+      <Filter>Actor Files</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\EquipmentManager.cpp">
+      <Filter>Item Files</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\Inventory.cpp">
+      <Filter>Item Files</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\ScriptBind_Inventory.cpp">
+      <Filter>Item Files</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\ItemSystem.cpp">
+      <Filter>Item Files</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\ScriptBind_ItemSystem.cpp">
+      <Filter>Item Files</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\EquipmentManager.h">
+      <Filter>Item Files</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\Inventory.h">
+      <Filter>Item Files</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\ItemSystem.h">
+      <Filter>Item Files</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\ScriptBind_Inventory.h">
+      <Filter>Item Files</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\ScriptBind_ItemSystem.h">
+      <Filter>Item Files</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\ItemParams.h">
+      <Filter>Item Files</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\ItemParams.cpp">
+      <Filter>Item Files</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\Network\SerializeDirHelper.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\Network\DebugBreakage.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\Network\SerializeBits.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\TestSystem\ITestModule.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\IEffectSystem.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\ActionGame.cpp">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\ScriptBind_Action.cpp">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\AIFaceManager.cpp">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\CallbackTimer.cpp">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\CryAction.cpp">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\CryActionCVars.cpp">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\DevMode.cpp">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\Main.cpp">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\TimeOfDayScheduler.cpp">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\ActionGame.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\AIFaceManager.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\CallbackTimer.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\CompositeData.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\CryAction.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\CryActionCVars.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\CryActionPhysicQueues.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\DevMode.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\GameXmlParamReader.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\resource.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\ScriptBind_Action.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\TimeOfDayScheduler.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\EntityTags.cpp">
+      <Filter>Debug Helpers</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\PersistantDebug.cpp">
+      <Filter>Debug Helpers</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\PersistantDebug.h">
+      <Filter>Debug Helpers</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\ColorGradientManager.cpp">
+      <Filter>Graphics</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\ColorGradientManager.h">
+      <Filter>Graphics</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\LevelSystem.cpp">
+      <Filter>Level Files</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\LevelSystem.h">
+      <Filter>Level Files</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\MetadataRecorder\MetadataRecorder.cpp">
+      <Filter>MetadataRecorder</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\PlayerProfiles\BMPHelper.cpp">
+      <Filter>Player Profiles</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\PlayerProfiles\PlayerProfile.cpp">
+      <Filter>Player Profiles</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\PlayerProfiles\PlayerProfileImplConsole.cpp">
+      <Filter>Player Profiles</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\PlayerProfiles\PlayerProfileImplFS.cpp">
+      <Filter>Player Profiles</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\PlayerProfiles\PlayerProfileImplRSFHelper.cpp">
+      <Filter>Player Profiles</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\PlayerProfiles\PlayerProfileManager.cpp">
+      <Filter>Player Profiles</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\PlayerProfiles\BMPHelper.h">
+      <Filter>Player Profiles</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\PlayerProfiles\PlayerProfile.h">
+      <Filter>Player Profiles</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\PlayerProfiles\PlayerProfileImplConsole.h">
+      <Filter>Player Profiles</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\PlayerProfiles\PlayerProfileImplFS.h">
+      <Filter>Player Profiles</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\PlayerProfiles\PlayerProfileImplNoSave.h">
+      <Filter>Player Profiles</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\PlayerProfiles\PlayerProfileImplRSFHelper.h">
+      <Filter>Player Profiles</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\PlayerProfiles\PlayerProfileManager.h">
+      <Filter>Player Profiles</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\PlayerProfiles\RichSaveGameTypes.h">
+      <Filter>Player Profiles</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\PlayerProfiles\RichSaveGameTypes_info.h">
+      <Filter>Player Profiles</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\ViewSystem\ViewSystem.cpp">
+      <Filter>View System</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\ViewSystem\View.cpp">
+      <Filter>View System</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\ViewSystem\View.h">
+      <Filter>View System</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\ViewSystem\ViewSystem.h">
+      <Filter>View System</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\CooperativeAnimationManager\CooperativeAnimation.cpp">
+      <Filter>CooperativeAnimationManager</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\CooperativeAnimationManager\CooperativeAnimationManager.cpp">
+      <Filter>CooperativeAnimationManager</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\CooperativeAnimationManager\CooperativeAnimation.h">
+      <Filter>CooperativeAnimationManager</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\CooperativeAnimationManager\CooperativeAnimationManager.h">
+      <Filter>CooperativeAnimationManager</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\CustomActions\CustomAction.cpp">
+      <Filter>CustomActions</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\CustomActions\CustomActionManager.cpp">
+      <Filter>CustomActions</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\CustomActions\CustomAction.h">
+      <Filter>CustomActions</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\CustomActions\CustomActionManager.h">
+      <Filter>CustomActions</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\RangeSignalingSystem\AngleAlert.cpp">
+      <Filter>Range Signaling</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\RangeSignalingSystem\PersonalRangeSignaling.cpp">
+      <Filter>Range Signaling</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\RangeSignalingSystem\Range.cpp">
+      <Filter>Range Signaling</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\RangeSignalingSystem\RangeSignaling.cpp">
+      <Filter>Range Signaling</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\RangeSignalingSystem\AngleAlert.h">
+      <Filter>Range Signaling</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\RangeSignalingSystem\PersonalRangeSignaling.h">
+      <Filter>Range Signaling</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\RangeSignalingSystem\Range.h">
+      <Filter>Range Signaling</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\RangeSignalingSystem\RangeSignaling.h">
+      <Filter>Range Signaling</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\RemoteControl\RConClientListener.cpp">
+      <Filter>Remote Control</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\RemoteControl\RConServerListener.cpp">
+      <Filter>Remote Control</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\RemoteControl\RConClientListener.h">
+      <Filter>Remote Control</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\RemoteControl\RConServerListener.h">
+      <Filter>Remote Control</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\SignalTimers\PersonalSignalTimer.cpp">
+      <Filter>Signal Timers</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\SignalTimers\SignalTimers.cpp">
+      <Filter>Signal Timers</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\SignalTimers\PersonalSignalTimer.h">
+      <Filter>Signal Timers</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\SignalTimers\SignalTimers.h">
+      <Filter>Signal Timers</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\SimpleHttpServer\SimpleHttpServerListener.cpp">
+      <Filter>Simple HTTP Server</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\SimpleHttpServer\SimpleHttpServerListener.h">
+      <Filter>Simple HTTP Server</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\SimpleHttpServer\SimpleHttpServerWebsocketEchoListener.h">
+      <Filter>Simple HTTP Server</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\SimpleHttpServer\SimpleHttpServerWebsocketEchoListener.cpp">
+      <Filter>Simple HTTP Server</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\Statistics\GameStatistics.cpp">
+      <Filter>Statistics</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\Statistics\ScriptBind_GameStatistics.cpp">
+      <Filter>Statistics</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\Statistics\StatisticsHelpers.cpp">
+      <Filter>Statistics</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\Statistics\StatsSizer.cpp">
+      <Filter>Statistics</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\Statistics\GameStatistics.h">
+      <Filter>Statistics</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\Statistics\ScriptBind_GameStatistics.h">
+      <Filter>Statistics</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\Statistics\StatisticsHelpers.h">
+      <Filter>Statistics</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\Statistics\StatsSizer.h">
+      <Filter>Statistics</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\UIDraw\UIDraw.cpp">
+      <Filter>UIDraw</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\UIDraw\UIDraw.h">
+      <Filter>UIDraw</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\AIDebugRenderer.cpp">
+      <Filter>AI Files</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\AI\AIGroupProxy.cpp">
+      <Filter>AI Files</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\AIHandler.cpp">
+      <Filter>AI Files</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\AIProxy.cpp">
+      <Filter>AI Files</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\AI\AIProxyManager.cpp">
+      <Filter>AI Files</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\AI\CommunicationHandler.cpp">
+      <Filter>AI Files</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\AIDebugRenderer.h">
+      <Filter>AI Files</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\AI\AIGroupProxy.h">
+      <Filter>AI Files</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\AIHandler.h">
+      <Filter>AI Files</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\AIProxy.h">
+      <Filter>AI Files</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\AI\AIProxyManager.h">
+      <Filter>AI Files</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\AI\CommunicationHandler.h">
+      <Filter>AI Files</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\AI\BehaviorTreeNodes_Action.h">
+      <Filter>AI Files</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\AI\BehaviorTreeNodes_Action.cpp">
+      <Filter>AI Files</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\EffectSystem\BloodSplats.h">
+      <Filter>EffectSystem</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\EffectSystem\BloodSplats.cpp">
+      <Filter>EffectSystem</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\EffectSystem\Effect.h">
+      <Filter>EffectSystem</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\EffectSystem\Effect.cpp">
+      <Filter>EffectSystem</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\EffectSystem\EffectSystem.h">
+      <Filter>EffectSystem</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\EffectSystem\EffectSystem.cpp">
+      <Filter>EffectSystem</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\EffectSystem\GroundEffect.h">
+      <Filter>EffectSystem</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\EffectSystem\GroundEffect.cpp">
+      <Filter>EffectSystem</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\ForceFeedbackSystem\ForceFeedbackSystem.cpp">
+      <Filter>Force Feedback System</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\ForceFeedbackSystem\ForceFeedbackSystem.h">
+      <Filter>Force Feedback System</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\LipSync\LipSync_FacialInstance.cpp">
+      <Filter>LipSync</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\LipSync\LipSync_FacialInstance.h">
+      <Filter>LipSync</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\LipSync\LipSync_TransitionQueue.cpp">
+      <Filter>LipSync</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\LipSync\LipSync_TransitionQueue.h">
+      <Filter>LipSync</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\LivePreview\RealtimeRemoteUpdate.cpp">
+      <Filter>Live Preview</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\LivePreview\RealtimeRemoteUpdate.h">
+      <Filter>Live Preview</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\RuntimeAreas.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\RuntimeAreas.cpp">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\SegmentedWorld\SegmentNode.h">
+      <Filter>SegmentedWorld</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\SegmentedWorld\SegmentNode.cpp">
+      <Filter>SegmentedWorld</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\SegmentedWorld\SegmentedWorld.h">
+      <Filter>SegmentedWorld</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\SegmentedWorld\SegmentedWorld.cpp">
+      <Filter>SegmentedWorld</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\SharedParams\SharedParamsManager.cpp">
+      <Filter>SharedParams</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\SharedParams\ISharedParams.h">
+      <Filter>SharedParams</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\SharedParams\SharedParamsManager.h">
+      <Filter>SharedParams</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\SharedParams\SharedParamsTypeInfo.h">
+      <Filter>SharedParams</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\ICryMannequinProceduralClipFactory.h">
+      <Filter>Interfaces</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\Mannequin\ActionController.cpp">
+      <Filter>Mannequin</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\Mannequin\ActionScope.cpp">
+      <Filter>Mannequin</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\Mannequin\AnimationDatabase.cpp">
+      <Filter>Mannequin</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\Mannequin\AnimationDatabaseManager.cpp">
+      <Filter>Mannequin</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\Mannequin\MannequinDebug.cpp">
+      <Filter>Mannequin</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\Mannequin\MannequinInterface.cpp">
+      <Filter>Mannequin</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\Mannequin\ActionController.h">
+      <Filter>Mannequin</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\Mannequin\ActionScope.h">
+      <Filter>Mannequin</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\Mannequin\AnimationDatabase.h">
+      <Filter>Mannequin</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\Mannequin\AnimationDatabaseManager.h">
+      <Filter>Mannequin</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\Mannequin\MannequinDebug.h">
+      <Filter>Mannequin</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\Mannequin\MannequinInterface.h">
+      <Filter>Mannequin</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\Mannequin\MannequinUtils.cpp">
+      <Filter>Mannequin</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\Mannequin\MannequinUtils.h">
+      <Filter>Mannequin</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\Mannequin\ProceduralClipConversion.cpp">
+      <Filter>Mannequin</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\Mannequin\ProceduralClipConversion.h">
+      <Filter>Mannequin</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\Mannequin\ProceduralClipFactory.cpp">
+      <Filter>Mannequin</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\Mannequin\ProceduralClipFactory.h">
+      <Filter>Mannequin</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\Mannequin\ProceduralClipsPositioning.h">
+      <Filter>Mannequin</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\Mannequin\ProceduralParamsComparer.cpp">
+      <Filter>Mannequin</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\Mannequin\Serialization.h">
+      <Filter>Mannequin</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\Mannequin\Tests\Test_CRCRef.cpp">
+      <Filter>Mannequin</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\Mannequin\Tests\Test_ProceduralParams.cpp">
+      <Filter>Mannequin</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\Mannequin\AnimActionTriState.cpp">
+      <Filter>Mannequin\Experimental</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\Mannequin\AnimActionTriState.h">
+      <Filter>Mannequin\Experimental</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\Mannequin\MannequinAGExistanceQuery.cpp">
+      <Filter>Mannequin\MannequinAG</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\Mannequin\MannequinAGState.cpp">
+      <Filter>Mannequin\MannequinAG</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\Mannequin\MannequinAGDefs.h">
+      <Filter>Mannequin\MannequinAG</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\Mannequin\MannequinAGExistanceQuery.h">
+      <Filter>Mannequin\MannequinAG</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\Mannequin\MannequinAGState.h">
+      <Filter>Mannequin\MannequinAG</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\Mannequin\FirstPersonHandIKContext.cpp">
+      <Filter>Mannequin\ProceduralClips</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\Mannequin\ProceduralClipAimAround.cpp">
+      <Filter>Mannequin\ProceduralClips</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\Mannequin\ProceduralClipAimPose.cpp">
+      <Filter>Mannequin\ProceduralClips</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\Mannequin\ProceduralClipAISignal.cpp">
+      <Filter>Mannequin\ProceduralClips</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\Mannequin\ProceduralClipAnimManipulation.cpp">
+      <Filter>Mannequin\ProceduralClips</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\Mannequin\ProceduralClipEvent.cpp">
+      <Filter>Mannequin\ProceduralClips</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\Mannequin\ProceduralClipForceFeedback.cpp">
+      <Filter>Mannequin\ProceduralClips</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\Mannequin\ProceduralClipLookAround.cpp">
+      <Filter>Mannequin\ProceduralClips</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\Mannequin\ProceduralClipLookPose.cpp">
+      <Filter>Mannequin\ProceduralClips</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\Mannequin\ProceduralClipParams.cpp">
+      <Filter>Mannequin\ProceduralClips</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\Mannequin\ProceduralClipParticleEffect.cpp">
+      <Filter>Mannequin\ProceduralClips</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\Mannequin\ProceduralClipPlaySound.cpp">
+      <Filter>Mannequin\ProceduralClips</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\Mannequin\ProceduralClipProps.cpp">
+      <Filter>Mannequin\ProceduralClips</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\Mannequin\ProceduralClipsPositioning.cpp">
+      <Filter>Mannequin\ProceduralClips</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\Mannequin\FirstPersonHandIKContext.h">
+      <Filter>Mannequin\ProceduralClips</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\Mannequin\Xml\TagDefinitionXml.cpp">
+      <Filter>Mannequin\Xml</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\Mannequin\Xml\TagDefinitionXml.h">
+      <Filter>Mannequin\Xml</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\MaterialEffects\MaterialEffectsCVars.cpp">
+      <Filter>MaterialEffects</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\MaterialEffects\MaterialEffectsCVars.h">
+      <Filter>MaterialEffects</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\MaterialEffects\MaterialEffects.cpp">
+      <Filter>MaterialEffects</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\MaterialEffects\MaterialEffects.h">
+      <Filter>MaterialEffects</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\MaterialEffects\IMFXEffect.h">
+      <Filter>MaterialEffects\Effects</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\MaterialEffects\MFXDecalEffect.cpp">
+      <Filter>MaterialEffects\Effects</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\MaterialEffects\MFXDecalEffect.h">
+      <Filter>MaterialEffects\Effects</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\MaterialEffects\MFXFlowGraphEffect.cpp">
+      <Filter>MaterialEffects\Effects</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\MaterialEffects\MFXFlowGraphEffect.h">
+      <Filter>MaterialEffects\Effects</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\MaterialEffects\MFXForceFeedbackFX.cpp">
+      <Filter>MaterialEffects\Effects</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\MaterialEffects\MFXForceFeedbackFX.h">
+      <Filter>MaterialEffects\Effects</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\MaterialEffects\MFXParticleEffect.cpp">
+      <Filter>MaterialEffects\Effects</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\MaterialEffects\MFXParticleEffect.h">
+      <Filter>MaterialEffects\Effects</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\MaterialEffects\MFXRandomEffect.cpp">
+      <Filter>MaterialEffects\Effects</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\MaterialEffects\MFXRandomEffect.h">
+      <Filter>MaterialEffects\Effects</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\MaterialEffects\MFXEffectBase.cpp">
+      <Filter>MaterialEffects\Effects</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\MaterialEffects\MFXEffectBase.h">
+      <Filter>MaterialEffects\Effects</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\MaterialEffects\MFXAudioEffect.cpp">
+      <Filter>MaterialEffects\Effects</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\MaterialEffects\MFXAudioEffect.h">
+      <Filter>MaterialEffects\Effects</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\MaterialEffects\MaterialFGManager.cpp">
+      <Filter>MaterialEffects\Subcomponents</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\MaterialEffects\MaterialFGManager.h">
+      <Filter>MaterialEffects\Subcomponents</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\MaterialEffects\MaterialHUDFXNodes.cpp">
+      <Filter>MaterialEffects\Subcomponents</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\MaterialEffects\ScriptBind_MaterialEffects.cpp">
+      <Filter>MaterialEffects\Subcomponents</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\MaterialEffects\ScriptBind_MaterialEffects.h">
+      <Filter>MaterialEffects\Subcomponents</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\MaterialEffects\MFXLibrary.cpp">
+      <Filter>MaterialEffects\Subcomponents</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\MaterialEffects\MFXLibrary.h">
+      <Filter>MaterialEffects\Subcomponents</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\MaterialEffects\MFXContainer.h">
+      <Filter>MaterialEffects\Subcomponents</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\MaterialEffects\MFXContainer.cpp">
+      <Filter>MaterialEffects\Subcomponents</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\MaterialEffects\MaterialEffectsDebug.h">
+      <Filter>MaterialEffects\Utils</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\MaterialEffects\MaterialEffectsDebug.cpp">
+      <Filter>MaterialEffects\Utils</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\MaterialEffects\SurfacesLookupTable.h">
+      <Filter>MaterialEffects\Utils</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\Network\CVarListProcessor.cpp">
+      <Filter>Network</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\Network\NetDebug.cpp">
+      <Filter>Network</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\Network\NetworkCVars.cpp">
+      <Filter>Network</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\Network\NetworkStallTicker.cpp">
+      <Filter>Network</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\Network\CVarListProcessor.h">
+      <Filter>Network</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\Network\NetDebug.h">
+      <Filter>Network</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\Network\NetworkCVars.h">
+      <Filter>Network</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\Network\NetworkStallTicker.h">
+      <Filter>Network</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\Network\BreakReplicator.cpp">
+      <Filter>Network\Breakability</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\Network\BreakReplicator_Simple.cpp">
+      <Filter>Network\Breakability</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\Network\DeformingBreak.cpp">
+      <Filter>Network\Breakability</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\Network\ExplosiveObjectState.cpp">
+      <Filter>Network\Breakability</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\Network\GenericPlaybackListener.cpp">
+      <Filter>Network\Breakability</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\Network\GenericRecordingListener.cpp">
+      <Filter>Network\Breakability</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\Network\JointBreak.cpp">
+      <Filter>Network\Breakability</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\Network\PlaneBreak.cpp">
+      <Filter>Network\Breakability</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\Network\ProceduralBreak.cpp">
+      <Filter>Network\Breakability</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\Network\ProceduralBreakingBaseListener.cpp">
+      <Filter>Network\Breakability</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\Network\ProceduralBreakingPlaybackListener.cpp">
+      <Filter>Network\Breakability</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\Network\ProceduralBreakingRecordingListener.cpp">
+      <Filter>Network\Breakability</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\Network\SimulateRemoveEntityParts.cpp">
+      <Filter>Network\Breakability</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\Network\BreakReplicator.h">
+      <Filter>Network\Breakability</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\Network\BreakReplicator_Simple.h">
+      <Filter>Network\Breakability</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\Network\BreakReplicatorGameObject.h">
+      <Filter>Network\Breakability</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\Network\DeformingBreak.h">
+      <Filter>Network\Breakability</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\Network\ExplosiveObjectState.h">
+      <Filter>Network\Breakability</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\Network\GenericPlaybackListener.h">
+      <Filter>Network\Breakability</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\Network\GenericRecordingListener.h">
+      <Filter>Network\Breakability</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\Network\IBreakPlaybackStream.h">
+      <Filter>Network\Breakability</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\Network\IBreakReplicatorListener.h">
+      <Filter>Network\Breakability</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\Network\IContextEstablishTask.h">
+      <Filter>Network\Breakability</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\Network\IProceduralBreakType.h">
+      <Filter>Network\Breakability</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\Network\JointBreak.h">
+      <Filter>Network\Breakability</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\Network\NullListener.h">
+      <Filter>Network\Breakability</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\Network\NullStream.h">
+      <Filter>Network\Breakability</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\Network\PlaneBreak.h">
+      <Filter>Network\Breakability</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\Network\ProceduralBreak.h">
+      <Filter>Network\Breakability</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\Network\ProceduralBreakingBaseListener.h">
+      <Filter>Network\Breakability</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\Network\ProceduralBreakingPlaybackListener.h">
+      <Filter>Network\Breakability</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\Network\ProceduralBreakingRecordingListener.h">
+      <Filter>Network\Breakability</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\Network\SimulateCreateEntityPart.h">
+      <Filter>Network\Breakability</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\Network\SimulateRemoveEntityParts.h">
+      <Filter>Network\Breakability</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\Network\CET_ActionMap.cpp">
+      <Filter>Network\Context Establishment Tasks</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\Network\CET_ClassRegistry.cpp">
+      <Filter>Network\Context Establishment Tasks</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\Network\CET_CVars.cpp">
+      <Filter>Network\Context Establishment Tasks</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\Network\CET_EntitySystem.cpp">
+      <Filter>Network\Context Establishment Tasks</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\Network\CET_GameRules.cpp">
+      <Filter>Network\Context Establishment Tasks</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\Network\CET_LevelLoading.cpp">
+      <Filter>Network\Context Establishment Tasks</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\Network\CET_NetConfig.cpp">
+      <Filter>Network\Context Establishment Tasks</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\Network\CET_View.cpp">
+      <Filter>Network\Context Establishment Tasks</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\Network\CET_ActionMap.h">
+      <Filter>Network\Context Establishment Tasks</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\Network\CET_ClassRegistry.h">
+      <Filter>Network\Context Establishment Tasks</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\Network\CET_CVars.h">
+      <Filter>Network\Context Establishment Tasks</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\Network\CET_EntitySystem.h">
+      <Filter>Network\Context Establishment Tasks</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\Network\CET_GameRules.h">
+      <Filter>Network\Context Establishment Tasks</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\Network\CET_LevelLoading.h">
+      <Filter>Network\Context Establishment Tasks</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\Network\CET_NetConfig.h">
+      <Filter>Network\Context Establishment Tasks</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\Network\CET_View.h">
+      <Filter>Network\Context Establishment Tasks</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\Network\ClassRegistryReplicator.cpp">
+      <Filter>Network\Core</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\Network\GameChannel.cpp">
+      <Filter>Network\Core</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\Network\GameClientChannel.cpp">
+      <Filter>Network\Core</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\Network\GameClientNub.cpp">
+      <Filter>Network\Core</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\Network\GameContext.cpp">
+      <Filter>Network\Core</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\Network\GameContext_RegisterExtensions.cpp">
+      <Filter>Network\Core</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\Network\GameQueryListener.cpp">
+      <Filter>Network\Core</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\Network\GameServerChannel.cpp">
+      <Filter>Network\Core</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\Network\GameServerNub.cpp">
+      <Filter>Network\Core</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\Network\PhysicsSync.cpp">
+      <Filter>Network\Core</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\Network\ScriptBind_Network.cpp">
+      <Filter>Network\Core</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\Network\ScriptRMI.cpp">
+      <Filter>Network\Core</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\Network\ScriptSerialize.cpp">
+      <Filter>Network\Core</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\Network\ServerTimer.cpp">
+      <Filter>Network\Core</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\Network\ClassRegistryReplicator.h">
+      <Filter>Network\Core</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\Network\GameChannel.h">
+      <Filter>Network\Core</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\Network\GameClientChannel.h">
+      <Filter>Network\Core</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\Network\GameClientNub.h">
+      <Filter>Network\Core</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\Network\GameContext.h">
+      <Filter>Network\Core</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\Network\GameQueryListener.h">
+      <Filter>Network\Core</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\Network\GameServerChannel.h">
+      <Filter>Network\Core</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\Network\GameServerNub.h">
+      <Filter>Network\Core</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\Network\PhysicsSync.h">
+      <Filter>Network\Core</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\Network\ScriptBind_Network.h">
+      <Filter>Network\Core</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\Network\ScriptRMI.h">
+      <Filter>Network\Core</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\Network\ScriptSerialize.h">
+      <Filter>Network\Core</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\Network\ServerTimer.h">
+      <Filter>Network\Core</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\Network\NetMsgDispatcher.h">
+      <Filter>Network\Core</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\Network\NetMsgDispatcher.cpp">
+      <Filter>Network\Core</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\Network\GameStats.cpp">
+      <Filter>Network\GameSpy</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\Network\GameStatsConfig.cpp">
+      <Filter>Network\GameSpy</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\Network\GameStats.h">
+      <Filter>Network\GameSpy</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\Network\GameStatsConfig.h">
+      <Filter>Network\GameSpy</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\Network\ObjectSelector.cpp">
+      <Filter>Network\Helpers</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\Network\NetActionSync.h">
+      <Filter>Network\Helpers</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\Network\ObjectSelector.h">
+      <Filter>Network\Helpers</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\Network\SensedInclusionSet.h">
+      <Filter>Network\Helpers</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\Network\VoiceController.cpp">
+      <Filter>Network\Voice</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\Network\VoiceListener.cpp">
+      <Filter>Network\Voice</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\Network\VoiceController.h">
+      <Filter>Network\Voice</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\Network\VoiceListener.h">
+      <Filter>Network\Voice</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\Serialization\GameSerialize.cpp">
+      <Filter>Serialization</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\Serialization\GameSerialize_FactoryRegistration.cpp">
+      <Filter>Serialization</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\Serialization\GameSerialize.h">
+      <Filter>Serialization</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\Serialization\GameSerializeHelpers.h">
+      <Filter>Serialization</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\Serialization\XMLCPBin\BinarySerializeHelper.cpp">
+      <Filter>Serialization\Binary Save Games</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\Serialization\XMLCPBin\BinarySerializeHelper.h">
+      <Filter>Serialization\Binary Save Games</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\Serialization\SerializeReaderXMLCPBin.cpp">
+      <Filter>Serialization\Binary Save Games\XMLCPBin</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\Serialization\SerializeWriterXMLCPBin.cpp">
+      <Filter>Serialization\Binary Save Games\XMLCPBin</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\Serialization\XMLCPBin\XMLCPB_Common.cpp">
+      <Filter>Serialization\Binary Save Games\XMLCPBin</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\Serialization\XMLCPBin\XMLCPB_Utils.cpp">
+      <Filter>Serialization\Binary Save Games\XMLCPBin</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\Serialization\SerializeReaderXMLCPBin.h">
+      <Filter>Serialization\Binary Save Games\XMLCPBin</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\Serialization\SerializeWriterXMLCPBin.h">
+      <Filter>Serialization\Binary Save Games\XMLCPBin</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\Serialization\XMLCPBin\XMLCPB_Common.h">
+      <Filter>Serialization\Binary Save Games\XMLCPBin</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\Serialization\XMLCPBin\XMLCPB_Utils.h">
+      <Filter>Serialization\Binary Save Games\XMLCPBin</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\Serialization\XMLCPBin\Reader\XMLCPB_AttrReader.cpp">
+      <Filter>Serialization\Binary Save Games\XMLCPBin\Reader</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\Serialization\XMLCPBin\Reader\XMLCPB_AttrSetTableReader.cpp">
+      <Filter>Serialization\Binary Save Games\XMLCPBin\Reader</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\Serialization\XMLCPBin\Reader\XMLCPB_BufferReader.cpp">
+      <Filter>Serialization\Binary Save Games\XMLCPBin\Reader</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\Serialization\XMLCPBin\Reader\XMLCPB_NodeLiveReader.cpp">
+      <Filter>Serialization\Binary Save Games\XMLCPBin\Reader</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\Serialization\XMLCPBin\Reader\XMLCPB_Reader.cpp">
+      <Filter>Serialization\Binary Save Games\XMLCPBin\Reader</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\Serialization\XMLCPBin\Reader\XMLCPB_StringTableReader.cpp">
+      <Filter>Serialization\Binary Save Games\XMLCPBin\Reader</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\Serialization\XMLCPBin\Reader\XMLCPB_AttrReader.h">
+      <Filter>Serialization\Binary Save Games\XMLCPBin\Reader</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\Serialization\XMLCPBin\Reader\XMLCPB_AttrSetTableReader.h">
+      <Filter>Serialization\Binary Save Games\XMLCPBin\Reader</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\Serialization\XMLCPBin\Reader\XMLCPB_BufferReader.h">
+      <Filter>Serialization\Binary Save Games\XMLCPBin\Reader</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\Serialization\XMLCPBin\Reader\XMLCPB_NodeLiveReader.h">
+      <Filter>Serialization\Binary Save Games\XMLCPBin\Reader</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\Serialization\XMLCPBin\Reader\XMLCPB_Reader.h">
+      <Filter>Serialization\Binary Save Games\XMLCPBin\Reader</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\Serialization\XMLCPBin\Reader\XMLCPB_ReaderInterface.h">
+      <Filter>Serialization\Binary Save Games\XMLCPBin\Reader</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\Serialization\XMLCPBin\Reader\XMLCPB_StringTableReader.h">
+      <Filter>Serialization\Binary Save Games\XMLCPBin\Reader</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\Serialization\XMLCPBin\Writer\XMLCPB_AttrSetTableWriter.cpp">
+      <Filter>Serialization\Binary Save Games\XMLCPBin\Writer</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\Serialization\XMLCPBin\Writer\XMLCPB_AttrWriter.cpp">
+      <Filter>Serialization\Binary Save Games\XMLCPBin\Writer</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\Serialization\XMLCPBin\Writer\XMLCPB_BufferWriter.cpp">
+      <Filter>Serialization\Binary Save Games\XMLCPBin\Writer</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\Serialization\XMLCPBin\Writer\XMLCPB_NodeLiveWriter.cpp">
+      <Filter>Serialization\Binary Save Games\XMLCPBin\Writer</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\Serialization\XMLCPBin\Writer\XMLCPB_StringTableWriter.cpp">
+      <Filter>Serialization\Binary Save Games\XMLCPBin\Writer</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\Serialization\XMLCPBin\Writer\XMLCPB_Writer.cpp">
+      <Filter>Serialization\Binary Save Games\XMLCPBin\Writer</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\Serialization\XMLCPBin\Writer\XMLCPB_ZLibCompressor.cpp">
+      <Filter>Serialization\Binary Save Games\XMLCPBin\Writer</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\Serialization\XMLCPBin\Writer\XMLCPB_AttrSetTableWriter.h">
+      <Filter>Serialization\Binary Save Games\XMLCPBin\Writer</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\Serialization\XMLCPBin\Writer\XMLCPB_AttrWriter.h">
+      <Filter>Serialization\Binary Save Games\XMLCPBin\Writer</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\Serialization\XMLCPBin\Writer\XMLCPB_BufferWriter.h">
+      <Filter>Serialization\Binary Save Games\XMLCPBin\Writer</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\Serialization\XMLCPBin\Writer\XMLCPB_NodeLiveWriter.h">
+      <Filter>Serialization\Binary Save Games\XMLCPBin\Writer</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\Serialization\XMLCPBin\Writer\XMLCPB_StringTableWriter.h">
+      <Filter>Serialization\Binary Save Games\XMLCPBin\Writer</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\Serialization\XMLCPBin\Writer\XMLCPB_Writer.h">
+      <Filter>Serialization\Binary Save Games\XMLCPBin\Writer</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\Serialization\XMLCPBin\Writer\XMLCPB_WriterInterface.h">
+      <Filter>Serialization\Binary Save Games\XMLCPBin\Writer</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\Serialization\XMLCPBin\Writer\XMLCPB_ZLibCompressor.h">
+      <Filter>Serialization\Binary Save Games\XMLCPBin\Writer</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\Serialization\XMLScriptLoader.cpp">
+      <Filter>Serialization\Script XML Helpers</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\Serialization\XMLScriptLoader.h">
+      <Filter>Serialization\Script XML Helpers</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\Serialization\SerializeScriptTableReader.cpp">
+      <Filter>Serialization\Serialize to script</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\Serialization\SerializeScriptTableWriter.cpp">
+      <Filter>Serialization\Serialize to script</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\Serialization\SerializeScriptTableReader.h">
+      <Filter>Serialization\Serialize to script</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\Serialization\SerializeScriptTableWriter.h">
+      <Filter>Serialization\Serialize to script</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\Serialization\XmlLoadGame.cpp">
+      <Filter>Serialization\XML Save Games (primarily used for viewnotes and testing)</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\Serialization\XmlSaveGame.cpp">
+      <Filter>Serialization\XML Save Games (primarily used for viewnotes and testing)</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\Serialization\XmlSerializeHelper.cpp">
+      <Filter>Serialization\XML Save Games (primarily used for viewnotes and testing)</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\Serialization\XmlLoadGame.h">
+      <Filter>Serialization\XML Save Games (primarily used for viewnotes and testing)</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\Serialization\XmlSaveGame.h">
+      <Filter>Serialization\XML Save Games (primarily used for viewnotes and testing)</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\Serialization\XmlSerializeHelper.h">
+      <Filter>Serialization\XML Save Games (primarily used for viewnotes and testing)</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\VehicleSystem.cpp">
+      <Filter>Vehicle Files</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\ScriptBind_VehicleSystem.cpp">
+      <Filter>Vehicle Files</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\VehicleSystem\VehicleCVars.cpp">
+      <Filter>Vehicle Files</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\VehicleSystem\VehicleModificationParams.cpp">
+      <Filter>Vehicle Files</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\ScriptBind_VehicleSystem.h">
+      <Filter>Vehicle Files</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\VehicleSystem\VehicleCVars.h">
+      <Filter>Vehicle Files</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\VehicleSystem\VehicleModificationParams.h">
+      <Filter>Vehicle Files</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\VehicleSystem\VehicleParams.h">
+      <Filter>Vehicle Files</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\VehicleSystem.h">
+      <Filter>Vehicle Files</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\VehicleSystem\VehicleUsableActionFlip.cpp">
+      <Filter>Vehicle Files\Actions</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\VehicleSystem\VehicleUsableActionEnter.cpp">
+      <Filter>Vehicle Files\Actions</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\VehicleSystem\VehicleUsableActionEnter.h">
+      <Filter>Vehicle Files\Actions</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\VehicleSystem\VehicleUsableActionFlip.h">
+      <Filter>Vehicle Files\Actions</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\VehicleSystem\Animation\VehicleAnimationComponent.cpp">
+      <Filter>Vehicle Files\Animation</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\VehicleSystem\Animation\VehicleSeatAnimActions.cpp">
+      <Filter>Vehicle Files\Animation</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\VehicleSystem\Animation\VehicleAnimationComponent.h">
+      <Filter>Vehicle Files\Animation</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\VehicleSystem\Animation\VehicleSeatAnimActions.h">
+      <Filter>Vehicle Files\Animation</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\VehicleSystem\VehicleDamages.cpp">
+      <Filter>Vehicle Files\Damages</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\VehicleSystem\VehicleDamagesGroup.cpp">
+      <Filter>Vehicle Files\Damages</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\VehicleSystem\VehicleDamagesTemplateRegistry.cpp">
+      <Filter>Vehicle Files\Damages</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\VehicleSystem\VehicleDamages.h">
+      <Filter>Vehicle Files\Damages</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\VehicleSystem\VehicleDamagesGroup.h">
+      <Filter>Vehicle Files\Damages</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\VehicleSystem\VehicleDamagesTemplateRegistry.h">
+      <Filter>Vehicle Files\Damages</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\VehicleSystem\VehicleDamageBehaviorAISignal.cpp">
+      <Filter>Vehicle Files\Damages\Damage Behaviors</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\VehicleSystem\VehicleDamageBehaviorDestroy.cpp">
+      <Filter>Vehicle Files\Damages\Damage Behaviors</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\VehicleSystem\VehicleDamageBehaviorDetachPart.cpp">
+      <Filter>Vehicle Files\Damages\Damage Behaviors</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\VehicleSystem\VehicleDamageBehaviorEffect.cpp">
+      <Filter>Vehicle Files\Damages\Damage Behaviors</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\VehicleSystem\VehicleDamageBehaviorGroup.cpp">
+      <Filter>Vehicle Files\Damages\Damage Behaviors</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\VehicleSystem\VehicleDamageBehaviorHitPassenger.cpp">
+      <Filter>Vehicle Files\Damages\Damage Behaviors</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\VehicleSystem\VehicleDamageBehaviorImpulse.cpp">
+      <Filter>Vehicle Files\Damages\Damage Behaviors</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\VehicleSystem\VehicleDamageBehaviorIndicator.cpp">
+      <Filter>Vehicle Files\Damages\Damage Behaviors</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\VehicleSystem\VehicleDamageBehaviorMovementNotification.cpp">
+      <Filter>Vehicle Files\Damages\Damage Behaviors</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\VehicleSystem\VehicleDamageBehaviorSink.cpp">
+      <Filter>Vehicle Files\Damages\Damage Behaviors</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\VehicleSystem\VehicleDamageBehaviorSpawnDebris.cpp">
+      <Filter>Vehicle Files\Damages\Damage Behaviors</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\VehicleSystem\VehicleDamageBehaviorDisableSeatAction.cpp">
+      <Filter>Vehicle Files\Damages\Damage Behaviors</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\VehicleSystem\VehicleDamageBehaviorAISignal.h">
+      <Filter>Vehicle Files\Damages\Damage Behaviors</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\VehicleSystem\VehicleDamageBehaviorDestroy.h">
+      <Filter>Vehicle Files\Damages\Damage Behaviors</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\VehicleSystem\VehicleDamageBehaviorDetachPart.h">
+      <Filter>Vehicle Files\Damages\Damage Behaviors</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\VehicleSystem\VehicleDamageBehaviorDisableSeatAction.h">
+      <Filter>Vehicle Files\Damages\Damage Behaviors</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\VehicleSystem\VehicleDamageBehaviorEffect.h">
+      <Filter>Vehicle Files\Damages\Damage Behaviors</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\VehicleSystem\VehicleDamageBehaviorGroup.h">
+      <Filter>Vehicle Files\Damages\Damage Behaviors</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\VehicleSystem\VehicleDamageBehaviorHitPassenger.h">
+      <Filter>Vehicle Files\Damages\Damage Behaviors</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\VehicleSystem\VehicleDamageBehaviorImpulse.h">
+      <Filter>Vehicle Files\Damages\Damage Behaviors</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\VehicleSystem\VehicleDamageBehaviorIndicator.h">
+      <Filter>Vehicle Files\Damages\Damage Behaviors</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\VehicleSystem\VehicleDamageBehaviorMovementNotification.h">
+      <Filter>Vehicle Files\Damages\Damage Behaviors</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\VehicleSystem\VehicleDamageBehaviorSink.h">
+      <Filter>Vehicle Files\Damages\Damage Behaviors</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\VehicleSystem\VehicleDamageBehaviorSpawnDebris.h">
+      <Filter>Vehicle Files\Damages\Damage Behaviors</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\VehicleSystem\Vehicle.cpp">
+      <Filter>Vehicle Files\Main</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\VehicleSystem\VehicleAnimation.cpp">
+      <Filter>Vehicle Files\Main</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\VehicleSystem\VehicleComponent.cpp">
+      <Filter>Vehicle Files\Main</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\VehicleSystem\VehicleHelper.cpp">
+      <Filter>Vehicle Files\Main</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\VehicleSystem\VehicleSeat.cpp">
+      <Filter>Vehicle Files\Main</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\VehicleSystem\VehicleSeatGroup.cpp">
+      <Filter>Vehicle Files\Main</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\VehicleSystem\VehicleSystem_FactoryRegistration.cpp">
+      <Filter>Vehicle Files\Main</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\VehicleSystem\VehicleUtils.cpp">
+      <Filter>Vehicle Files\Main</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\VehicleSystem\Vehicle.h">
+      <Filter>Vehicle Files\Main</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\VehicleSystem\VehicleAnimation.h">
+      <Filter>Vehicle Files\Main</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\VehicleSystem\VehicleComponent.h">
+      <Filter>Vehicle Files\Main</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\VehicleSystem\VehicleHelper.h">
+      <Filter>Vehicle Files\Main</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\VehicleSystem\VehicleSeat.h">
+      <Filter>Vehicle Files\Main</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\VehicleSystem\VehicleSeatGroup.h">
+      <Filter>Vehicle Files\Main</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\VehicleSystem\VehicleUtils.h">
+      <Filter>Vehicle Files\Main</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\VehicleSystem\VehicleSeatSerializer.cpp">
+      <Filter>Vehicle Files\Network</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\VehicleSystem\VehicleSeatSerializer.h">
+      <Filter>Vehicle Files\Network</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\VehicleSystem\VehiclePartBase.cpp">
+      <Filter>Vehicle Files\Parts</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\VehicleSystem\VehiclePartAnimated.cpp">
+      <Filter>Vehicle Files\Parts</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\VehicleSystem\VehiclePartAnimatedJoint.cpp">
+      <Filter>Vehicle Files\Parts</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\VehicleSystem\VehiclePartAttachment.cpp">
+      <Filter>Vehicle Files\Parts</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\VehicleSystem\VehiclePartDetachedEntity.cpp">
+      <Filter>Vehicle Files\Parts</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\VehicleSystem\VehiclePartEntity.cpp">
+      <Filter>Vehicle Files\Parts</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\VehicleSystem\VehiclePartLight.cpp">
+      <Filter>Vehicle Files\Parts</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\VehicleSystem\VehiclePartMassBox.cpp">
+      <Filter>Vehicle Files\Parts</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\VehicleSystem\VehiclePartStatic.cpp">
+      <Filter>Vehicle Files\Parts</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\VehicleSystem\VehiclePartSubPart.cpp">
+      <Filter>Vehicle Files\Parts</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\VehicleSystem\VehiclePartSubPartWheel.cpp">
+      <Filter>Vehicle Files\Parts</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\VehicleSystem\VehiclePartTread.cpp">
+      <Filter>Vehicle Files\Parts</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\VehicleSystem\VehiclePartParticleEffect.cpp">
+      <Filter>Vehicle Files\Parts</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\VehicleSystem\VehiclePartAnimatedChar.cpp">
+      <Filter>Vehicle Files\Parts</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\VehicleSystem\VehiclePartEntityDelayedDetach.cpp">
+      <Filter>Vehicle Files\Parts</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\VehicleSystem\VehiclePartPulsingLight.cpp">
+      <Filter>Vehicle Files\Parts</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\VehicleSystem\VehiclePartSuspensionPart.cpp">
+      <Filter>Vehicle Files\Parts</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\VehicleSystem\VehiclePartWaterRipplesGenerator.cpp">
+      <Filter>Vehicle Files\Parts</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\VehicleSystem\VehiclePartAnimatedChar.h">
+      <Filter>Vehicle Files\Parts</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\VehicleSystem\VehiclePartEntityDelayedDetach.h">
+      <Filter>Vehicle Files\Parts</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\VehicleSystem\VehiclePartPulsingLight.h">
+      <Filter>Vehicle Files\Parts</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\VehicleSystem\VehiclePartWaterRipplesGenerator.h">
+      <Filter>Vehicle Files\Parts</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\VehicleSystem\VehiclePartAnimated.h">
+      <Filter>Vehicle Files\Parts</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\VehicleSystem\VehiclePartAnimatedJoint.h">
+      <Filter>Vehicle Files\Parts</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\VehicleSystem\VehiclePartAttachment.h">
+      <Filter>Vehicle Files\Parts</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\VehicleSystem\VehiclePartBase.h">
+      <Filter>Vehicle Files\Parts</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\VehicleSystem\VehiclePartDetachedEntity.h">
+      <Filter>Vehicle Files\Parts</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\VehicleSystem\VehiclePartEntity.h">
+      <Filter>Vehicle Files\Parts</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\VehicleSystem\VehiclePartLight.h">
+      <Filter>Vehicle Files\Parts</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\VehicleSystem\VehiclePartMassBox.h">
+      <Filter>Vehicle Files\Parts</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\VehicleSystem\VehiclePartParticleEffect.h">
+      <Filter>Vehicle Files\Parts</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\VehicleSystem\VehiclePartStatic.h">
+      <Filter>Vehicle Files\Parts</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\VehicleSystem\VehiclePartSubPart.h">
+      <Filter>Vehicle Files\Parts</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\VehicleSystem\VehiclePartSubPartWheel.h">
+      <Filter>Vehicle Files\Parts</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\VehicleSystem\VehiclePartSuspensionPart.h">
+      <Filter>Vehicle Files\Parts</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\VehicleSystem\VehiclePartTread.h">
+      <Filter>Vehicle Files\Parts</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\VehicleSystem\ScriptBind_VehicleSeat.cpp">
+      <Filter>Vehicle Files\Script</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\VehicleSystem\ScriptBind_Vehicle.cpp">
+      <Filter>Vehicle Files\Script</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\VehicleSystem\ScriptBind_Vehicle.h">
+      <Filter>Vehicle Files\Script</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\VehicleSystem\ScriptBind_VehicleSeat.h">
+      <Filter>Vehicle Files\Script</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\VehicleSystem\VehicleSeatActionAnimation.cpp">
+      <Filter>Vehicle Files\Seat Actions</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\VehicleSystem\VehicleSeatActionLights.cpp">
+      <Filter>Vehicle Files\Seat Actions</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\VehicleSystem\VehicleSeatActionMovement.cpp">
+      <Filter>Vehicle Files\Seat Actions</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\VehicleSystem\VehicleSeatActionPassengerIK.cpp">
+      <Filter>Vehicle Files\Seat Actions</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\VehicleSystem\VehicleSeatActionRotateTurret.cpp">
+      <Filter>Vehicle Files\Seat Actions</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\VehicleSystem\VehicleSeatActionSound.cpp">
+      <Filter>Vehicle Files\Seat Actions</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\VehicleSystem\VehicleSeatActionSteeringWheel.cpp">
+      <Filter>Vehicle Files\Seat Actions</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\VehicleSystem\VehicleSeatActionWeapons.cpp">
+      <Filter>Vehicle Files\Seat Actions</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\VehicleSystem\VehicleSeatActionOrientateBoneToView.cpp">
+      <Filter>Vehicle Files\Seat Actions</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\VehicleSystem\VehicleSeatActionOrientatePartToView.cpp">
+      <Filter>Vehicle Files\Seat Actions</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\VehicleSystem\VehicleSeatActionRotateBone.cpp">
+      <Filter>Vehicle Files\Seat Actions</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\VehicleSystem\VehicleSeatActionWeaponsBone.cpp">
+      <Filter>Vehicle Files\Seat Actions</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\VehicleSystem\VehicleSeatActionPassiveAnimation.cpp">
+      <Filter>Vehicle Files\Seat Actions</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\VehicleSystem\VehicleSeatActionShakeParts.cpp">
+      <Filter>Vehicle Files\Seat Actions</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\VehicleSystem\VehicleNoiseGenerator.h">
+      <Filter>Vehicle Files\Seat Actions</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\VehicleSystem\VehicleSeatActionOrientateBoneToView.h">
+      <Filter>Vehicle Files\Seat Actions</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\VehicleSystem\VehicleSeatActionOrientatePartToView.h">
+      <Filter>Vehicle Files\Seat Actions</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\VehicleSystem\VehicleSeatActionPassiveAnimation.h">
+      <Filter>Vehicle Files\Seat Actions</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\VehicleSystem\VehicleSeatActionRotateBone.h">
+      <Filter>Vehicle Files\Seat Actions</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\VehicleSystem\VehicleSeatActionShakeParts.h">
+      <Filter>Vehicle Files\Seat Actions</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\VehicleSystem\VehicleSeatActionWeaponsBone.h">
+      <Filter>Vehicle Files\Seat Actions</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\VehicleSystem\VehicleSeatActionAnimation.h">
+      <Filter>Vehicle Files\Seat Actions</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\VehicleSystem\VehicleSeatActionLights.h">
+      <Filter>Vehicle Files\Seat Actions</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\VehicleSystem\VehicleSeatActionMovement.h">
+      <Filter>Vehicle Files\Seat Actions</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\VehicleSystem\VehicleSeatActionPassengerIK.h">
+      <Filter>Vehicle Files\Seat Actions</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\VehicleSystem\VehicleSeatActionRotateTurret.h">
+      <Filter>Vehicle Files\Seat Actions</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\VehicleSystem\VehicleSeatActionSound.h">
+      <Filter>Vehicle Files\Seat Actions</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\VehicleSystem\VehicleSeatActionSteeringWheel.h">
+      <Filter>Vehicle Files\Seat Actions</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\VehicleSystem\VehicleSeatActionWeapons.h">
+      <Filter>Vehicle Files\Seat Actions</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\VehicleSystem\VehicleViewActionThirdPerson.cpp">
+      <Filter>Vehicle Files\Views</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\VehicleSystem\VehicleViewSteer.cpp">
+      <Filter>Vehicle Files\Views</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\VehicleSystem\VehicleViewBase.cpp">
+      <Filter>Vehicle Files\Views</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\VehicleSystem\VehicleViewFirstPerson.cpp">
+      <Filter>Vehicle Files\Views</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\VehicleSystem\VehicleViewThirdPerson.cpp">
+      <Filter>Vehicle Files\Views</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\VehicleSystem\VehicleViewActionThirdPerson.h">
+      <Filter>Vehicle Files\Views</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\VehicleSystem\VehicleViewSteer.h">
+      <Filter>Vehicle Files\Views</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\VehicleSystem\VehicleViewBase.h">
+      <Filter>Vehicle Files\Views</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\VehicleSystem\VehicleViewFirstPerson.h">
+      <Filter>Vehicle Files\Views</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\VehicleSystem\VehicleViewThirdPerson.h">
+      <Filter>Vehicle Files\Views</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\ICryMannequin.h">
+      <Filter>Interfaces</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\ICryMannequinDefs.h">
+      <Filter>Interfaces</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\ICryMannequinEditor.h">
+      <Filter>Interfaces</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\ICryMannequinTagDefs.h">
+      <Filter>Interfaces</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\ICryMannequinUserParams.h">
+      <Filter>Interfaces</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\IActionMapManager.h">
+      <Filter>Interfaces</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\IActorSystem.h">
+      <Filter>Interfaces</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\IAnimatedCharacter.h">
+      <Filter>Interfaces</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\IAnimationGraph.h">
+      <Filter>Interfaces</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\ICheckPointSystem.h">
+      <Filter>Interfaces</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\ICooperativeAnimationManager.h">
+      <Filter>Interfaces</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\IForceFeedbackSystem.h">
+      <Filter>Interfaces</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\IGameObject.h">
+      <Filter>Interfaces</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\IGameObjectSystem.h">
+      <Filter>Interfaces</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\IGamePhysicsSettings.h">
+      <Filter>Interfaces</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\IGameplayRecorder.h">
+      <Filter>Interfaces</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\IGameRulesSystem.h">
+      <Filter>Interfaces</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\IGameSessionHandler.h">
+      <Filter>Interfaces</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\IInteractor.h">
+      <Filter>Interfaces</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\IItem.h">
+      <Filter>Interfaces</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\IItemSystem.h">
+      <Filter>Interfaces</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\ILevelSystem.h">
+      <Filter>Interfaces</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\ILoadGame.h">
+      <Filter>Interfaces</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\IMetadataRecorder.h">
+      <Filter>Interfaces</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\IMovementController.h">
+      <Filter>Interfaces</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\IPlayerProfiles.h">
+      <Filter>Interfaces</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\IRangeSignaling.h">
+      <Filter>Interfaces</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\ISaveGame.h">
+      <Filter>Interfaces</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\ISharedParamsManager.h">
+      <Filter>Interfaces</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\ISubtitleManager.h">
+      <Filter>Interfaces</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\ITimeDemoRecorder.h">
+      <Filter>Interfaces</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\IUIDraw.h">
+      <Filter>Interfaces</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\IVehicleSystem.h">
+      <Filter>Interfaces</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\IViewSystem.h">
+      <Filter>Interfaces</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\IWeapon.h">
+      <Filter>Interfaces</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\IWorldQuery.h">
+      <Filter>Interfaces</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\StdAfx.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAction\CMakeLists.txt" />
+    <CustomBuild Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Solution_Win64\CMakeFiles\96c879507ac415da75c16b0c14c76caf\CryAction_animgraph_uber.cpp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Solution_Win64\CMakeFiles\96c879507ac415da75c16b0c14c76caf\CryAction_dialogsystem_uber.cpp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Solution_Win64\CMakeFiles\96c879507ac415da75c16b0c14c76caf\CryAction_flashui_uber.cpp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Solution_Win64\CMakeFiles\96c879507ac415da75c16b0c14c76caf\CryAction_flowsystem_nodes_uber.cpp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Solution_Win64\CMakeFiles\96c879507ac415da75c16b0c14c76caf\CryAction_flowsystem_uber.cpp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Solution_Win64\CMakeFiles\96c879507ac415da75c16b0c14c76caf\CryAction_game_objects_uber.cpp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Solution_Win64\CMakeFiles\96c879507ac415da75c16b0c14c76caf\CryAction_main_uber_0.cpp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Solution_Win64\CMakeFiles\96c879507ac415da75c16b0c14c76caf\CryAction_main_uber_1.cpp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Solution_Win64\CMakeFiles\96c879507ac415da75c16b0c14c76caf\CryAction_main_uber_2.cpp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Solution_Win64\CMakeFiles\96c879507ac415da75c16b0c14c76caf\CryAction_main_uber_3.cpp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Solution_Win64\CMakeFiles\96c879507ac415da75c16b0c14c76caf\CryAction_main_uber_4.cpp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Solution_Win64\CMakeFiles\96c879507ac415da75c16b0c14c76caf\CryAction_mannequin_uber.cpp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Solution_Win64\CMakeFiles\96c879507ac415da75c16b0c14c76caf\CryAction_material_effects_uber.cpp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Solution_Win64\CMakeFiles\96c879507ac415da75c16b0c14c76caf\CryAction_network_uber.cpp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Solution_Win64\CMakeFiles\96c879507ac415da75c16b0c14c76caf\CryAction_serialization_uber.cpp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Solution_Win64\CMakeFiles\96c879507ac415da75c16b0c14c76caf\CryAction_vehicle_uber.cpp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="MaterialEffects\Effects">
+      <UniqueIdentifier>{24ED88FA-1B41-30D2-B4CC-274C8D0A241F}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="MaterialEffects\Subcomponents">
+      <UniqueIdentifier>{C5EA23EF-6D1C-38A1-9751-66489C4A55DD}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="MaterialEffects\Utils">
+      <UniqueIdentifier>{F40D4EDF-2974-32A8-9814-5717FCBC45D1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Serialization\Binary Save Games">
+      <UniqueIdentifier>{A739C98C-A7DB-37CD-A27D-6562D0A2B6A8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Serialization\Script XML Helpers">
+      <UniqueIdentifier>{9F22B3A3-4845-3AF9-B15B-FE2596C75B5B}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Serialization\Serialize to script">
+      <UniqueIdentifier>{49F2FC4A-841E-391B-9809-AD990A27EA0F}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Serialization\XML Save Games (primarily used for viewnotes and testing)">
+      <UniqueIdentifier>{512A4A34-601A-304B-9FA7-7B18346D33EC}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Flow System\Nodes">
+      <UniqueIdentifier>{1071D9AB-E2DD-3C4E-8DA7-911BA858D339}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Flow System\Unit Tests">
+      <UniqueIdentifier>{E959FDFB-7B17-3E69-BB26-02C2DB428338}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Flow System\Inspectors">
+      <UniqueIdentifier>{DA0F0F0E-076F-3911-BB6D-347A1F2C01AD}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Flow System\Modules">
+      <UniqueIdentifier>{44F4950D-DAAD-3463-86C1-7F44C13147B6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Mannequin\Experimental">
+      <UniqueIdentifier>{5A46A34B-1A16-3068-A488-78A1EB8F646E}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Mannequin\MannequinAG">
+      <UniqueIdentifier>{E3391EC6-4EB8-3C32-ADEE-3D11FF6BDA0D}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Mannequin\ProceduralClips">
+      <UniqueIdentifier>{61559F76-6122-33C3-B329-B6AD321A401B}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Mannequin\Xml">
+      <UniqueIdentifier>{9A9F1817-BDE2-3DD6-AA7E-04C5664D6440}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Network\Breakability">
+      <UniqueIdentifier>{69078BDE-BE97-3E01-9F61-69EC5EE7607A}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Network\Context Establishment Tasks">
+      <UniqueIdentifier>{2A1BD683-2F1F-34C7-AE4A-F30187958B32}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Network\Core">
+      <UniqueIdentifier>{D04BC43E-AC16-3368-9833-AFDFA95EC00A}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Network\GameSpy">
+      <UniqueIdentifier>{187B92FD-9D03-383A-A7D6-A575D95220DC}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Network\Helpers">
+      <UniqueIdentifier>{E7E8FB0B-F7C8-36B6-99FC-4181B701EF96}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Network\Voice">
+      <UniqueIdentifier>{0F7317C7-36B8-3CA5-AB2B-15F101795A6B}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Vehicle Files\Actions">
+      <UniqueIdentifier>{B6B53294-E6B6-3A26-B2A1-17CEA6BE880D}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Vehicle Files\Animation">
+      <UniqueIdentifier>{058C493D-CF14-3A6B-B02B-60830F4BD222}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Vehicle Files\Damages">
+      <UniqueIdentifier>{D7FB6840-ED94-30DE-9269-BB5200F61658}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Vehicle Files\Main">
+      <UniqueIdentifier>{8E6465DA-8AF7-3009-A114-70D10AC47F97}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Vehicle Files\Network">
+      <UniqueIdentifier>{E43CE65E-5227-3DFF-BD56-8976F0165495}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Vehicle Files\Parts">
+      <UniqueIdentifier>{3DB6F2BD-0999-39C1-8D0A-9110FAC90118}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Vehicle Files\Script">
+      <UniqueIdentifier>{206C6E09-F825-37E1-8358-54F284AC7A4D}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Vehicle Files\Seat Actions">
+      <UniqueIdentifier>{7F9BE0AB-E544-3FF4-9EE4-24135406D529}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Vehicle Files\Views">
+      <UniqueIdentifier>{7A5E8414-5AD9-3166-8D74-548051DD55E2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Vehicle Files\Damages\Damage Behaviors">
+      <UniqueIdentifier>{FF71D7C0-A9A9-39AD-8FF7-AA09999FEB99}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Serialization\Binary Save Games\XMLCPBin">
+      <UniqueIdentifier>{94995336-0BA2-3706-A685-406BBD7A0D6D}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Flow System\Nodes\Vehicle">
+      <UniqueIdentifier>{2EF66297-A173-39ED-8CB3-9CCC4A8B68A8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="GameVolumes\VolumeClasses">
+      <UniqueIdentifier>{AE8B8831-17F6-3677-B693-BD8321C46016}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="GameplayRecorder\Gameplay Analyst">
+      <UniqueIdentifier>{636658F6-8121-3FD0-971C-8334796DBD8C}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Animation\PoseAligner">
+      <UniqueIdentifier>{7D1A518B-8D41-38DE-BE08-DC52D0B6A531}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Animation\PoseModifier">
+      <UniqueIdentifier>{464BD362-D9B3-3C9C-9940-F5B3BD5BAF8C}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="AnimationGraph\Game Object">
+      <UniqueIdentifier>{3C468631-1E12-3579-BD45-72DD1A2B3A2F}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="AnimationGraph\System Files">
+      <UniqueIdentifier>{7F5FBEAB-69DA-3D4A-96E4-27463AC9F56D}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Serialization\Binary Save Games\XMLCPBin\Reader">
+      <UniqueIdentifier>{51553F51-392D-34BF-B0D3-FC1E7E978D04}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Serialization\Binary Save Games\XMLCPBin\Writer">
+      <UniqueIdentifier>{65C05E02-F25C-3BD4-AAAA-27B943650C20}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{526B85B2-5AEE-326C-94F9-8CC53F3E69CC}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{A920178B-E5D3-330D-9F11-D51D6B14FD2A}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{EAD2A386-A4DF-3C43-AE8D-8F52F97F005B}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="AnimationGraph">
+      <UniqueIdentifier>{D2D9E05D-5D03-3BA4-B12D-EBCEA1D96EE7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Dialog System">
+      <UniqueIdentifier>{F804C09A-33DC-3D81-B905-C7B8B84FAEA4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="FlashUI">
+      <UniqueIdentifier>{F6F1AA7C-D892-3F39-B6DE-C0229255F5C1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Flow System">
+      <UniqueIdentifier>{023F142B-5DD5-3058-8CF9-73B7783907FD}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Game Objects">
+      <UniqueIdentifier>{3245C152-B238-369C-A3AE-04E8AC67DA83}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="GameRules">
+      <UniqueIdentifier>{200B1474-862C-39AF-8B6D-CCFAE0DA9013}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="GameSession">
+      <UniqueIdentifier>{9980FD96-CB6E-3360-8861-C8C939B51C74}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="GameTokens">
+      <UniqueIdentifier>{9F9067BF-B2D3-33D2-ADA2-8CA20421B731}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="GameVolumes">
+      <UniqueIdentifier>{F8CFBB8D-0150-37C8-BAF8-7B87DE3AD28F}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="GameplayRecorder">
+      <UniqueIdentifier>{1852C285-ADE3-344E-A1E9-2BFDFF089B93}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Animation">
+      <UniqueIdentifier>{5B669DF1-BEE8-3202-9CF0-37C2809FB717}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Checkpoint">
+      <UniqueIdentifier>{D229ECEA-D1BF-32EB-80DB-04274E52500B}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="CustomEvents">
+      <UniqueIdentifier>{B355F03E-E061-344F-94D1-B44E46B48A0F}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Physics Helpers">
+      <UniqueIdentifier>{4006D0EE-2773-3E01-AFAA-53F1A4CC9F0E}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Test System">
+      <UniqueIdentifier>{67210DCE-198C-3E8A-8492-559F46067ABA}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Action Files">
+      <UniqueIdentifier>{00AC8292-A2CD-3CD0-8B05-97A0A6CFA526}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Actor Files">
+      <UniqueIdentifier>{74DC37A0-7D16-3266-919A-E0103306B9F7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Item Files">
+      <UniqueIdentifier>{6D110536-6C13-3B17-B2C6-7198BAF367BC}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Debug Helpers">
+      <UniqueIdentifier>{032A8967-63AA-380C-B370-C247DDAB078F}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Graphics">
+      <UniqueIdentifier>{6273A5E4-D923-32F1-AE9E-C77C6AD314FD}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Level Files">
+      <UniqueIdentifier>{05EFD859-9D5C-3819-BC82-47BF30DFA956}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="MetadataRecorder">
+      <UniqueIdentifier>{B38BCCE6-28E3-3B4B-A29E-8FFEFECE1716}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Player Profiles">
+      <UniqueIdentifier>{386B1220-4AAA-3AD9-9EA3-6C7A23B45944}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="View System">
+      <UniqueIdentifier>{59A6AE9B-3A72-315F-8EDE-D4ECFF6939C1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="CooperativeAnimationManager">
+      <UniqueIdentifier>{B5982D6A-48CA-3ACC-A767-97FE1E280F45}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="CustomActions">
+      <UniqueIdentifier>{8F2A08A0-71C9-344A-8AC2-63BB2AF2541B}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Range Signaling">
+      <UniqueIdentifier>{8459E914-4932-37D3-AE42-0AF92378507F}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Remote Control">
+      <UniqueIdentifier>{CA42D78B-EAB9-311D-94BC-54F0E926976E}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Signal Timers">
+      <UniqueIdentifier>{B3DCB9AC-0621-3CAE-B058-D5642111F4A8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Simple HTTP Server">
+      <UniqueIdentifier>{D3776342-CC52-325B-84B4-83833D76FF96}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Statistics">
+      <UniqueIdentifier>{F3F32462-8755-3722-A64D-BB1B9D6B3986}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="UIDraw">
+      <UniqueIdentifier>{10E31923-56C7-35B9-A068-6D2A3FA3BA76}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="AI Files">
+      <UniqueIdentifier>{36298EE1-548D-3242-B5AF-62692FE5FFE5}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="EffectSystem">
+      <UniqueIdentifier>{190C2838-8B03-3711-A313-D395B515A248}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Force Feedback System">
+      <UniqueIdentifier>{59D76EAD-497B-35AC-8198-EF9F618C7630}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="LipSync">
+      <UniqueIdentifier>{C2970C89-B934-3ADD-BB1E-2E2F2D9B7FB4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Live Preview">
+      <UniqueIdentifier>{718D9640-AF29-3C78-A2DD-BEC26A25482D}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="SegmentedWorld">
+      <UniqueIdentifier>{2D8998ED-6C42-33F9-BA8A-76FB531E9482}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="SharedParams">
+      <UniqueIdentifier>{F2BE2EC5-92D2-3464-B085-DAEC1F24D949}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Interfaces">
+      <UniqueIdentifier>{E5A5689F-D58F-30A6-B639-7E24C109E584}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Mannequin">
+      <UniqueIdentifier>{9EF8C82A-CCE1-3983-8845-57B979F126E2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="MaterialEffects">
+      <UniqueIdentifier>{1F9676B3-BE13-3BEB-BBD2-E34296D436D6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Network">
+      <UniqueIdentifier>{8A3412FD-3E5E-3C79-B6C1-3EFDA6CA6D8D}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Serialization">
+      <UniqueIdentifier>{A025831D-1B5D-338C-94DD-6436C8294AE3}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Vehicle Files">
+      <UniqueIdentifier>{94934160-42D1-3AD2-AA80-E4E65C9834DA}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="UBER FILES">
+      <UniqueIdentifier>{A9EDE9CC-9CBB-3D2A-9C04-66ECEC4A3DAF}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

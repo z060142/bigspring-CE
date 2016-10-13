@@ -1,0 +1,210 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Project ToolsVersion="14.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryDynamicResponseSystem\stdafx.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Solution_Win64\Code\CryEngine\CryDynamicResponseSystem\CryDRS_Uber_0.cpp">
+      <Filter>UBER FILES</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryDynamicResponseSystem\ActionCancelSignal.h">
+      <Filter>Response Actions\Impl</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryDynamicResponseSystem\ActionCancelSignal.cpp">
+      <Filter>Response Actions\Impl</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryDynamicResponseSystem\ActionExecuteResponse.h">
+      <Filter>Response Actions\Impl</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryDynamicResponseSystem\ActionExecuteResponse.cpp">
+      <Filter>Response Actions\Impl</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryDynamicResponseSystem\ActionResetTimer.h">
+      <Filter>Response Actions\Impl</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryDynamicResponseSystem\ActionResetTimer.cpp">
+      <Filter>Response Actions\Impl</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryDynamicResponseSystem\ActionSendSignal.h">
+      <Filter>Response Actions\Impl</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryDynamicResponseSystem\ActionSendSignal.cpp">
+      <Filter>Response Actions\Impl</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryDynamicResponseSystem\ActionSetActor.h">
+      <Filter>Response Actions\Impl</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryDynamicResponseSystem\ActionSetActor.cpp">
+      <Filter>Response Actions\Impl</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryDynamicResponseSystem\ActionSetGameToken.h">
+      <Filter>Response Actions\Impl</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryDynamicResponseSystem\ActionSetGameToken.cpp">
+      <Filter>Response Actions\Impl</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryDynamicResponseSystem\ActionSetVariable.h">
+      <Filter>Response Actions\Impl</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryDynamicResponseSystem\ActionSetVariable.cpp">
+      <Filter>Response Actions\Impl</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryDynamicResponseSystem\ActionSpeakLine.h">
+      <Filter>Response Actions\Impl</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryDynamicResponseSystem\ActionSpeakLine.cpp">
+      <Filter>Response Actions\Impl</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryDynamicResponseSystem\ActionWait.h">
+      <Filter>Response Actions\Impl</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryDynamicResponseSystem\ActionWait.cpp">
+      <Filter>Response Actions\Impl</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryDynamicResponseSystem\DelayActionAction.h">
+      <Filter>Response Actions\Impl</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryDynamicResponseSystem\DelayActionAction.cpp">
+      <Filter>Response Actions\Impl</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryDynamicResponseSystem\ConditionsCollection.cpp">
+      <Filter>Response Conditions</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryDynamicResponseSystem\ConditionsCollection.h">
+      <Filter>Response Conditions</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryDynamicResponseSystem\ConditionImpl.cpp">
+      <Filter>Response Conditions\Impl</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryDynamicResponseSystem\SpecialConditionsImpl.cpp">
+      <Filter>Response Conditions\Impl</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryDynamicResponseSystem\ConditionImpl.h">
+      <Filter>Response Conditions\Impl</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryDynamicResponseSystem\SpecialConditionsImpl.h">
+      <Filter>Response Conditions\Impl</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryDynamicResponseSystem\Variable.h">
+      <Filter>Response Variables</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryDynamicResponseSystem\Variable.cpp">
+      <Filter>Response Variables</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryDynamicResponseSystem\VariableCollection.h">
+      <Filter>Response Variables</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryDynamicResponseSystem\VariableValue.h">
+      <Filter>Response Variables</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryDynamicResponseSystem\VariableCollection.cpp">
+      <Filter>Response Variables</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryDynamicResponseSystem\VariableValue.cpp">
+      <Filter>Response Variables</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryDynamicResponseSystem\Response.h">
+      <Filter>Responses</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryDynamicResponseSystem\Response.cpp">
+      <Filter>Responses</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryDynamicResponseSystem\ResponseManager.h">
+      <Filter>Responses</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryDynamicResponseSystem\ResponseManager.cpp">
+      <Filter>Responses</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryDynamicResponseSystem\ResponseSegment.h">
+      <Filter>Responses</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryDynamicResponseSystem\ResponseSegment.cpp">
+      <Filter>Responses</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryDynamicResponseSystem\ResponseInstance.h">
+      <Filter>Responses</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryDynamicResponseSystem\ResponseInstance.cpp">
+      <Filter>Responses</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryDynamicResponseSystem\ResponseSystemDataImportHelper.h">
+      <Filter>Responses</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryDynamicResponseSystem\ResponseSystemDataImportHelper.cpp">
+      <Filter>Responses</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryDynamicResponseSystem\CryDynamicResponseSystem.cpp">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryDynamicResponseSystem\resource.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryDynamicResponseSystem\ResponseSystem.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryDynamicResponseSystem\ResponseSystem.cpp">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryDynamicResponseSystem\ResponseSystemDebugDataProvider.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryDynamicResponseSystem\ResponseSystemDebugDataProvider.cpp">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryDynamicResponseSystem\SpeakerManager.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryDynamicResponseSystem\SpeakerManager.cpp">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryDynamicResponseSystem\DialogLineDatabase.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryDynamicResponseSystem\DialogLineDatabase.cpp">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryDynamicResponseSystem\stdafx.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryDynamicResponseSystem\CMakeLists.txt" />
+    <CustomBuild Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Solution_Win64\CMakeFiles\00df0a2cbba3fc3a477bc95f0d702e4b\CryDRS_Uber_0.cpp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Response Actions\Impl">
+      <UniqueIdentifier>{FB9F888F-5523-3CC5-A2CD-B65D612AB671}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Response Conditions\Impl">
+      <UniqueIdentifier>{39985EA4-F4CE-32E0-BCE0-C29F2EB8B4AB}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{526B85B2-5AEE-326C-94F9-8CC53F3E69CC}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{A920178B-E5D3-330D-9F11-D51D6B14FD2A}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{EAD2A386-A4DF-3C43-AE8D-8F52F97F005B}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Response Actions">
+      <UniqueIdentifier>{EA34BDDD-1DE4-3CB1-BCE1-129E2677011F}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Response Conditions">
+      <UniqueIdentifier>{2EB860A9-D645-3ACB-ACFE-E447C28A4FD7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Response Variables">
+      <UniqueIdentifier>{A73B2187-8D8E-36FE-A5EF-193CE2278096}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Responses">
+      <UniqueIdentifier>{893A3024-3B82-3969-B86E-D7EA26758EE9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="UBER FILES">
+      <UniqueIdentifier>{A9EDE9CC-9CBB-3D2A-9C04-66ECEC4A3DAF}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

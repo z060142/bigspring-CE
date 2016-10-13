@@ -1,0 +1,375 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Project ToolsVersion="14.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryEntitySystem\stdafx.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Solution_Win64\Code\CryEngine\CryEntitySystem\CryEntitySystem_proxy_uber.cpp">
+      <Filter>UBER FILES</Filter>
+    </ClCompile>
+    <ClCompile Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Solution_Win64\Code\CryEngine\CryEntitySystem\CryEntitySystem_uber_0.cpp">
+      <Filter>UBER FILES</Filter>
+    </ClCompile>
+    <ClCompile Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Solution_Win64\Code\CryEngine\CryEntitySystem\CryEntitySystem_uber_1.cpp">
+      <Filter>UBER FILES</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryEntitySystem\AreaProxy.cpp">
+      <Filter>Proxy\Area</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryEntitySystem\AreaProxy.h">
+      <Filter>Proxy\Area</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryEntitySystem\EntityAttributesProxy.cpp">
+      <Filter>Proxy\Attributes</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryEntitySystem\EntityAttributesProxy.h">
+      <Filter>Proxy\Attributes</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryEntitySystem\EntityAudioProxy.cpp">
+      <Filter>Proxy\Audio</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryEntitySystem\EntityAudioProxy.h">
+      <Filter>Proxy\Audio</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryEntitySystem\CameraProxy.cpp">
+      <Filter>Proxy\CameraProxy</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryEntitySystem\CameraProxy.h">
+      <Filter>Proxy\CameraProxy</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryEntitySystem\ClipVolumeProxy.cpp">
+      <Filter>Proxy\ClipVolume</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryEntitySystem\ClipVolumeProxy.h">
+      <Filter>Proxy\ClipVolume</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryEntitySystem\DynamicResponseProxy.cpp">
+      <Filter>Proxy\DynamicResponse</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryEntitySystem\DynamicResponseProxy.h">
+      <Filter>Proxy\DynamicResponse</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryEntitySystem\FlowGraphProxy.cpp">
+      <Filter>Proxy\FlowGraph</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryEntitySystem\FlowGraphProxy.h">
+      <Filter>Proxy\FlowGraph</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryEntitySystem\PhysicsEventListener.cpp">
+      <Filter>Proxy\Physics</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryEntitySystem\PhysicsProxy.cpp">
+      <Filter>Proxy\Physics</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryEntitySystem\RopeProxy.cpp">
+      <Filter>Proxy\Physics</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryEntitySystem\PhysicsEventListener.h">
+      <Filter>Proxy\Physics</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryEntitySystem\PhysicsProxy.h">
+      <Filter>Proxy\Physics</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryEntitySystem\RopeProxy.h">
+      <Filter>Proxy\Physics</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryEntitySystem\EntityObject.cpp">
+      <Filter>Proxy\Render</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryEntitySystem\RenderProxy.cpp">
+      <Filter>Proxy\Render</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryEntitySystem\EntityObject.h">
+      <Filter>Proxy\Render</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryEntitySystem\RenderProxy.h">
+      <Filter>Proxy\Render</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryEntitySystem\EntityScript.cpp">
+      <Filter>Proxy\Script</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryEntitySystem\ScriptBind_Entity.cpp">
+      <Filter>Proxy\Script</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryEntitySystem\ScriptProperties.cpp">
+      <Filter>Proxy\Script</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryEntitySystem\ScriptProxy.cpp">
+      <Filter>Proxy\Script</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryEntitySystem\EntityScript.h">
+      <Filter>Proxy\Script</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryEntitySystem\ScriptBind_Entity.h">
+      <Filter>Proxy\Script</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryEntitySystem\ScriptProperties.h">
+      <Filter>Proxy\Script</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryEntitySystem\ScriptProxy.h">
+      <Filter>Proxy\Script</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryEntitySystem\SubstitutionProxy.cpp">
+      <Filter>Proxy\SubstitutionProxy</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryEntitySystem\SubstitutionProxy.h">
+      <Filter>Proxy\SubstitutionProxy</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryEntitySystem\EntityNodeProxy.cpp">
+      <Filter>Proxy\TrackView</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryEntitySystem\EntityNodeProxy.h">
+      <Filter>Proxy\TrackView</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryEntitySystem\TriggerProxy.cpp">
+      <Filter>Proxy\TriggerProxy</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryEntitySystem\TriggerProxy.h">
+      <Filter>Proxy\TriggerProxy</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryEntitySystem\EntityClass.cpp">
+      <Filter>EntityClass</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryEntitySystem\EntityClassRegistry.cpp">
+      <Filter>EntityClass</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryEntitySystem\EntityClass.h">
+      <Filter>EntityClass</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryEntitySystem\EntityClassRegistry.h">
+      <Filter>EntityClass</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryEntitySystem\AreaSolid.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryEntitySystem\AreaUtil.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryEntitySystem\BSPTree3D.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryEntitySystem\resource.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryEntitySystem\AffineParts.cpp">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryEntitySystem\AreaSolid.cpp">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryEntitySystem\BSPTree3D.cpp">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryEntitySystem\ComponentEventDistributer.cpp">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryEntitySystem\CryEntityDLL.cpp">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryEntitySystem\Entity.cpp">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryEntitySystem\EntityArchetype.cpp">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryEntitySystem\EntityCVars.cpp">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryEntitySystem\EntityLayer.cpp">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryEntitySystem\EntitySystem.cpp">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryEntitySystem\EntityTimeoutList.cpp">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryEntitySystem\AffineParts.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryEntitySystem\ComponentEventDistributer.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryEntitySystem\Entity.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryEntitySystem\EntityArchetype.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryEntitySystem\EntityCVars.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryEntitySystem\EntityIt.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryEntitySystem\EntityLayer.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryEntitySystem\EntitySystem.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryEntitySystem\EntityTimeoutList.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryEntitySystem\SaltBufferArray.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryEntitySystem\SaltHandle.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryEntitySystem\CharacterBoneAttachmentManager.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryEntitySystem\CharacterBoneAttachmentManager.cpp">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryEntitySystem\GeomCacheAttachmentManager.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryEntitySystem\GeomCacheAttachmentManager.cpp">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryEntitySystem\Area.cpp">
+      <Filter>AreaManager</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryEntitySystem\AreaGrid.cpp">
+      <Filter>AreaManager</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryEntitySystem\AreaManager.cpp">
+      <Filter>AreaManager</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryEntitySystem\Area.h">
+      <Filter>AreaManager</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryEntitySystem\AreaGrid.h">
+      <Filter>AreaManager</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryEntitySystem\AreaManager.h">
+      <Filter>AreaManager</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryEntitySystem\BreakableManager.cpp">
+      <Filter>BreakableManager</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryEntitySystem\BreakablePlane.cpp">
+      <Filter>BreakableManager</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryEntitySystem\BreakablePlane.h">
+      <Filter>BreakableManager</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryEntitySystem\BreakableManager.h">
+      <Filter>BreakableManager</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryEntitySystem\EntityLoadManager.cpp">
+      <Filter>Loading</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryEntitySystem\EntityLoadManager.h">
+      <Filter>Loading</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryEntitySystem\PartitionGrid.cpp">
+      <Filter>PartitionGrid</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryEntitySystem\ProximityTriggerSystem.cpp">
+      <Filter>PartitionGrid</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryEntitySystem\RadixSort.cpp">
+      <Filter>PartitionGrid</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryEntitySystem\PartitionGrid.h">
+      <Filter>PartitionGrid</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryEntitySystem\ProximityTriggerSystem.h">
+      <Filter>PartitionGrid</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryEntitySystem\RadixSort.h">
+      <Filter>PartitionGrid</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryEntitySystem\stdafx.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryEntitySystem\CMakeLists.txt" />
+    <CustomBuild Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Solution_Win64\CMakeFiles\afaabf426690a12d230d2f284bfc3abc\CryEntitySystem_proxy_uber.cpp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Solution_Win64\CMakeFiles\afaabf426690a12d230d2f284bfc3abc\CryEntitySystem_uber_0.cpp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Solution_Win64\CMakeFiles\afaabf426690a12d230d2f284bfc3abc\CryEntitySystem_uber_1.cpp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{526B85B2-5AEE-326C-94F9-8CC53F3E69CC}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{A920178B-E5D3-330D-9F11-D51D6B14FD2A}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{EAD2A386-A4DF-3C43-AE8D-8F52F97F005B}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Proxy">
+      <UniqueIdentifier>{D7100747-0107-3F70-A6E7-EF9A9269AC94}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="EntityClass">
+      <UniqueIdentifier>{3FE4B7AE-2466-359F-8BA0-48BD04830F65}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="AreaManager">
+      <UniqueIdentifier>{CC13E0F6-0A10-3870-A35F-E15592D64CF7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="BreakableManager">
+      <UniqueIdentifier>{56CC0DE7-41FA-3776-879E-907F4E6C0C52}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Loading">
+      <UniqueIdentifier>{8C5884B9-A99F-3B0E-AA3D-FF5273974274}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="PartitionGrid">
+      <UniqueIdentifier>{0F433BEF-FC6C-3B05-BD7B-334192884DA5}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="UBER FILES">
+      <UniqueIdentifier>{A9EDE9CC-9CBB-3D2A-9C04-66ECEC4A3DAF}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Proxy\Area">
+      <UniqueIdentifier>{ACE3AEC0-4959-326F-B427-CC1B51E4FA9A}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Proxy\Attributes">
+      <UniqueIdentifier>{41BAF0B7-8EB7-3610-AEF8-E39FB957EC5B}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Proxy\Audio">
+      <UniqueIdentifier>{4DAFCC0F-110F-3748-B73C-3671E74C5B32}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Proxy\CameraProxy">
+      <UniqueIdentifier>{347C5319-8E3C-324A-821C-0BA6FD763D81}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Proxy\ClipVolume">
+      <UniqueIdentifier>{D7041AD0-8789-3B9D-AAA2-988F11E05CDD}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Proxy\DynamicResponse">
+      <UniqueIdentifier>{21B2C0DA-F49B-3816-8AA6-9F756900F935}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Proxy\FlowGraph">
+      <UniqueIdentifier>{E4C798D0-46BB-316F-B356-BD39DB0AE6C0}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Proxy\Physics">
+      <UniqueIdentifier>{F297C1FD-2E2E-32EF-81AF-78C644F98ECA}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Proxy\Render">
+      <UniqueIdentifier>{385BC11D-F18D-3A69-B30D-54B90AC5B6F6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Proxy\Script">
+      <UniqueIdentifier>{6906838C-4E63-3E74-9834-1BA91B0A42B1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Proxy\SubstitutionProxy">
+      <UniqueIdentifier>{C462A8FF-8DC9-32B1-A330-CBD59EA81223}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Proxy\TrackView">
+      <UniqueIdentifier>{EEB13E74-0D51-31E0-84C7-F90A00D68A0D}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Proxy\TriggerProxy">
+      <UniqueIdentifier>{1AABBB8C-2B89-3DE8-8182-9D9BE4CA2AFB}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

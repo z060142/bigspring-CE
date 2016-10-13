@@ -1,0 +1,67 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Project ToolsVersion="14.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAudioSystem\implementations\CryAudioImplWwise\CMakeLists.txt" />
+    <CustomBuild Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Solution_Win64\CMakeFiles\30ee0b46e79da0c8fbc90654882e273a\CryAudioImpl_uber_0.cpp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAudioSystem\implementations\CryAudioImplWwise\ATLEntities.h">
+      <Filter>Header Files</Filter>
+    </None>
+    <None Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAudioSystem\implementations\CryAudioImplWwise\AudioImpl.h">
+      <Filter>Header Files</Filter>
+    </None>
+    <None Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAudioSystem\implementations\CryAudioImplWwise\AudioImplCVars.h">
+      <Filter>Header Files</Filter>
+    </None>
+    <None Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAudioSystem\implementations\CryAudioImplWwise\Common.h">
+      <Filter>Header Files</Filter>
+    </None>
+    <None Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAudioSystem\implementations\CryAudioImplWwise\FileIOHandler.h">
+      <Filter>Header Files</Filter>
+    </None>
+    <None Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAudioSystem\implementations\CryAudioImplWwise\resource.h">
+      <Filter>Header Files</Filter>
+    </None>
+    <None Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAudioSystem\implementations\CryAudioImplWwise\stdafx.h">
+      <Filter>Header Files</Filter>
+    </None>
+    <None Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAudioSystem\implementations\CryAudioImplWwise\AudioImpl.cpp">
+      <Filter>Source Files</Filter>
+    </None>
+    <None Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAudioSystem\implementations\CryAudioImplWwise\AudioImplCVars.cpp">
+      <Filter>Source Files</Filter>
+    </None>
+    <None Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAudioSystem\implementations\CryAudioImplWwise\Common.cpp">
+      <Filter>Source Files</Filter>
+    </None>
+    <None Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAudioSystem\implementations\CryAudioImplWwise\CryAudioImpl.cpp">
+      <Filter>Source Files</Filter>
+    </None>
+    <None Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAudioSystem\implementations\CryAudioImplWwise\FileIOHandler.cpp">
+      <Filter>Source Files</Filter>
+    </None>
+    <None Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\CryEngine\CryAudioSystem\implementations\CryAudioImplWwise\stdafx.cpp">
+      <Filter>Source Files</Filter>
+    </None>
+    <None Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Solution_Win64\Code\CryEngine\CryAudioSystem\implementations\CryAudioImplWwise\CryAudioImpl_uber_0.cpp">
+      <Filter>UBER FILES</Filter>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{526B85B2-5AEE-326C-94F9-8CC53F3E69CC}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{A920178B-E5D3-330D-9F11-D51D6B14FD2A}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{EAD2A386-A4DF-3C43-AE8D-8F52F97F005B}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="UBER FILES">
+      <UniqueIdentifier>{A9EDE9CC-9CBB-3D2A-9C04-66ECEC4A3DAF}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

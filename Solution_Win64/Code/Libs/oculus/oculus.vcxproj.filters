@@ -1,0 +1,350 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Project ToolsVersion="14.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\SDKs\OculusSDK\LibOVRKernel\Src\GL\CAPI_GLE.cpp">
+      <Filter>GL</Filter>
+    </ClCompile>
+    <ClCompile Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\SDKs\OculusSDK\LibOVRKernel\Src\Kernel\OVR_Alg.cpp">
+      <Filter>LibOVRKernel</Filter>
+    </ClCompile>
+    <ClCompile Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\SDKs\OculusSDK\LibOVRKernel\Src\Kernel\OVR_Allocator.cpp">
+      <Filter>LibOVRKernel</Filter>
+    </ClCompile>
+    <ClCompile Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\SDKs\OculusSDK\LibOVRKernel\Src\Kernel\OVR_Atomic.cpp">
+      <Filter>LibOVRKernel</Filter>
+    </ClCompile>
+    <ClCompile Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\SDKs\OculusSDK\LibOVRKernel\Src\Kernel\OVR_Callbacks.cpp">
+      <Filter>LibOVRKernel</Filter>
+    </ClCompile>
+    <ClCompile Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\SDKs\OculusSDK\LibOVRKernel\Src\Kernel\OVR_CRC32.cpp">
+      <Filter>LibOVRKernel</Filter>
+    </ClCompile>
+    <ClCompile Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\SDKs\OculusSDK\LibOVRKernel\Src\Kernel\OVR_DebugHelp.cpp">
+      <Filter>LibOVRKernel</Filter>
+    </ClCompile>
+    <ClCompile Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\SDKs\OculusSDK\LibOVRKernel\Src\Kernel\OVR_File.cpp">
+      <Filter>LibOVRKernel</Filter>
+    </ClCompile>
+    <ClCompile Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\SDKs\OculusSDK\LibOVRKernel\Src\Kernel\OVR_FileFILE.cpp">
+      <Filter>LibOVRKernel</Filter>
+    </ClCompile>
+    <ClCompile Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\SDKs\OculusSDK\LibOVRKernel\Src\Kernel\OVR_JSON.cpp">
+      <Filter>LibOVRKernel</Filter>
+    </ClCompile>
+    <ClCompile Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\SDKs\OculusSDK\LibOVRKernel\Src\Kernel\OVR_Lockless.cpp">
+      <Filter>LibOVRKernel</Filter>
+    </ClCompile>
+    <ClCompile Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\SDKs\OculusSDK\LibOVRKernel\Src\Kernel\OVR_Log.cpp">
+      <Filter>LibOVRKernel</Filter>
+    </ClCompile>
+    <ClCompile Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\SDKs\OculusSDK\LibOVRKernel\Src\Kernel\OVR_mach_exc_OSX.c">
+      <Filter>LibOVRKernel</Filter>
+    </ClCompile>
+    <ClCompile Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\SDKs\OculusSDK\LibOVRKernel\Src\Kernel\OVR_Rand.cpp">
+      <Filter>LibOVRKernel</Filter>
+    </ClCompile>
+    <ClCompile Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\SDKs\OculusSDK\LibOVRKernel\Src\Kernel\OVR_RefCount.cpp">
+      <Filter>LibOVRKernel</Filter>
+    </ClCompile>
+    <ClCompile Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\SDKs\OculusSDK\LibOVRKernel\Src\Kernel\OVR_SharedMemory.cpp">
+      <Filter>LibOVRKernel</Filter>
+    </ClCompile>
+    <ClCompile Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\SDKs\OculusSDK\LibOVRKernel\Src\Kernel\OVR_Std.cpp">
+      <Filter>LibOVRKernel</Filter>
+    </ClCompile>
+    <ClCompile Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\SDKs\OculusSDK\LibOVRKernel\Src\Kernel\OVR_String.cpp">
+      <Filter>LibOVRKernel</Filter>
+    </ClCompile>
+    <ClCompile Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\SDKs\OculusSDK\LibOVRKernel\Src\Kernel\OVR_String_FormatUtil.cpp">
+      <Filter>LibOVRKernel</Filter>
+    </ClCompile>
+    <ClCompile Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\SDKs\OculusSDK\LibOVRKernel\Src\Kernel\OVR_String_PathUtil.cpp">
+      <Filter>LibOVRKernel</Filter>
+    </ClCompile>
+    <ClCompile Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\SDKs\OculusSDK\LibOVRKernel\Src\Kernel\OVR_SysFile.cpp">
+      <Filter>LibOVRKernel</Filter>
+    </ClCompile>
+    <ClCompile Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\SDKs\OculusSDK\LibOVRKernel\Src\Kernel\OVR_System.cpp">
+      <Filter>LibOVRKernel</Filter>
+    </ClCompile>
+    <ClCompile Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\SDKs\OculusSDK\LibOVRKernel\Src\Kernel\OVR_ThreadCommandQueue.cpp">
+      <Filter>LibOVRKernel</Filter>
+    </ClCompile>
+    <ClCompile Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\SDKs\OculusSDK\LibOVRKernel\Src\Kernel\OVR_ThreadsPthread.cpp">
+      <Filter>LibOVRKernel</Filter>
+    </ClCompile>
+    <ClCompile Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\SDKs\OculusSDK\LibOVRKernel\Src\Kernel\OVR_ThreadsWinAPI.cpp">
+      <Filter>LibOVRKernel</Filter>
+    </ClCompile>
+    <ClCompile Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\SDKs\OculusSDK\LibOVRKernel\Src\Kernel\OVR_Timer.cpp">
+      <Filter>LibOVRKernel</Filter>
+    </ClCompile>
+    <ClCompile Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\SDKs\OculusSDK\LibOVRKernel\Src\Kernel\OVR_UTF8Util.cpp">
+      <Filter>LibOVRKernel</Filter>
+    </ClCompile>
+    <ClCompile Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\SDKs\OculusSDK\Logging\src\Logging_Library.cpp">
+      <Filter>Logging</Filter>
+    </ClCompile>
+    <ClCompile Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\SDKs\OculusSDK\Logging\src\Logging_OutputPlugins.cpp">
+      <Filter>Logging</Filter>
+    </ClCompile>
+    <ClCompile Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\SDKs\OculusSDK\Logging\src\internal\Logging_Tools.cpp">
+      <Filter>Logging</Filter>
+    </ClCompile>
+    <ClCompile Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\SDKs\OculusSDK\LibOVR\Src\OVR_CAPIShim.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\SDKs\OculusSDK\LibOVR\Src\OVR_CAPI_Util.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\SDKs\OculusSDK\LibOVR\Src\OVR_StereoProjection.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\SDKs\OculusSDK\3rdParty\TinyXml\tinyxml2.cpp">
+      <Filter>TinyXml</Filter>
+    </ClCompile>
+    <ClCompile Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\SDKs\OculusSDK\LibOVRKernel\Src\Util\Util_Direct3D.cpp">
+      <Filter>Util</Filter>
+    </ClCompile>
+    <ClCompile Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\SDKs\OculusSDK\LibOVRKernel\Src\Util\Util_GetSystemSpecs.cpp">
+      <Filter>Util</Filter>
+    </ClCompile>
+    <ClCompile Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\SDKs\OculusSDK\LibOVRKernel\Src\Util\Util_GL_Blitter.cpp">
+      <Filter>Util</Filter>
+    </ClCompile>
+    <ClCompile Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\SDKs\OculusSDK\LibOVRKernel\Src\Util\Util_ImageWindow.cpp">
+      <Filter>Util</Filter>
+    </ClCompile>
+    <ClCompile Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\SDKs\OculusSDK\LibOVRKernel\Src\Util\Util_LongPollThread.cpp">
+      <Filter>Util</Filter>
+    </ClCompile>
+    <ClCompile Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\SDKs\OculusSDK\LibOVRKernel\Src\Util\Util_SystemGUI.cpp">
+      <Filter>Util</Filter>
+    </ClCompile>
+    <ClCompile Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\SDKs\OculusSDK\LibOVRKernel\Src\Util\Util_SystemInfo.cpp">
+      <Filter>Util</Filter>
+    </ClCompile>
+    <ClCompile Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\SDKs\OculusSDK\LibOVRKernel\Src\Util\Util_Watchdog.cpp">
+      <Filter>Util</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\SDKs\OculusSDK\LibOVRKernel\Src\GL\CAPI_GLE.h">
+      <Filter>GL</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\SDKs\OculusSDK\LibOVRKernel\Src\GL\CAPI_GLE_GL.h">
+      <Filter>GL</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\SDKs\OculusSDK\LibOVRKernel\Src\Kernel\OVR_Alg.h">
+      <Filter>LibOVRKernel</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\SDKs\OculusSDK\LibOVRKernel\Src\Kernel\OVR_Allocator.h">
+      <Filter>LibOVRKernel</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\SDKs\OculusSDK\LibOVRKernel\Src\Kernel\OVR_Array.h">
+      <Filter>LibOVRKernel</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\SDKs\OculusSDK\LibOVRKernel\Src\Kernel\OVR_Atomic.h">
+      <Filter>LibOVRKernel</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\SDKs\OculusSDK\LibOVRKernel\Src\Kernel\OVR_Callbacks.h">
+      <Filter>LibOVRKernel</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\SDKs\OculusSDK\LibOVRKernel\Src\Kernel\OVR_CallbacksInternal.h">
+      <Filter>LibOVRKernel</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\SDKs\OculusSDK\LibOVRKernel\Src\Kernel\OVR_Color.h">
+      <Filter>LibOVRKernel</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\SDKs\OculusSDK\LibOVRKernel\Src\Kernel\OVR_Compiler.h">
+      <Filter>LibOVRKernel</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\SDKs\OculusSDK\LibOVRKernel\Src\Kernel\OVR_ContainerAllocator.h">
+      <Filter>LibOVRKernel</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\SDKs\OculusSDK\LibOVRKernel\Src\Kernel\OVR_CRC32.h">
+      <Filter>LibOVRKernel</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\SDKs\OculusSDK\LibOVRKernel\Src\Kernel\OVR_DebugHelp.h">
+      <Filter>LibOVRKernel</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\SDKs\OculusSDK\LibOVRKernel\Src\Kernel\OVR_Delegates.h">
+      <Filter>LibOVRKernel</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\SDKs\OculusSDK\LibOVRKernel\Src\Kernel\OVR_Deque.h">
+      <Filter>LibOVRKernel</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\SDKs\OculusSDK\LibOVRKernel\Src\Kernel\OVR_File.h">
+      <Filter>LibOVRKernel</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\SDKs\OculusSDK\LibOVRKernel\Src\Kernel\OVR_Hash.h">
+      <Filter>LibOVRKernel</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\SDKs\OculusSDK\LibOVRKernel\Src\Kernel\OVR_JSON.h">
+      <Filter>LibOVRKernel</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\SDKs\OculusSDK\LibOVRKernel\Src\Kernel\OVR_KeyCodes.h">
+      <Filter>LibOVRKernel</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\SDKs\OculusSDK\LibOVRKernel\Src\Kernel\OVR_List.h">
+      <Filter>LibOVRKernel</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\SDKs\OculusSDK\LibOVRKernel\Src\Kernel\OVR_Lockless.h">
+      <Filter>LibOVRKernel</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\SDKs\OculusSDK\LibOVRKernel\Src\Kernel\OVR_Log.h">
+      <Filter>LibOVRKernel</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\SDKs\OculusSDK\LibOVRKernel\Src\Kernel\OVR_mach_exc_OSX.h">
+      <Filter>LibOVRKernel</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\SDKs\OculusSDK\LibOVRKernel\Src\Kernel\OVR_NewOverride.inl">
+      <Filter>LibOVRKernel</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\SDKs\OculusSDK\LibOVRKernel\Src\Kernel\OVR_Nullptr.h">
+      <Filter>LibOVRKernel</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\SDKs\OculusSDK\LibOVRKernel\Src\Kernel\OVR_Rand.h">
+      <Filter>LibOVRKernel</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\SDKs\OculusSDK\LibOVRKernel\Src\Kernel\OVR_RefCount.h">
+      <Filter>LibOVRKernel</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\SDKs\OculusSDK\LibOVRKernel\Src\Kernel\OVR_SharedMemory.h">
+      <Filter>LibOVRKernel</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\SDKs\OculusSDK\LibOVRKernel\Src\Kernel\OVR_Std.h">
+      <Filter>LibOVRKernel</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\SDKs\OculusSDK\LibOVRKernel\Src\Kernel\OVR_String.h">
+      <Filter>LibOVRKernel</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\SDKs\OculusSDK\LibOVRKernel\Src\Kernel\OVR_StringHash.h">
+      <Filter>LibOVRKernel</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\SDKs\OculusSDK\LibOVRKernel\Src\Kernel\OVR_SysFile.h">
+      <Filter>LibOVRKernel</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\SDKs\OculusSDK\LibOVRKernel\Src\Kernel\OVR_System.h">
+      <Filter>LibOVRKernel</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\SDKs\OculusSDK\LibOVRKernel\Src\Kernel\OVR_ThreadCommandQueue.h">
+      <Filter>LibOVRKernel</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\SDKs\OculusSDK\LibOVRKernel\Src\Kernel\OVR_Threads.h">
+      <Filter>LibOVRKernel</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\SDKs\OculusSDK\LibOVRKernel\Src\Kernel\OVR_Timer.h">
+      <Filter>LibOVRKernel</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\SDKs\OculusSDK\LibOVRKernel\Src\Kernel\OVR_Types.h">
+      <Filter>LibOVRKernel</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\SDKs\OculusSDK\LibOVRKernel\Src\Kernel\OVR_UTF8Util.h">
+      <Filter>LibOVRKernel</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\SDKs\OculusSDK\LibOVRKernel\Src\Kernel\OVR_Win32_IncludeWindows.h">
+      <Filter>LibOVRKernel</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\SDKs\OculusSDK\Logging\include\Logging_Library.h">
+      <Filter>Logging</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\SDKs\OculusSDK\Logging\include\Logging_OutputPlugins.h">
+      <Filter>Logging</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\SDKs\OculusSDK\Logging\include\Logging_Tools.h">
+      <Filter>Logging</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\SDKs\OculusSDK\LibOVR\Include\OVR_CAPI.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\SDKs\OculusSDK\LibOVR\Include\OVR_CAPI_Audio.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\SDKs\OculusSDK\LibOVR\Include\OVR_CAPI_D3D.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\SDKs\OculusSDK\LibOVR\Include\OVR_CAPI_GL.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\SDKs\OculusSDK\LibOVR\Include\OVR_CAPI_Keys.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\SDKs\OculusSDK\LibOVR\Include\OVR_ErrorCode.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\SDKs\OculusSDK\LibOVR\Include\OVR_Version.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\SDKs\OculusSDK\LibOVR\Include\Extras\OVR_CAPI_Util.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\SDKs\OculusSDK\LibOVR\Include\Extras\OVR_Math.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\SDKs\OculusSDK\LibOVR\Include\Extras\OVR_StereoProjection.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\SDKs\OculusSDK\LibOVR\Src\Resources\Windows\resource.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\SDKs\OculusSDK\3rdParty\TinyXml\tinyxml2.h">
+      <Filter>TinyXml</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\SDKs\OculusSDK\LibOVRKernel\Src\Util\Util_Direct3D.h">
+      <Filter>Util</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\SDKs\OculusSDK\LibOVRKernel\Src\Util\Util_GL_Blitter.h">
+      <Filter>Util</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\SDKs\OculusSDK\LibOVRKernel\Src\Util\Util_ImageWindow.h">
+      <Filter>Util</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\SDKs\OculusSDK\LibOVRKernel\Src\Util\Util_LongPollThread.h">
+      <Filter>Util</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\SDKs\OculusSDK\LibOVRKernel\Src\Util\Util_SystemGUI.h">
+      <Filter>Util</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\SDKs\OculusSDK\LibOVRKernel\Src\Util\Util_SystemInfo.h">
+      <Filter>Util</Filter>
+    </ClInclude>
+    <ClInclude Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\SDKs\OculusSDK\LibOVRKernel\Src\Util\Util_Watchdog.h">
+      <Filter>Util</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\Libs\oculus\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\SDKs\OculusSDK\LibOVR\Src\Resources\Windows\Oculus.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="I:\Crytek\CRYENGINE Launcher\SourceCode\bigspring-cry\CRYENGINE\Code\SDKs\OculusSDK\LibOVR\Src\Resources\Windows\LibOVR.rc">
+      <Filter>Source Files</Filter>
+    </ResourceCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{526B85B2-5AEE-326C-94F9-8CC53F3E69CC}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{A920178B-E5D3-330D-9F11-D51D6B14FD2A}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="GL">
+      <UniqueIdentifier>{107550A9-5485-3FA6-8EB4-F990ED4A52BC}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="LibOVRKernel">
+      <UniqueIdentifier>{44838E7F-A9B2-3003-A209-C787D15481BF}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Logging">
+      <UniqueIdentifier>{537E23F8-B21D-3779-A54E-AD2E05CE2DEF}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="TinyXml">
+      <UniqueIdentifier>{9086D5FA-1AD6-3537-A332-36A3629D9113}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Util">
+      <UniqueIdentifier>{D89BAA2B-96D0-37C6-A6A5-E3C579B9CF4C}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
